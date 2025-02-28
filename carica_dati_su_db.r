@@ -8,7 +8,7 @@ con <- dbConnect(
   host = "localhost",
   port = 5432,
   user = "postgres",
-  password = "postgres"  # Sostituisci con la tua password
+  password = "postgres"
 )
 
 # Funzione per caricare un CSV in una tabella PostgreSQL
