@@ -13,7 +13,7 @@ con <- dbConnect(
   host = "localhost",
   port = 5432,
   user = "postgres",
-  password = "postgres"  # Sostituisci con la tua password
+  password = "postgres"
 )
 
 #############################
