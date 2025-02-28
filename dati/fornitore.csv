@@ -1,0 +1,101 @@
+id_fornitore,nome,cap,indirizzo,provincia,via,numerocivico,paese
+1,Fornitore Tommaseo SPA,30259,"Via Goffredo, 65",Carbonia-Iglesias,Viale Piermaria,21,Italia
+2,"Fornitore Parini, Palazzo e Antelami e figli",91167,"Rotonda Lucarelli, 677",Livorno,Incrocio Sandra,58,Italia
+3,Fornitore Orengo-Legnante s.r.l.,18002,"Borgo Marcantonio, 59",Imperia,Piazza Goffredo,98,Italia
+4,"Fornitore Cilea, Siffredi e Ferrara e figli",66049,"Strada Giacconi, 2 Piano 3",Viterbo,Canale Fulvio,62,Italia
+5,Fornitore Greggio-Cuzzocrea s.r.l.,53897,"Borgo Randazzo, 30",Reggio Emilia,Vicolo Gianpaolo,58,Italia
+6,Fornitore Maderna-Spallanzani Group,15741,"Canale Bettina, 82",Oristano,Rotonda Bonanno,154,Italia
+7,Fornitore Iacobucci-Ammaniti Group,18892,"Stretto Ermes, 4",Avellino,Viale Mariana,154,Italia
+8,"Fornitore Santi, Pedersoli e Dibiasi SPA",54593,"Vicolo Elena, 34",Latina,Borgo Polizzi,159,Italia
+9,"Fornitore Gabrieli, Bernardi e Ferrazzi Group",85487,"Rotonda Patrizio, 522 Piano 1",Pistoia,Contrada Einaudi,190,Italia
+10,Fornitore Boitani-Modiano SPA,22408,"Incrocio Giovanna, 374",Crotone,Incrocio Morrocco,158,Italia
+11,"Fornitore Toscanini, Bevilacqua e Rinaldi e figli",74216,"Vicolo Torquato, 824",Pavia,Via Campano,3,Italia
+12,Fornitore Ricci-Gioberti e figli,74187,"Borgo Ermenegildo, 43",Teramo,Rotonda Palladio,64,Italia
+13,Fornitore Saracino s.r.l.,64961,"Contrada Polizzi, 9",Foggia,Stretto Ficino,61,Italia
+14,"Fornitore Lovato, Rizzoli e Rastelli Group",36226,"Stretto Gibilisco, 167 Piano 6",Piacenza,Via Tullio,132,Italia
+15,"Fornitore Nitto, Stein e Saffi SPA",36572,"Rotonda Dionigi, 1 Appartamento 70",Cosenza,Strada Ermenegildo,79,Italia
+16,Fornitore Majorana-Papetti Group,23479,"Via Michelangelo, 124",Arezzo,Incrocio Mariano,27,Italia
+17,Fornitore Lattuada-Argurio Group,52690,"Contrada Manuel, 5",Torino,Incrocio Odescalchi,127,Italia
+18,Fornitore Einaudi-Berlusconi Group,42509,"Rotonda Dolores, 42 Piano 5",Crotone,Borgo Salvo,175,Italia
+19,Fornitore Cesaroni e figli,38769,"Stretto Tomaselli, 4",Aosta,Incrocio Guariento,100,Italia
+20,Fornitore Munari-Niggli SPA,49138,"Contrada Passalacqua, 3",Ravenna,Borgo Zamorani,118,Italia
+21,"Fornitore Sforza, Zecchini e Schiaparelli s.r.l.",34224,"Canale Franco, 4",Oristano,Borgo Calogero,96,Italia
+22,"Fornitore Giusti, Santorio e Carullo Group",86241,"Via Ricciardi, 62 Appartamento 11",Pesaro e Urbino,Contrada Alessio,18,Italia
+23,Fornitore Crespi-Brenna SPA,49246,"Contrada Stefano, 74",Siracusa,Contrada Natalia,64,Italia
+24,"Fornitore Golino, Broschi e Duse Group",84719,"Rotonda Claudia, 478 Appartamento 4",Ragusa,Piazza Gian,187,Italia
+25,Fornitore Semitecolo SPA,16102,"Borgo Cuzzocrea, 64 Appartamento 2",Benevento,Strada Mazzini,71,Italia
+26,Fornitore Cortese-Binaghi SPA,56929,"Incrocio Giuliana, 18",Udine,Strada Giorgio,137,Italia
+27,Fornitore Pascarella e figli,59466,"Contrada Dolores, 51 Piano 3",Trapani,Rotonda Rastelli,160,Italia
+28,Fornitore Gori-Marconi s.r.l.,73858,"Viale Teresa, 67 Appartamento 4",Vibo Valentia,Viale Mazzocchi,119,Italia
+29,Fornitore Ferragamo SPA,88074,"Canale Pizziol, 68",Cremona,Contrada Stefani,149,Italia
+30,Fornitore Niscoromni SPA,13049,"Piazza Fracci, 75 Appartamento 6",Belluno,Contrada Natta,50,Italia
+31,"Fornitore Garozzo, Giulietti e Garozzo e figli",68978,"Incrocio Giovanna, 76 Appartamento 65",Ogliastra,Viale Leone,196,Italia
+32,Fornitore Zola-Virgilio e figli,22261,"Stretto Sante, 54 Piano 1",Avellino,Borgo Giuseppe,66,Italia
+33,Fornitore Stefanelli-Fabrizi SPA,85852,"Rotonda Udinesi, 634 Piano 0",Siracusa,Canale Corrado,136,Italia
+34,Fornitore Goldstein e figli,60855,"Vicolo Roncalli, 29",Siena,Stretto Ramona,52,Italia
+35,Fornitore Santi s.r.l.,36748,"Canale Zanichelli, 3",Cagliari,Piazza Badoer,11,Italia
+36,Fornitore Frescobaldi s.r.l.,24760,"Stretto Tassoni, 6",Caltanissetta,Borgo Combi,71,Italia
+37,Fornitore Sagnelli-Zanazzo s.r.l.,92003,"Borgo Tasca, 71",Reggio Emilia,Vicolo Boccioni,160,Italia
+38,Fornitore Morellato-Garrone Group,97475,"Via Matteo, 3 Appartamento 33",Ogliastra,Via Gussoni,191,Italia
+39,Fornitore Varano-Panatta s.r.l.,80089,"Rotonda Favata, 772",Verona,Incrocio Simeoni,46,Italia
+40,Fornitore Tarantino SPA,50167,"Contrada Lercari, 15",Cuneo,Incrocio Garrone,147,Italia
+41,Fornitore Lamborghini e figli,72569,"Piazza Giuseppe, 34 Appartamento 65",Catanzaro,Contrada Fausto,16,Italia
+42,Fornitore Detti-Baggio e figli,74144,"Incrocio Valentina, 763 Appartamento 54",Vibo Valentia,Piazza Ranieri,141,Italia
+43,Fornitore Tacchini-Saffi Group,21478,"Via Rossini, 58 Appartamento 9",Trieste,Incrocio Travaglio,54,Italia
+44,"Fornitore Bruscantini, Carfagna e Majewski s.r.l.",40962,"Piazza Pierpaolo, 19",Venezia,Strada Giannetti,115,Italia
+45,Fornitore Manacorda-Brunello SPA,19333,"Vicolo Rosaria, 6",Arezzo,Borgo Monti,52,Italia
+46,"Fornitore Galvani, Mercati e Grifeo e figli",59863,"Borgo Micca, 145 Appartamento 5",Frosinone,Strada Maderna,114,Italia
+47,Fornitore Ammaniti Group,23033,"Rotonda Ivo, 90 Piano 8",Trapani,Borgo Edoardo,95,Italia
+48,"Fornitore Doria, Adinolfi e Navone SPA",81923,"Vicolo Ippazio, 34",Isernia,Canale Bresciani,46,Italia
+49,Fornitore Barracco-Bragadin s.r.l.,13304,"Via Gianni, 769 Piano 0",Vicenza,Piazza Oscuro,71,Italia
+50,"Fornitore Berrè, Cimini e Maderno Group",78723,"Canale Majewski, 541",Foggia,Stretto Nicoletta,89,Italia
+51,"Fornitore Luzi, Pacelli e Tafuri s.r.l.",65221,"Strada Zola, 359 Appartamento 9",Caltanissetta,Viale Romeo,64,Italia
+52,Fornitore Dandolo-Novaro e figli,26763,"Via Micheletto, 3 Piano 1",Vicenza,Stretto Mogherini,143,Italia
+53,Fornitore Santoro Group,15462,"Piazza Fabrizio, 83 Piano 0",Savona,Borgo Dovara,84,Italia
+54,Fornitore Bongiorno s.r.l.,73831,"Incrocio Offredi, 5",Enna,Vicolo Oliboni,93,Italia
+55,Fornitore Vitturi-Colletti e figli,68411,"Borgo Gianpietro, 25 Piano 7",Bolzano,Contrada Jacopo,150,Italia
+56,Fornitore Saragat Group,96464,"Piazza Romeo, 1 Piano 7",Vicenza,Vicolo Pisaroni,91,Italia
+57,"Fornitore Gotti, Bernardini e Bernardi s.r.l.",15270,"Stretto Brichese, 52",Rieti,Rotonda Emilio,75,Italia
+58,"Fornitore Riccardi, Niscoromni e Pometta SPA",88683,"Canale Ricciotti, 9",Ravenna,Borgo Lanfranchi,6,Italia
+59,"Fornitore Bocelli, Pergolesi e Zarlino Group",50095,"Via Costanzo, 1 Piano 5",Caltanissetta,Viale Ferdinando,23,Italia
+60,Fornitore Germano s.r.l.,54818,"Borgo Bianca, 6 Piano 7",Perugia,Viale Roman,97,Italia
+61,"Fornitore Manolesso, Vidoni e Lettiere s.r.l.",95138,"Vicolo Taliani, 2",Modena,Rotonda Dino,92,Italia
+62,"Fornitore Bernardini, Porzio e Filangieri SPA",47662,"Incrocio Antonino, 419",Pavia,Piazza Soprano,97,Italia
+63,Fornitore Tamburi-Biagi SPA,16651,"Piazza Tomasini, 749",Campobasso,Vicolo Lina,150,Italia
+64,"Fornitore Giulietti, Pascarella e Ceravolo Group",48968,"Borgo Luca, 9 Piano 5",Mantova,Strada Padovano,161,Italia
+65,Fornitore Grasso e figli,96669,"Canale Malpighi, 0",Treviso,Vicolo Antonello,93,Italia
+66,Fornitore Campanella e figli,12043,"Rotonda Eva, 591 Piano 0",Chieti,Vicolo Dulbecco,193,Italia
+67,Fornitore Carfagna-Ossola SPA,66687,"Borgo Margherita, 79",Viterbo,Canale Guido,40,Italia
+68,"Fornitore Asprucci, Tremonti e Pincherle Group",67107,"Canale Trillini, 13",Pistoia,Contrada Pier,133,Italia
+69,"Fornitore Michelangeli, Nitti e Lattuada s.r.l.",76044,"Via Mogherini, 80 Appartamento 58",Varese,Incrocio Cutuli,28,Italia
+70,Fornitore Argurio e figli,80700,"Piazza Ugolino, 76",Siena,Rotonda Magrassi,195,Italia
+71,Fornitore Campanella s.r.l.,83967,"Strada Fo, 87 Piano 4",Siracusa,Borgo Morellato,192,Italia
+72,Fornitore Odescalchi e figli,77914,"Strada Boccherini, 36 Piano 1",Asti,Canale Damiano,148,Italia
+73,Fornitore Paruta Group,87926,"Incrocio Panfilo, 7 Piano 1",Carbonia-Iglesias,Rotonda Turchi,143,Italia
+74,"Fornitore Ludovisi, Segni e Fieramosca s.r.l.",25456,"Vicolo Aporti, 69 Piano 1",Caltanissetta,Stretto Goldoni,72,Italia
+75,Fornitore Battaglia-Belletini SPA,74084,"Via Riccardi, 4 Piano 8",Avellino,Piazza Enrico,91,Italia
+76,"Fornitore Mimun, Munari e Offredi s.r.l.",17505,"Strada Camillo, 561 Piano 6",Cremona,Canale Alberico,107,Italia
+77,"Fornitore Petrucelli, Parisi e Filogamo e figli",64790,"Canale Alderano, 7",Alessandria,Canale Marcantonio,119,Italia
+78,"Fornitore Ceschi, Gori e Agostinelli e figli",38002,"Borgo Adinolfi, 156",Ancona,Via Onisto,48,Italia
+79,Fornitore Cimarosa SPA,22598,"Canale Elisa, 1",Perugia,Vicolo Pomponio,115,Italia
+80,"Fornitore Barese, Monaco e Cerutti s.r.l.",51439,"Contrada Quasimodo, 9 Appartamento 30",Avellino,Strada Calbo,173,Italia
+81,Fornitore Pozzecco-Ruffini Group,42206,"Piazza Villarosa, 5 Appartamento 3",Lecce,Vicolo Pedersoli,80,Italia
+82,Fornitore Veltroni Group,69301,"Stretto Nino, 5 Piano 2",Viterbo,Viale Baldassare,166,Italia
+83,Fornitore Praga SPA,29809,"Viale Bernardini, 177",Vibo Valentia,Borgo Tamburi,13,Italia
+84,Fornitore Tamburi s.r.l.,47162,"Vicolo Donini, 570 Appartamento 48",Ferrara,Rotonda Brichese,117,Italia
+85,Fornitore Salvini s.r.l.,73437,"Via Stefani, 2 Piano 5",Varese,Canale Giacobbe,53,Italia
+86,"Fornitore Guinizzelli, Paganini e Bernardini s.r.l.",28082,"Rotonda Cesare, 63",Novara,Via Zecchini,185,Italia
+87,"Fornitore Lucchesi, Finotto e Sabatini SPA",65318,"Stretto Barillaro, 226 Piano 4",Como,Strada Fioravanti,53,Italia
+88,Fornitore Tresoldi s.r.l.,23146,"Piazza Gioacchino, 39",La Spezia,Stretto Tonia,63,Italia
+89,Fornitore Morricone-Valmarana e figli,80559,"Rotonda Azeglio, 66 Piano 0",Lucca,Borgo Telesio,150,Italia
+90,Fornitore Foscari-Rossini Group,28840,"Stretto Toni, 960",Lecce,Viale Carocci,147,Italia
+91,Fornitore Orlando-Gibilisco SPA,89288,"Contrada Simone, 85 Appartamento 88",Terni,Borgo Gianluca,88,Italia
+92,"Fornitore Golgi, Serlupi e Branciforte Group",42857,"Vicolo Rosalia, 5 Piano 1",Udine,Borgo Malpighi,9,Italia
+93,Fornitore Casadei-Guicciardini s.r.l.,48149,"Strada Antonioni, 44 Piano 8",Massa-Carrara,Vicolo Cristina,57,Italia
+94,"Fornitore Tommaseo, Ricciardi e Morandini e figli",90374,"Canale Maggioli, 98 Piano 6",Milano,Rotonda Ermenegildo,106,Italia
+95,Fornitore Littizzetto-Dovara Group,13048,"Contrada Goldstein, 35 Piano 8",Chieti,Vicolo Solari,7,Italia
+96,Fornitore Verga SPA,94908,"Vicolo Victoria, 43",Bolzano,Piazza Pasolini,119,Italia
+97,Fornitore Napolitano-Pirandello Group,45704,"Contrada Dina, 69 Appartamento 81",Medio Campidano,Stretto Ceravolo,161,Italia
+98,Fornitore Foletti e figli,37530,"Viale Stradivari, 94 Piano 1",Gorizia,Stretto Fabrizia,15,Italia
+99,"Fornitore Verdi, Bonaventura e Morosini SPA",32690,"Contrada Rossana, 145 Appartamento 1",Nuoro,Via Mezzetta,37,Italia
+100,Fornitore Cardano-Castelli e figli,57944,"Strada Gianluigi, 43 Piano 7",Caltanissetta,Vicolo Ammaniti,128,Italia

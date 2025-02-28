@@ -1,0 +1,2001 @@
+id_cliente,id_mercato,id_agente,nome,cap,provincia,via,numerocivico,paese
+1,13,3,Ferdinando Pietrangeli,51343,Salerno,Via Loretta,90,Italia
+2,3,34,Sandro Lucchesi,67782,Rieti,Piazza Griselda,112,Italia
+3,15,26,Dott. Eleanora Curatoli,34443,Matera,Rotonda Lercari,128,Italia
+4,18,44,Alina Montecchi,68712,Macerata,Vicolo Graziella,160,Italia
+5,25,48,Olga Comisso,55834,Treviso,Vicolo Panfilo,54,Italia
+6,6,46,Mauro Bertoli,19564,Viterbo,Strada Armando,174,Italia
+7,21,47,Dott. Antonia Tebaldi,83724,Agrigento,Vicolo Baroffio,48,Italia
+8,7,23,Sig. Guglielmo Mantegazza,64977,Reggio Emilia,Piazza Barbara,106,Italia
+9,1,10,Antonella Eco,98779,Pesaro e Urbino,Borgo Musatti,23,Italia
+10,7,26,Sebastiano Barberini,44017,Siracusa,Vicolo Valeria,99,Italia
+11,1,32,Toni Tamburello-Zetticci,45256,Bolzano,Incrocio Almagià,64,Italia
+12,23,30,Anita Visintini-Fattori,35997,Enna,Viale Emo,155,Italia
+13,13,15,Giorgia Galilei,82813,Pisa,Incrocio Ferretti,40,Italia
+14,13,22,Virgilio Malipiero-Pezzali,19092,Firenze,Incrocio Margherita,87,Italia
+15,9,5,Antonella Rapisardi-Murialdo,95251,Oristano,Incrocio Filogamo,45,Italia
+16,2,43,Dott. Santino Iannelli,47281,Aosta,Rotonda Fiorino,5,Italia
+17,11,38,Liana Pignatti,50946,Siracusa,Rotonda Lettiere,17,Italia
+18,1,43,Telemaco Maderna,99510,Padova,Viale Costantino,152,Italia
+19,17,10,Stefania Argurio,65747,Campobasso,Canale Mirko,118,Italia
+20,20,40,Carmelo Caetani,65480,Benevento,Strada Alderano,176,Italia
+21,3,33,Giulio Garozzo-Avogadro,59334,Avellino,Rotonda Cremonesi,7,Italia
+22,5,8,Veronica Vismara-Bettin,91283,Imperia,Incrocio Capuana,134,Italia
+23,20,46,Sig. Pomponio Boldù,25055,Salerno,Via Benedetti,13,Italia
+24,8,36,Veronica Giannetti,70374,Potenza,Vicolo Mennea,129,Italia
+25,13,42,Sig. Giuseppe Tropea,25535,Trieste,Piazza Curatoli,47,Italia
+26,17,23,Goffredo Moresi,34657,Fermo,Via Montalti,177,Italia
+27,10,44,Enzio Bragaglia-Conte,63450,Cuneo,Via Tedesco,123,Italia
+28,13,10,Luciana Asmundo,96477,Viterbo,Viale Luca,30,Italia
+29,12,10,Cecilia Tosi,66017,Potenza,Rotonda Orlando,178,Italia
+30,14,45,Lucia Villadicani-Faranda,40037,Fermo,Viale Lazzaro,169,Italia
+31,7,10,Domenico Spallanzani,64102,Gorizia,Incrocio Azeglio,135,Italia
+32,7,5,Alberico Tencalla,55032,Fermo,Viale Raimondo,192,Italia
+33,14,45,Roberta Berlusconi,41184,Brindisi,Rotonda Damiano,180,Italia
+34,4,40,Ermanno Salgari,18161,Agrigento,Via Liberto,195,Italia
+35,12,8,Sole Visintini,21953,Macerata,Borgo Niscoromni,141,Italia
+36,19,41,Pasquale Valguarnera,68993,Reggio Emilia,Piazza Napoleone,91,Italia
+37,19,2,Luchino Iadanza,77982,Lodi,Via Ricolfi,141,Italia
+38,11,5,Sig.ra Lina Tozzo,79703,Ancona,Stretto Versace,164,Italia
+39,17,47,Dott. Monica Pareto,15567,Udine,Contrada Ludovico,97,Italia
+40,25,30,Gian Orlando-Petralli,53799,Gorizia,Canale Cassarà,57,Italia
+41,20,6,Martina Calvo,37810,Verona,Via Giacomo,77,Italia
+42,21,13,Sig.ra Simonetta Venditti,79095,Potenza,Viale Ritacca,18,Italia
+43,18,47,Victoria Canetta,79868,Cremona,Viale Liana,117,Italia
+44,14,5,Martino Fantoni,11175,Gorizia,Borgo Russo,40,Italia
+45,23,6,Gianna Bosurgi-Crespi,38890,Trapani,Via Tullio,151,Italia
+46,5,12,Nicola Rienzo,77537,Bari,Rotonda Giampaolo,132,Italia
+47,21,26,Benito Mastandrea,76991,Ascoli Piceno,Borgo Lucrezia,170,Italia
+48,7,49,Giuliana Doglioni,41547,Oristano,Canale Claudio,178,Italia
+49,4,31,Ippazio Casalodi-Turchi,93538,Rovigo,Rotonda Nitti,151,Italia
+50,10,18,Sig. Pasqual Boldù,61203,Catania,Piazza Caterina,124,Italia
+51,12,15,Beatrice Chigi,92345,Macerata,Vicolo Guglielmo,175,Italia
+52,11,27,Matteo Curci,72847,Verona,Canale Paltrinieri,83,Italia
+53,9,46,Gelsomina Gregorio,27678,Isernia,Canale Petruzzi,100,Italia
+54,17,25,Dott. Griselda Calgari,47843,Carbonia-Iglesias,Canale Leonetti,174,Italia
+55,23,12,Sig. Camillo Petrassi,46803,Pavia,Rotonda Santino,3,Italia
+56,23,34,Enrico Rosiello,31353,Lecco,Via Stefano,174,Italia
+57,19,8,Nicolò Babbo-Asmundo,69484,Parma,Stretto Damiano,120,Italia
+58,21,4,Patrizia Valmarana,35284,L'Aquila,Piazza Smirnoff,108,Italia
+59,19,2,Francesco Brugnaro,69401,Pistoia,Stretto Barbara,85,Italia
+60,2,44,Valentina Sagnelli,71916,Latina,Canale Ermes,141,Italia
+61,2,24,Dante Zanichelli,96854,Monza e della Brianza,Viale Barbara,91,Italia
+62,2,8,Pierpaolo Manacorda,64602,Caltanissetta,Incrocio Vanessa,31,Italia
+63,1,41,Daniele Pedersoli,99594,Terni,Viale Flaiano,125,Italia
+64,8,45,Veronica Borromeo,41963,Barletta-Andria-Trani,Stretto Verri,198,Italia
+65,8,44,Rosa Brenna-Grasso,76685,Siracusa,Vicolo Gravina,138,Italia
+66,2,6,Nino Petralli-Monte,17247,Ragusa,Canale Federigo,104,Italia
+67,12,26,Elena Antonacci,84145,Ferrara,Piazza Bertoni,33,Italia
+68,17,23,Valentina Orsini,65435,Terni,Stretto Monteverdi,60,Italia
+69,14,29,Maria Doglioni-Pertini,51582,Rimini,Borgo Morandi,40,Italia
+70,4,34,Alderano Fagotto,97475,Ascoli Piceno,Canale Viridiana,16,Italia
+71,19,34,Cassandra Deledda-Aldobrandi,15570,Verona,Contrada Polani,168,Italia
+72,17,39,Mariano Gianetti,27028,Ferrara,Vicolo Monteverdi,181,Italia
+73,14,20,Mariano Giannini,20585,Bari,Borgo Berenice,26,Italia
+74,9,22,Fabrizio Basso,85842,Latina,Vicolo Mariana,199,Italia
+75,23,25,Susanna Padovano,52643,Biella,Rotonda Aldobrandi,174,Italia
+76,14,32,Alberico Serao,62018,Sondrio,Via Eliana,155,Italia
+77,6,3,Maurilio Trevisan,47003,Lodi,Viale Corcos,51,Italia
+78,10,1,Dott. Rocco Vianello,92430,Macerata,Piazza Stella,130,Italia
+79,10,40,Giulia Bramante,74021,Enna,Incrocio Scotti,32,Italia
+80,14,33,Arnaldo Franscini,61749,Crotone,Borgo Gianetti,46,Italia
+81,11,37,Marisa Paolucci,60480,Frosinone,Rotonda Antonietta,28,Italia
+82,16,42,Serena Zamengo-Muti,63361,Trapani,Borgo Amalia,93,Italia
+83,11,12,Gioffre Monaco-Garzoni,44241,Salerno,Via Achille,40,Italia
+84,24,36,Federica Aldobrandi,39750,Fermo,Piazza Fabrizio,136,Italia
+85,3,39,Matilda Bellucci,15910,Perugia,Incrocio Paoletti,117,Italia
+86,14,33,Galasso Montanariello,65549,Bologna,Canale Ettore,2,Italia
+87,7,22,Lauretta Federico-Barcaccia,22364,Barletta-Andria-Trani,Incrocio Mastandrea,36,Italia
+88,21,38,Micheletto Catenazzi-Renier,27682,Firenze,Piazza Coppola,45,Italia
+89,12,7,Marcello Montalti,62201,Verona,Incrocio Bosio,107,Italia
+90,16,49,Dott. Nanni Manunta,76448,Olbia-Tempio,Contrada Erika,187,Italia
+91,25,35,Calogero Troisi,59240,Campobasso,Stretto Durante,169,Italia
+92,24,34,Sig. Giuseppe Saracino,44178,Barletta-Andria-Trani,Canale Giuseppe,82,Italia
+93,19,22,Mariana Maffei,60432,Roma,Viale Virginia,200,Italia
+94,2,27,Letizia Palombi,59027,Udine,Canale Cociarelli,157,Italia
+95,15,20,Arnaldo Pastine,65604,Piacenza,Stretto Alberico,93,Italia
+96,24,30,Sig.ra Caterina Sinisi,88497,Nuoro,Borgo Rembrandt,9,Italia
+97,4,46,Cristina Bassi,73023,Bergamo,Piazza Asmundo,160,Italia
+98,6,19,Victoria Gentilini,58664,Cosenza,Stretto Ida,190,Italia
+99,1,14,Melina Sbarbaro,22126,Aosta,Rotonda Ferrabosco,53,Italia
+100,12,19,Sandra Speri,99600,Aosta,Contrada Sabatino,134,Italia
+101,10,38,Mariana Nicolini-Casini,42341,Udine,Via Interminei,124,Italia
+102,6,39,Salvatore Gabba-Finetti,10426,Rovigo,Incrocio Massimiliano,126,Italia
+103,20,46,Sante Longhena,65039,Mantova,Viale Giada,143,Italia
+104,8,2,Dott. Roberta Peranda,71889,Catanzaro,Strada Cardano,178,Italia
+105,19,12,Giovanni Argento,91001,Padova,Strada Fulvio,15,Italia
+106,7,11,Stefania Jilani,48725,Modena,Contrada Mattia,174,Italia
+107,20,36,Priscilla Giammusso,20142,Carbonia-Iglesias,Stretto Adamo,96,Italia
+108,17,4,Dott. Giada Venditti,55075,Bolzano,Contrada Saragat,168,Italia
+109,17,34,Vittorio Sgarbi,76528,Campobasso,Stretto Nicolucci,23,Italia
+110,7,6,Natalia Gioberti,91739,Perugia,Incrocio Ferdinando,18,Italia
+111,5,24,Laura Inzaghi,91211,Imperia,Vicolo Monicelli,30,Italia
+112,1,28,Natalia Berengario,70287,Salerno,Piazza Giorgia,81,Italia
+113,13,42,Gioacchino Abba,23053,Vicenza,Contrada Pomponio,103,Italia
+114,11,38,Tatiana Giorgetti,24436,Avellino,Incrocio Turci,70,Italia
+115,22,4,Ronaldo Galtarossa,65310,Vercelli,Incrocio Mazzini,125,Italia
+116,13,20,Jacopo Savorgnan-Offredi,95880,Siracusa,Stretto Malenchini,188,Italia
+117,9,6,Stefania Treccani,43318,Macerata,Contrada Giunti,173,Italia
+118,2,48,Ludovica Sibilia,57442,Messina,Piazza Papetti,175,Italia
+119,5,30,Romeo Sabatini,59019,Roma,Canale Gotti,175,Italia
+120,1,8,Sergius Cuzzocrea,89232,Palermo,Canale Antonacci,42,Italia
+121,5,47,Luciana Bragadin-Gilardoni,42175,Siracusa,Strada Fiorucci,82,Italia
+122,4,23,Licia Rastelli,87006,Belluno,Stretto Polani,28,Italia
+123,25,29,Gaspare Chindamo,72441,Prato,Viale Roberto,92,Italia
+124,10,44,Elvira Piccio,15742,Treviso,Contrada Zaira,185,Italia
+125,3,23,Gabriella Chiesa,35021,Carbonia-Iglesias,Stretto Falcone,80,Italia
+126,12,38,Vito Faranda,72011,Pescara,Stretto Totino,81,Italia
+127,6,18,Lucrezia Scarpa-Ossola,17608,Messina,Rotonda Petralli,147,Italia
+128,9,25,Dott. Gioele Dalla,29631,Lecce,Piazza Emma,133,Italia
+129,6,32,Dott. Aldo Benussi,89242,Pistoia,Strada Ansaldo,18,Italia
+130,1,25,Matilda Civaschi,12250,Genova,Stretto Alderano,112,Italia
+131,4,32,Vincenzo Gucci,92169,Agrigento,Via Malipiero,114,Italia
+132,21,7,Melania Borroni,54809,Cagliari,Strada Roncalli,114,Italia
+133,9,45,Elena Druso,32068,Genova,Canale Cattaneo,182,Italia
+134,12,18,Enzo Armani,61168,Padova,Incrocio Antonacci,193,Italia
+135,6,21,Melania Bevilacqua-Gaito,68728,Cremona,Incrocio Nicoletta,174,Italia
+136,15,44,Mattia Bixio,89293,Bergamo,Piazza Michelangeli,47,Italia
+137,14,38,Amedeo Parpinel,16841,Cremona,Viale Nino,35,Italia
+138,22,11,Dott. Roman Calbo,62967,Napoli,Viale Abbagnale,66,Italia
+139,15,4,Loretta Gianetti,34067,Cagliari,Rotonda Fallaci,115,Italia
+140,19,39,Melina Raimondi,74389,Barletta-Andria-Trani,Vicolo Foa,173,Italia
+141,17,36,Ennio Olivetti,80348,Rieti,Canale Giacobbe,51,Italia
+142,13,6,Giada Pagliaro,21522,Taranto,Borgo Canevascini,95,Italia
+143,24,22,Donna Rosmini,99307,Chieti,Strada Massimo,60,Italia
+144,8,20,Fortunata Bosio,10792,Crotone,Viale Trobbiani,196,Italia
+145,5,18,Costantino Camuccini-Serao,47400,Enna,Piazza Cimarosa,50,Italia
+146,11,20,Dott. Benito Visintini,16726,Barletta-Andria-Trani,Incrocio Maria,129,Italia
+147,6,18,Diana Mercalli,69509,Forlì-Cesena,Piazza Dante,35,Italia
+148,25,30,Vincentio Satriani,60413,Teramo,Viale Ruberto,98,Italia
+149,7,46,Cipriano Babati,79862,Rovigo,Incrocio Gianfranco,73,Italia
+150,8,28,Dott. Riccardo Michelangeli,44982,Forlì-Cesena,Rotonda Dalla,62,Italia
+151,15,50,Amalia Parmitano,54528,Viterbo,Piazza Pierina,169,Italia
+152,19,18,Lina Scarlatti,35256,Lecce,Borgo Isabella,62,Italia
+153,7,50,Goffredo Vattimo,34826,Nuoro,Stretto Maura,75,Italia
+154,13,28,Elvira Bossi,39525,Bergamo,Incrocio Rita,56,Italia
+155,18,11,Sig.ra Ornella Capone,17376,Carbonia-Iglesias,Strada Virginia,71,Italia
+156,1,3,Silvestro Mozart-Iadanza,85712,Pavia,Contrada Beccaria,112,Italia
+157,4,10,Giosuè Torricelli,33070,Asti,Canale Danilo,87,Italia
+158,5,8,Ruggiero Leone,76340,Brindisi,Viale Isa,104,Italia
+159,3,22,Antonia Boiardo-Rizzo,78032,Siena,Viale Prodi,172,Italia
+160,17,43,Gelsomina Galtarossa,97665,Roma,Via Cutuli,114,Italia
+161,16,31,Azeglio Argenti-Venditti,99698,Sondrio,Incrocio Iacobucci,97,Italia
+162,20,19,Torquato Camilleri,45503,Monza e della Brianza,Piazza Bernardi,154,Italia
+163,7,10,Sylvia Argan,79640,Verbano-Cusio-Ossola,Via Disdero,25,Italia
+164,22,25,Marina Capuana,94579,Ogliastra,Rotonda Romina,182,Italia
+165,1,23,Lucia Campise,27961,Asti,Strada Sandro,27,Italia
+166,15,48,Paola Bonanno,57846,Frosinone,Canale Gianmarco,87,Italia
+167,16,31,Sig. Annibale Gradenigo,59666,Trapani,Incrocio Zito,83,Italia
+168,24,18,Sabatino Polizzi,44277,Reggio Emilia,Contrada Cantimori,38,Italia
+169,18,20,Filippa Salieri,60734,Agrigento,Contrada Murialdo,35,Italia
+170,24,22,Giovanna Ziani,31223,Bologna,Incrocio Gioacchino,47,Italia
+171,11,49,Livia Lippomano-Vigorelli,63729,Sassari,Canale Pompeo,177,Italia
+172,16,3,Sig.ra Letizia Sforza,71650,Alessandria,Strada Carolina,179,Italia
+173,24,3,Gianluigi Ruberto,39425,Vicenza,Via Sauli,200,Italia
+174,20,30,Aria Cianciolo,11128,Roma,Viale Galtarossa,164,Italia
+175,23,34,Barbara Comencini,63775,Isernia,Stretto Folliero,191,Italia
+176,9,19,Daria Sraffa-Vivaldi,45814,L'Aquila,Contrada Lorenzo,183,Italia
+177,4,34,Roman Anguillara,27297,Teramo,Via Leopoldo,96,Italia
+178,23,37,Eva Bembo,17035,Oristano,Borgo Fortunata,172,Italia
+179,13,40,Luigina Parini,46467,Lodi,Rotonda Agnolo,193,Italia
+180,5,20,Dott. Gianluigi Briccialdi,94237,Cuneo,Via Mimun,188,Italia
+181,2,3,Vincenza Barozzi,88622,Crotone,Via Aporti,107,Italia
+182,6,30,Sig. Baccio Petrocelli,40385,Caltanissetta,Rotonda Paruta,141,Italia
+183,18,27,Lidia Tomasini,17745,Benevento,Viale Marco,108,Italia
+184,9,46,Marta Fabbri,99779,Brindisi,Piazza Guariento,169,Italia
+185,14,31,Stefania Cagnotto,12075,Palermo,Rotonda Giacomo,91,Italia
+186,6,50,Rosaria Brichese-Fieramosca,27044,Siena,Viale Mondaini,48,Italia
+187,10,31,Maria Russo,59971,Arezzo,Piazza Trebbi,44,Italia
+188,9,16,Bernardo Marini,59007,Massa-Carrara,Piazza Amanda,181,Italia
+189,11,18,Michela Volterra,90440,Reggio Emilia,Incrocio Montalcini,60,Italia
+190,11,28,Marcella Marconi,21350,Piacenza,Piazza Pina,179,Italia
+191,22,26,Annalisa Travaglio,14030,Catanzaro,Canale Flaiano,85,Italia
+192,12,13,Amalia Lettiere,41971,Milano,Viale Luigina,89,Italia
+193,4,29,Augusto Mazzini,28631,Trieste,Borgo Maurilio,114,Italia
+194,13,45,Paoletta Benigni,43400,Vicenza,Piazza Roberto,114,Italia
+195,10,23,Veronica Galuppi,98017,Rovigo,Strada Lara,81,Italia
+196,2,2,Calogero Mannoia,41383,Trento,Viale Bellini,28,Italia
+197,25,45,Ezio Branciforte-Peruzzi,82557,Napoli,Viale Cirillo,114,Italia
+198,22,30,Simone Murri,54776,Reggio Emilia,Rotonda Fedele,105,Italia
+199,15,1,Dott. Serena Tamburi,50817,Ogliastra,Vicolo Lucrezia,56,Italia
+200,16,45,Priscilla Depero,37542,Terni,Via Luigina,167,Italia
+201,4,3,Sig.ra Concetta Borromini,57201,Ragusa,Via Basso,128,Italia
+202,6,1,Sig.ra Gianna Ciampi,14245,La Spezia,Contrada Mastandrea,186,Italia
+203,17,26,Eraldo Mercati,56419,Brescia,Strada Antonio,150,Italia
+204,7,48,Dott. Ermenegildo Orsini,88680,Siena,Viale Mimun,197,Italia
+205,25,14,Lazzaro Toninelli,28003,Oristano,Rotonda Giampiero,30,Italia
+206,22,11,Tatiana Silvestri,65663,Cremona,Viale Pomponio,58,Italia
+207,10,11,Rosina Mazzanti,28989,Teramo,Incrocio Lisa,145,Italia
+208,8,30,Filippa Trobbiani,35262,Vercelli,Viale Gionata,97,Italia
+209,15,4,Gino Brunello,20008,Taranto,Stretto Geraci,138,Italia
+210,24,34,Dott. Alessandra Fracci,37327,Ferrara,Via Pisaroni,145,Italia
+211,3,22,Lilla Cagnin,79753,Messina,Strada Nordio,10,Italia
+212,17,30,Sig.ra Greca Soderini,54422,Cremona,Vicolo Giuseppe,63,Italia
+213,3,9,Alphons Cimini,55575,Ravenna,Strada Canetta,35,Italia
+214,13,25,Michela Alfieri-Gasperi,21617,Trieste,Stretto Ottino,95,Italia
+215,11,27,Sig. Pomponio Leone,80265,Cuneo,Via Panzera,70,Italia
+216,3,21,Ivo Bonaventura-Iacobucci,77428,Milano,Stretto Verga,143,Italia
+217,19,8,Massimiliano Berengario-Fantoni,50719,Rovigo,Contrada Ciro,50,Italia
+218,16,30,Loretta Vigorelli,70995,Imperia,Borgo Laureano,43,Italia
+219,6,22,Gelsomina Mantegna,37799,Enna,Canale Gargallo,132,Italia
+220,14,7,Rodolfo Binaghi,63701,Aosta,Canale Marcello,71,Italia
+221,23,8,Elisa Vercelloni,56743,Sondrio,Borgo Pierluigi,15,Italia
+222,22,40,Gaetano Boldù,13374,Frosinone,Via Tuzzolino,24,Italia
+223,9,33,Panfilo Schiavone,82543,Cagliari,Canale Stefania,81,Italia
+224,17,12,Dott. Ermanno Toso,77912,Oristano,Incrocio Rolando,192,Italia
+225,17,24,Dott. Nino Torricelli,43963,Enna,Strada Zetticci,54,Italia
+226,6,9,Giampiero Nitto,92621,Nuoro,Strada Ioppi,174,Italia
+227,5,25,Sig. Gianpaolo Scalfaro,29704,Varese,Canale Biagi,10,Italia
+228,22,18,Dott. Edoardo Salata,89078,Imperia,Via Umberto,1,Italia
+229,13,24,Filippa Bettoni,30710,Verona,Canale Nicoletta,66,Italia
+230,11,11,Carmelo Trapani,28379,Brindisi,Canale Savorgnan,138,Italia
+231,8,15,Ramona Palombi,63492,Reggio Emilia,Viale Pellegrino,126,Italia
+232,21,15,Maria Ottino-Boccherini,17449,Monza e della Brianza,Rotonda Victoria,122,Italia
+233,8,3,Sig. Alfredo Lercari,90049,Arezzo,Borgo Nicoletta,77,Italia
+234,11,43,Alberto Bramante,32265,Rimini,Rotonda Procacci,138,Italia
+235,22,8,Dott. Evangelista Aldobrandi,71487,Alessandria,Piazza Calvo,58,Italia
+236,24,8,Allegra Bianchini-Caruso,50344,Siracusa,Borgo Osvaldo,135,Italia
+237,5,43,Victoria Armani,85003,Belluno,Viale Tron,157,Italia
+238,24,13,Letizia Columbo-Scalera,47808,Mantova,Borgo Bosio,22,Italia
+239,14,4,Irma Peruzzi,45905,Grosseto,Canale Adele,36,Italia
+240,24,38,Sig.ra Rosina Cutrufo,99729,Ascoli Piceno,Borgo Roberto,2,Italia
+241,3,22,Lucrezia Manzoni,75431,Cagliari,Strada Prodi,3,Italia
+242,23,8,Armando Carli,24474,Potenza,Rotonda Marissa,148,Italia
+243,22,41,Adele Raurica,64681,Pordenone,Via Alfredo,100,Italia
+244,5,37,Gelsomina Corcos-Torlonia,15217,Frosinone,Via Mercedes,167,Italia
+245,25,6,Cristina Bongiorno,34232,Potenza,Contrada Mauro,145,Italia
+246,1,33,Dott. Rosalia Tiepolo,36241,Carbonia-Iglesias,Rotonda Andreozzi,151,Italia
+247,24,43,Luigina Nitto,65095,Pavia,Strada Gianluigi,48,Italia
+248,4,21,Olga Boaga,44402,Ragusa,Borgo Nico,67,Italia
+249,6,33,Lauretta Gozzi,15123,Mantova,Piazza Renault,150,Italia
+250,21,13,Leopoldo Sokolov,77535,Sassari,Contrada Capone,129,Italia
+251,11,47,Beatrice Camanni,74755,Aosta,Borgo Emma,50,Italia
+252,22,44,Romina Borrani,86937,Savona,Rotonda Vergerio,179,Italia
+253,1,7,Paola Carducci,37410,Verbano-Cusio-Ossola,Vicolo Roccabonella,33,Italia
+254,11,41,Clelia Marzorati-Foscari,21654,Verbano-Cusio-Ossola,Viale Ludovisi,24,Italia
+255,5,46,Gianni Cundari,25447,Gorizia,Stretto Cheda,62,Italia
+256,20,8,Sig. Marcello Leopardi,40763,Milano,Incrocio Castelli,192,Italia
+257,25,3,Vito Stradivari-Serraglio,82310,Teramo,Incrocio Lanfranchi,57,Italia
+258,1,9,Toni Ferrata,25686,Bolzano,Vicolo Emo,199,Italia
+259,5,22,Dott. Giancarlo Parisi,53660,Medio Campidano,Piazza Goffredo,26,Italia
+260,13,15,Girolamo Brichese,29920,Rimini,Incrocio Alphons,158,Italia
+261,11,38,Dott. Puccio Luxardo,88725,Terni,Piazza Petruzzi,110,Italia
+262,7,39,Michela Majorana,18433,Nuoro,Incrocio Pierpaolo,122,Italia
+263,5,21,Nadia Barsanti-Varano,66122,Pescara,Stretto Puccini,31,Italia
+264,10,50,Lidia Fiorucci,32940,Pavia,Vicolo Venancio,56,Italia
+265,10,14,Clelia Caffarelli-Manzoni,39376,Latina,Incrocio Martina,116,Italia
+266,8,14,Dott. Dante Cilea,77086,Bolzano,Strada Caterina,30,Italia
+267,8,20,Ranieri Opizzi-Michelangeli,38595,Carbonia-Iglesias,Strada Marcacci,6,Italia
+268,2,35,Dott. Raimondo Dalla,81895,Piacenza,Stretto Mattia,161,Italia
+269,1,15,Mercedes Guicciardini,45058,Siracusa,Rotonda Ludovico,127,Italia
+270,11,29,Salvatore Lettiere-Soderini,56872,Pordenone,Contrada Guido,91,Italia
+271,1,42,Ermenegildo Garzoni,19244,Ancona,Viale Ariasso,162,Italia
+272,14,18,Dina Abate,48082,Campobasso,Viale Ricciotti,183,Italia
+273,1,3,Virginia Fuseli,99003,Pordenone,Via Pierpaolo,134,Italia
+274,24,26,Giuseppina Lattuada-Pedrazzini,63209,Ferrara,Contrada Leone,150,Italia
+275,20,35,Giampaolo Saragat,74194,Ragusa,Stretto Campanella,187,Italia
+276,15,9,Donatella Ortolani,40069,Agrigento,Vicolo Franscini,60,Italia
+277,25,9,Giacobbe Ruggieri,10191,Firenze,Via Leone,11,Italia
+278,19,3,Sig.ra Aria Druso,36918,Genova,Borgo Bragadin,185,Italia
+279,23,14,Etta Moschino,84057,Udine,Contrada Pagnotto,51,Italia
+280,22,39,Francesco Morlacchi,56040,Mantova,Piazza Fausto,169,Italia
+281,14,17,Angelina Vento,71224,Aosta,Contrada Tutino,23,Italia
+282,6,26,Giuliana Colletti,52393,Prato,Rotonda Sinisi,151,Italia
+283,4,8,Pasquale Cheda,13501,Torino,Borgo Gabriele,184,Italia
+284,23,11,Bianca Casagrande,30419,Terni,Incrocio Ioppi,164,Italia
+285,1,1,Domenico Tommaseo,26752,Olbia-Tempio,Stretto Piccio,51,Italia
+286,3,18,Sig. Milo Duse,33918,Viterbo,Rotonda Garibaldi,159,Italia
+287,10,11,Monica Amato,91677,Vercelli,Canale Renzo,142,Italia
+288,4,24,Ranieri Pulci,27650,Teramo,Rotonda Togliatti,6,Italia
+289,2,40,Sig.ra Cecilia Papetti,59311,Trieste,Canale Zampa,121,Italia
+290,5,5,Maura Praga,15179,Catanzaro,Canale Valentino,77,Italia
+291,9,32,Susanna Pareto,13620,Matera,Incrocio Lancisi,90,Italia
+292,24,23,Giovanna Ferrabosco,62077,Pistoia,Piazza Soprano,137,Italia
+293,2,38,Michelangelo Puccini,64623,Isernia,Via Beppe,190,Italia
+294,14,20,Giovanni Agostinelli-Caironi,62487,Ferrara,Piazza Gregori,23,Italia
+295,10,12,Marina Collodi-Bramante,93853,Cosenza,Via Alberico,11,Italia
+296,14,29,Mattia Basso,88368,Novara,Borgo Nievo,180,Italia
+297,5,22,Piergiuseppe Tiepolo,89016,Savona,Piazza Arsenio,71,Italia
+298,7,44,Dott. Claudia Tasca,43658,Como,Stretto Costanzo,121,Italia
+299,24,31,Livio Lucciano,77255,Arezzo,Vicolo Modugno,16,Italia
+300,13,26,Dott. Uberto Sauli,19074,Padova,Contrada Nina,137,Italia
+301,8,16,Marcello Romagnoli-Golgi,86546,Pistoia,Canale Ranieri,7,Italia
+302,15,35,Lisa Trincavelli-Antonetti,78219,Barletta-Andria-Trani,Strada Manuel,172,Italia
+303,19,24,Liberto Frescobaldi,21253,Macerata,Incrocio Lara,55,Italia
+304,14,7,Sig. Giovanni Monicelli,32784,Matera,Vicolo Maggioli,95,Italia
+305,23,35,Lodovico Trapanese,27832,Grosseto,Piazza Flora,61,Italia
+306,1,35,Zaira Pizzetti,82861,Trapani,Contrada Bertolucci,195,Italia
+307,10,4,Fabrizia Renault-Luxardo,98020,Rieti,Incrocio Garobbio,54,Italia
+308,15,11,Sig.ra Giuliana Fagiani,82632,Carbonia-Iglesias,Canale Lucio,6,Italia
+309,2,47,Sig.ra Lauretta Maggioli,74378,Vicenza,Stretto Nonis,130,Italia
+310,18,28,Gianpietro Branciforte,65311,Catania,Viale Fattori,130,Italia
+311,3,23,Antonello Pelli,36007,Ascoli Piceno,Rotonda Ornella,152,Italia
+312,3,30,Sig. Giorgio Sonnino,84923,Palermo,Vicolo Renzo,182,Italia
+313,13,47,Gianmarco Bertolucci,94562,Milano,Via Lina,83,Italia
+314,1,15,Sophia Verdi,70520,Pavia,Rotonda Accardo,24,Italia
+315,19,36,Livia Boaga,78039,Bolzano,Rotonda Forza,113,Italia
+316,3,17,Cassandra Pirelli,73540,Milano,Vicolo Tina,43,Italia
+317,10,34,Letizia Viviani,74716,Trieste,Piazza Borghese,7,Italia
+318,18,12,Ivo Magnani,37682,Rovigo,Canale Tafuri,40,Italia
+319,6,49,Dott. Liliana Pininfarina,34893,Pavia,Vicolo Alina,47,Italia
+320,6,41,Leonardo Donini,67213,Ogliastra,Stretto Persico,106,Italia
+321,12,21,Irma Emanuelli,10907,Sondrio,Via Gioacchino,196,Italia
+322,7,12,Sandro Gozzano-Bandello,66477,Grosseto,Incrocio Patrizio,168,Italia
+323,18,38,Piero Doglioni,36260,Sondrio,Canale Laura,177,Italia
+324,16,35,Sig.ra Erika Cugia,87035,Terni,Canale Druso,200,Italia
+325,13,13,Antonia Castellitto,68138,Rieti,Stretto Orazio,180,Italia
+326,1,3,Gemma Tirabassi,45311,Treviso,Incrocio Renata,138,Italia
+327,13,42,Isa Lanfranchi-Carullo,59074,Caserta,Stretto Fibonacci,61,Italia
+328,24,12,Mattia Piazzi,69728,Enna,Incrocio Maura,149,Italia
+329,14,12,Sandro Cheda,67986,Trieste,Viale Piero,36,Italia
+330,20,41,Augusto Filippini,39587,Novara,Viale Maderno,64,Italia
+331,12,20,Mario Balbo,73296,Grosseto,Piazza Martucci,38,Italia
+332,14,8,Lolita Vergassola,46732,Trieste,Vicolo Canevascini,16,Italia
+333,4,44,Amalia Gabrieli,86394,Napoli,Strada Giacconi,50,Italia
+334,16,50,Dott. Silvestro Sgarbi,15524,Foggia,Stretto Bianchini,81,Italia
+335,4,23,Annunziata Scarpa,34425,Vercelli,Piazza Valerio,86,Italia
+336,23,38,Gilberto Pacillo,53020,Salerno,Vicolo Gino,178,Italia
+337,12,24,Sig. Cesare Veltroni,46593,Pordenone,Strada Lercari,147,Italia
+338,22,28,Dott. Nicoletta Polesel,91895,Grosseto,Via Ferrata,1,Italia
+339,16,10,Cesare Cimarosa-Giorgetti,77435,Reggio Calabria,Canale Antonietta,35,Italia
+340,3,3,Eraldo Nicolucci,41183,Roma,Viale Piergiorgio,22,Italia
+341,11,12,Lorenzo Valentino,71058,Rovigo,Borgo Cipolla,188,Italia
+342,4,22,Concetta Bottigliero,95912,Sassari,Borgo Luciana,21,Italia
+343,15,47,Gianpaolo Staglieno,10988,Enna,Strada Giuseppe,4,Italia
+344,9,26,Romina Pontecorvo-Sandi,55654,Matera,Vicolo Ungaretti,33,Italia
+345,21,39,Dolores Notarbartolo,69447,Campobasso,Stretto Stradivari,132,Italia
+346,8,8,Simonetta Turci,39096,Udine,Canale Raffaello,102,Italia
+347,3,41,Donato Trincavelli,35635,Gorizia,Via Leone,55,Italia
+348,5,2,Gioele Vigorelli,99782,Sondrio,Via Visintini,194,Italia
+349,21,38,Gioele Pugliese,70198,Imperia,Rotonda Agnesi,147,Italia
+350,6,48,Cristina Perozzo,51232,Rimini,Borgo Botticelli,153,Italia
+351,12,25,Sole Platini,19346,Ancona,Stretto Amalia,94,Italia
+352,7,40,Barbara Mastandrea-Bulzoni,22337,Cagliari,Viale Segrè,168,Italia
+353,5,35,Sig.ra Vanessa Zanazzo,61102,Lucca,Piazza Sergius,135,Italia
+354,4,30,Greca Druso,12140,Sassari,Rotonda Giuseppe,115,Italia
+355,19,24,Paloma Farnese,56100,Latina,Viale Giuseppina,126,Italia
+356,8,24,Bettina Sonnino,73584,Macerata,Piazza Armando,167,Italia
+357,17,47,Livio Samele,61186,Milano,Canale Giampiero,25,Italia
+358,15,21,Lucrezia Ferrara,75411,Trieste,Rotonda Patrizio,85,Italia
+359,4,6,Sig.ra Victoria Castelli,68607,Padova,Canale Zoppetti,76,Italia
+360,1,41,Lamberto Briccialdi-Ciampi,66878,Prato,Contrada Belletini,6,Italia
+361,16,28,Paulina Modiano-Leoncavallo,34033,Olbia-Tempio,Rotonda Carlo,107,Italia
+362,19,35,Melania Saracino,40291,Cuneo,Piazza Rensi,196,Italia
+363,21,44,Dott. Virgilio Golino,37017,Chieti,Via Satriani,142,Italia
+364,15,34,Luigi Sabatini-Zoppetto,36668,Catanzaro,Borgo Sbarbaro,77,Italia
+365,22,23,Sig.ra Giovanna Coardi,54893,Viterbo,Canale Giuseppe,8,Italia
+366,23,3,Sig. Benedetto Barsanti,41801,Avellino,Viale Bosurgi,146,Italia
+367,7,16,Sergius Borsiere,90659,Latina,Borgo Luciano,198,Italia
+368,13,34,Beatrice Baracca,20845,Taranto,Vicolo Borromini,25,Italia
+369,25,20,Pierina Comolli,73559,Taranto,Incrocio Alfredo,140,Italia
+370,18,14,Mariano Luxardo,97450,Viterbo,Viale Francesca,143,Italia
+371,3,3,Graziella Odescalchi,64974,Rieti,Piazza Costanzo,149,Italia
+372,15,10,Roman Santorio-Pasolini,72387,Macerata,Borgo Sordi,157,Italia
+373,23,49,Ciro Galtarossa,92305,Teramo,Borgo Marcella,134,Italia
+374,2,39,Sig. Martino Scaramucci,59875,Taranto,Borgo Manzoni,140,Italia
+375,25,23,Dott. Giulia Bellucci,60106,Ragusa,Piazza Ceschi,144,Italia
+376,25,48,Antonella Tosto,20680,Sassari,Piazza Carolina,121,Italia
+377,20,37,Silvestro Ruffini,86448,Reggio Calabria,Viale Palombi,122,Italia
+378,11,1,Annalisa Doria-Toso,22119,Padova,Stretto Bianca,45,Italia
+379,2,29,Gianpaolo Lanfranchi,34483,Arezzo,Strada Panicucci,166,Italia
+380,21,1,Arturo Pacomio,38450,Trieste,Vicolo Loretta,87,Italia
+381,25,17,Gioacchino Agostini,67918,Medio Campidano,Vicolo Giulietti,34,Italia
+382,5,13,Gioffre Morlacchi-Foconi,11094,Gorizia,Stretto Udinese,4,Italia
+383,3,14,Michela Sanudo,81702,Vibo Valentia,Borgo Donato,132,Italia
+384,20,47,Licia Canova,70880,Agrigento,Vicolo Goldstein,144,Italia
+385,3,27,Michelangelo Disdero,87645,Belluno,Strada Fattori,35,Italia
+386,11,41,Sig. Elladio Morpurgo,62232,Trieste,Stretto Pizziol,118,Italia
+387,3,28,Sig. Benito Sgalambro,33244,Cosenza,Viale Fo,106,Italia
+388,5,42,Ludovico Norbiato,64206,Cuneo,Borgo Gionata,71,Italia
+389,2,43,Graziano Maderna-Luciani,14968,Udine,Rotonda Petrocelli,4,Italia
+390,11,1,Amedeo Cerutti,31074,Savona,Viale Borroni,85,Italia
+391,18,50,Rocco Catenazzi,88822,Pisa,Contrada Rosaria,43,Italia
+392,17,9,Giuliano Leopardi,80848,Frosinone,Borgo Chiara,125,Italia
+393,3,5,Arnulfo Zanichelli,25193,Oristano,Via Alessandra,194,Italia
+394,4,1,Mariano Malipiero-Tropea,72845,Treviso,Canale Berenice,93,Italia
+395,16,44,Angelica Foconi,32385,Benevento,Borgo Antelami,92,Italia
+396,16,19,Sig.ra Filippa Paruta,53880,Rimini,Incrocio Alphons,144,Italia
+397,2,35,Jolanda Trebbi,59977,Cremona,Piazza Canova,176,Italia
+398,5,8,Maurilio Ughi-Nadi,89215,Massa-Carrara,Rotonda Aloisio,101,Italia
+399,4,16,Giampiero Offredi,88355,Sassari,Rotonda Aria,133,Italia
+400,23,41,Priscilla Boito,80453,L'Aquila,Contrada Amanda,1,Italia
+401,8,37,Sig.ra Roberta Porcellato,79074,Frosinone,Viale Mastandrea,186,Italia
+402,25,4,Antonietta Moschino,48775,Livorno,Piazza Benvenuto,51,Italia
+403,4,1,Tonino Toninelli,18538,Ragusa,Strada Guarino,38,Italia
+404,7,2,Sig.ra Raffaella Comisso,45559,Vibo Valentia,Vicolo Donatello,152,Italia
+405,18,46,Guarino Rismondo,21778,Palermo,Via Canali,190,Italia
+406,17,40,Tiziana Brancaccio-Bernardini,23500,Frosinone,Rotonda Letizia,43,Italia
+407,23,21,Sandra Spinelli,42032,Medio Campidano,Borgo Comboni,133,Italia
+408,17,19,Angelica Venturi,66686,Pesaro e Urbino,Incrocio Parri,74,Italia
+409,7,2,Sig. Vittorio Serraglio,27869,Potenza,Stretto Caboto,74,Italia
+410,8,41,Iolanda Nitti,92448,Teramo,Via Buscetta,160,Italia
+411,8,48,Tullio Faggiani,86580,Sondrio,Incrocio Gianfranco,162,Italia
+412,12,11,Fabrizio Gadda,78117,Catania,Piazza Serena,192,Italia
+413,13,37,Mattia Spinelli,56694,Grosseto,Rotonda Notarbartolo,128,Italia
+414,16,45,Raffaello Pigafetta,46628,Lucca,Vicolo Mercadante,189,Italia
+415,22,23,Lazzaro Sagnelli,59648,Siena,Canale Baggio,23,Italia
+416,8,28,Maria Russo,88059,Trieste,Via Rapisardi,72,Italia
+417,2,17,Luciano Micheletti,25476,Ragusa,Rotonda Pizzo,188,Italia
+418,13,32,Sig. Edoardo Giannetti,19570,Padova,Borgo Ovadia,50,Italia
+419,10,14,Milo Tremonti,47501,Potenza,Viale Giuseppina,139,Italia
+420,11,6,Greco Mazzi,55200,Alessandria,Via Lauretta,170,Italia
+421,11,31,Nino Alonzi,59523,Avellino,Vicolo Nitto,33,Italia
+422,20,19,Virginia Barese,71148,Agrigento,Canale Malpighi,131,Italia
+423,3,45,Paride Disdero-Smirnoff,54072,Medio Campidano,Vicolo Folliero,93,Italia
+424,21,6,Dott. Mariana Gargallo,52699,Bergamo,Piazza Aurora,3,Italia
+425,11,30,Michela Fieramosca,28285,Palermo,Incrocio Ruberto,164,Italia
+426,15,8,Adamo Pelli,80153,Alessandria,Piazza Beffa,117,Italia
+427,5,33,Sig. Giulio Infantino,68284,Mantova,Stretto Edoardo,161,Italia
+428,2,16,Giulietta Anastasi,68925,Frosinone,Piazza Broschi,163,Italia
+429,14,16,Giuseppe Baglioni,21778,Chieti,Viale Fioravanti,64,Italia
+430,16,19,Dott. Rodolfo Trillini,36954,L'Aquila,Rotonda Calogero,176,Italia
+431,4,41,Lando Traetta,19137,Sondrio,Vicolo Odescalchi,85,Italia
+432,21,29,Paloma Serao,54491,Campobasso,Canale Liliana,27,Italia
+433,11,34,Donatello Asmundo,39028,Firenze,Incrocio Durante,128,Italia
+434,22,35,Rosina Dallara-Scarpa,22974,Cremona,Rotonda Santi,131,Italia
+435,12,8,Piergiuseppe Boccherini-Bellò,75754,Piacenza,Incrocio Corbo,56,Italia
+436,18,26,Pasquale Farinelli,21856,Frosinone,Stretto Beatrice,155,Italia
+437,25,48,Sig.ra Maria Carosone,10885,Belluno,Contrada Baroffio,89,Italia
+438,15,37,Dott. Amedeo Aldobrandi,98371,Firenze,Canale Tron,107,Italia
+439,22,3,Susanna Mercadante-Mengolo,80617,Olbia-Tempio,Incrocio Porcellato,123,Italia
+440,2,5,Sig. Luchino Santoro,93329,Pordenone,Piazza Paoletta,180,Italia
+441,1,45,Natalia Gussoni,46729,Reggio Calabria,Incrocio Achille,2,Italia
+442,19,9,Bianca Gaggini,14003,Prato,Rotonda Michelotto,133,Italia
+443,13,24,Filippo Farina,44275,Olbia-Tempio,Piazza Rismondo,165,Italia
+444,11,38,Roberto Palumbo,50718,Pescara,Viale Danilo,35,Italia
+445,11,1,Mirko Babbo,85072,Olbia-Tempio,Borgo Ferrata,120,Italia
+446,8,10,Sig. Alessio Sansoni,32473,Trapani,Borgo Claudio,115,Italia
+447,10,27,Sonia Onio,71755,Lecce,Canale Giovanni,37,Italia
+448,24,44,Dott. Giacinto Cutuli,13625,Padova,Piazza Gagliano,170,Italia
+449,11,40,Giacobbe Rosselli-Faggiani,62189,L'Aquila,Piazza Bellucci,137,Italia
+450,4,6,Sonia Argan,96842,Carbonia-Iglesias,Contrada Priuli,188,Italia
+451,6,45,Ernesto Maglio-Mastandrea,81843,Milano,Stretto Ezio,55,Italia
+452,19,43,Antonino Pininfarina,19602,Milano,Viale Massimo,152,Italia
+453,10,5,Piermaria Carriera,54970,Varese,Contrada Isa,93,Italia
+454,7,9,Sig. Claudio Taliani,93555,Vercelli,Contrada Ernesto,81,Italia
+455,8,2,Lisa Bosio,16177,Belluno,Incrocio Pacillo,55,Italia
+456,2,7,Sig.ra Maria Medici,82934,Chieti,Piazza Stein,60,Italia
+457,2,31,Licia Montessori-Porcellato,58326,Cuneo,Contrada Alfonsi,183,Italia
+458,11,11,Leopoldo Camiscione,69568,Medio Campidano,Contrada Papetti,177,Italia
+459,14,39,Bartolomeo Bosurgi,48904,Lecco,Piazza Giuliano,59,Italia
+460,6,16,Erika Niggli,90008,Campobasso,Via Carfagna,175,Italia
+461,17,44,Sig.ra Valentina Gucci,17325,Ancona,Via Luxardo,36,Italia
+462,15,21,Margherita Alfonsi,61768,Asti,Incrocio Zaccagnini,168,Italia
+463,2,1,Dott. Fredo Greggio,72193,Reggio Emilia,Rotonda Trebbi,153,Italia
+464,10,1,Flora Balbi,26566,Taranto,Borgo Mazzacurati,127,Italia
+465,2,33,Benedetto Russo,48307,Nuoro,Strada Agostino,33,Italia
+466,9,28,Marta Giolitti,89496,Macerata,Incrocio Daniele,42,Italia
+467,24,6,Lamberto Ferragni,58771,Pistoia,Piazza Dibiasi,103,Italia
+468,17,12,Sig.ra Eleanora Goldoni,39295,Arezzo,Stretto Saffi,27,Italia
+469,7,30,Roberto Scialpi,97656,Caltanissetta,Strada Fernanda,111,Italia
+470,20,43,Vincenza Vittadello,75706,Prato,Viale Cocci,130,Italia
+471,7,39,Dionigi Golgi,23446,Fermo,Via Savorgnan,147,Italia
+472,17,19,Eugenia Sforza-Taliani,10096,Frosinone,Vicolo Nanni,156,Italia
+473,16,23,Bianca Mazzocchi,23156,Piacenza,Borgo Gemma,190,Italia
+474,13,3,Agostino Palumbo-Frescobaldi,27356,Bolzano,Rotonda Chinnici,61,Italia
+475,15,45,Aria Longhena-Romano,43667,Siracusa,Vicolo Stefano,54,Italia
+476,25,36,Dott. Rembrandt Farina,16136,Ragusa,Strada Mario,157,Italia
+477,10,44,Rosa Bembo,25759,Medio Campidano,Contrada Calarco,52,Italia
+478,5,38,Vittoria Coppola,90630,Aosta,Stretto Laura,10,Italia
+479,6,43,Livia Montessori,77306,Rimini,Incrocio Amedeo,167,Italia
+480,8,39,Mariana Mazzini,28038,Trento,Canale Valentina,63,Italia
+481,13,25,Sig.ra Irma Stoppani,78070,Trieste,Contrada Ponti,38,Italia
+482,10,33,Gloria Petruzzi,85932,Lodi,Canale Vincentio,69,Italia
+483,8,47,Lidia Benussi-Druso,79859,Bari,Piazza Fredo,76,Italia
+484,17,36,Dott. Piergiorgio Bettin,63621,Belluno,Borgo Querini,164,Italia
+485,7,26,Vincenzo Canil,59740,Siracusa,Piazza Priscilla,17,Italia
+486,24,9,Francesca Pepe,71726,Siena,Canale Milo,180,Italia
+487,20,5,Veronica Buscetta,33729,Ogliastra,Via Sante,27,Italia
+488,18,50,Gianpaolo Anguissola,61371,Isernia,Contrada Mercantini,182,Italia
+489,9,27,Anita Verri,15748,Modena,Via Disdero,182,Italia
+490,16,4,Fiamma Borzomì,83983,Caserta,Via Chechi,64,Italia
+491,1,2,Dott. Mercedes Ottino,82320,Lucca,Canale Gastone,78,Italia
+492,11,37,Enzio Gigli,59267,Piacenza,Via Annetta,53,Italia
+493,19,40,Massimo Toninelli,58082,Cosenza,Rotonda Ansaldo,38,Italia
+494,16,39,Ludovico Martinelli,30594,Rovigo,Piazza Costanzi,14,Italia
+495,2,21,Benedetto Ginese,82358,Roma,Contrada Ansaldo,158,Italia
+496,25,1,Lolita Aulenti,22591,Arezzo,Canale Martinelli,134,Italia
+497,25,31,Stefano Bettin,72553,Novara,Rotonda Lodovico,173,Italia
+498,5,31,Dott. Tiziana Pacelli,70917,Forlì-Cesena,Borgo Randazzo,72,Italia
+499,3,2,Federica Telesio,79708,Barletta-Andria-Trani,Incrocio Gilberto,130,Italia
+500,17,26,Sig.ra Liana Metella,17217,Oristano,Stretto Lidia,112,Italia
+501,22,37,Nicolò Iacobucci,26181,La Spezia,Canale Ornella,106,Italia
+502,22,22,Sig.ra Susanna Toldo,22691,Cosenza,Borgo Manuel,18,Italia
+503,25,15,Sig. Amedeo Broschi,72475,Vibo Valentia,Viale Mario,164,Italia
+504,23,26,Sig. Coriolano Dibiasi,43409,Messina,Borgo Stradivari,111,Italia
+505,24,11,Calogero Mancini,60782,Carbonia-Iglesias,Canale Ferdinando,47,Italia
+506,25,3,Dott. Loredana Rinaldi,70851,Pescara,Via Tacchini,12,Italia
+507,10,21,Baldassare Renault,34652,Bergamo,Strada Pedroni,174,Italia
+508,15,40,Gaspare Brambilla,71362,Reggio Emilia,Stretto Perini,183,Italia
+509,6,46,Dott. Diana Piacentini,20827,Potenza,Contrada Marconi,14,Italia
+510,6,48,Azeglio Juvara,27696,Cagliari,Stretto Ermanno,121,Italia
+511,4,26,Sig. Ottone Prada,26055,Palermo,Incrocio Tonino,83,Italia
+512,16,47,Sig. Gianfranco Napolitano,38931,Taranto,Via Acerbi,152,Italia
+513,12,26,Salvatore Magnani,11642,Viterbo,Piazza Olivetti,118,Italia
+514,9,6,Giampiero Morrocco,50111,Pavia,Via Bartolomeo,17,Italia
+515,20,15,Sig. Gianni Duodo,22415,Pistoia,Incrocio Mazzanti,54,Italia
+516,25,37,Pier Mimun,21645,Cagliari,Contrada Roberta,86,Italia
+517,22,16,Carlo Marsili,55875,Rimini,Viale Gozzi,24,Italia
+518,4,5,Agostino Carpaccio,97111,L'Aquila,Vicolo Annetta,38,Italia
+519,16,39,Ronaldo Trincavelli-Tamburello,14428,Torino,Strada Briccialdi,138,Italia
+520,2,46,Eva Comboni,24266,Terni,Borgo Scaramucci,46,Italia
+521,3,50,Sig.ra Erika Baracca,90079,Perugia,Borgo Matteotti,116,Italia
+522,11,35,Lazzaro Varano,34817,Bologna,Borgo Umberto,5,Italia
+523,25,18,Matteo Scalfaro,21493,Como,Incrocio Graziella,56,Italia
+524,12,29,Mirco Donati-Zecchini,82301,Padova,Stretto Foscari,21,Italia
+525,1,30,Marta Monti,44827,Trapani,Canale Sismondi,96,Italia
+526,9,14,Mariana Scotto,34619,Cosenza,Canale Flavia,172,Italia
+527,19,29,Liberto Sobrero,27308,Imperia,Strada Liberto,184,Italia
+528,8,10,Dott. Liliana Capuana,97443,Biella,Vicolo Martino,23,Italia
+529,25,4,Piergiuseppe Ariasso,55516,Benevento,Strada Panicucci,145,Italia
+530,15,16,Gioele Squarcione,98789,Caltanissetta,Incrocio Ruffini,171,Italia
+531,3,26,Sig. Severino Ferrucci,77557,Vicenza,Vicolo Giuliana,154,Italia
+532,18,10,Pomponio Toso-Piacentini,76380,Lecco,Piazza Raimondi,70,Italia
+533,6,34,Ninetta Mattarella,15513,Cosenza,Stretto Elladio,127,Italia
+534,5,46,Eleanora Calvo-Aldobrandi,12098,Trento,Vicolo Teresa,124,Italia
+535,9,8,Benvenuto Morpurgo,29776,Trieste,Strada Deledda,135,Italia
+536,25,48,Giada Filangieri-Flaiano,36539,Asti,Incrocio Ilaria,128,Italia
+537,23,23,Dott. Simonetta Nolcini,61347,Trento,Borgo Ceri,90,Italia
+538,21,28,Dott. Ludovica Venditti,12225,Ogliastra,Viale Rita,98,Italia
+539,1,25,Nanni Taliercio-Saracino,34319,Rieti,Contrada Juvara,19,Italia
+540,20,33,Beppe Balbi,44140,Taranto,Rotonda Casaleggio,104,Italia
+541,11,49,Cristina Caracciolo,64257,Bergamo,Borgo Berrè,102,Italia
+542,9,5,Dott. Angelina Padovano,39142,Pavia,Via Antonello,175,Italia
+543,11,19,Beatrice Balbi,81701,Ravenna,Piazza Piergiorgio,78,Italia
+544,1,47,Gilberto Caironi,94814,Avellino,Borgo Cantimori,142,Italia
+545,7,31,Dott. Giovanni Vecoli,35355,Pesaro e Urbino,Viale Taccola,19,Italia
+546,7,15,Fernanda Grasso,12902,Brescia,Vicolo Napoleone,45,Italia
+547,4,24,Coluccio Gilardoni,23785,Olbia-Tempio,Contrada Nina,123,Italia
+548,9,43,Donatella Ubaldi,84162,Salerno,Contrada Donato,57,Italia
+549,18,42,Rosaria Angeli,15180,Rieti,Canale Mantegazza,155,Italia
+550,2,47,Giada Tacchini,52314,Matera,Contrada Rocco,83,Italia
+551,13,37,Silvio Vento,67807,Olbia-Tempio,Vicolo Sermonti,156,Italia
+552,2,39,Rossana Marrone,84694,Matera,Strada Morlacchi,138,Italia
+553,12,8,Toni Casini,38112,Potenza,Viale Scaduto,175,Italia
+554,21,46,Giorgio Ficino,34556,Arezzo,Stretto Giustino,3,Italia
+555,18,1,Luigina Nugnes,85108,Arezzo,Rotonda Riccardo,52,Italia
+556,24,14,Ida Mezzetta,58321,Chieti,Via Alina,187,Italia
+557,1,24,Fabia Trebbi,13505,Lecco,Piazza Calogero,126,Italia
+558,22,3,Gelsomina Tamborini,26704,Trieste,Borgo Gilberto,145,Italia
+559,1,46,Paola Vespa,12293,Oristano,Piazza Alboni,85,Italia
+560,10,37,Dott. Aurora Fuseli,12474,Latina,Borgo Bernardo,11,Italia
+561,22,30,Oreste Offredi,36249,Ragusa,Via Vecoli,58,Italia
+562,18,5,Piero Rusticucci,69574,Ragusa,Rotonda Manolesso,67,Italia
+563,17,26,Annunziata Draghi,31173,Frosinone,Stretto Toscanini,92,Italia
+564,11,5,Lucrezia Carpaccio,13319,Ancona,Vicolo Teresa,196,Italia
+565,25,45,Filippa Giannuzzi,44379,Bergamo,Borgo Pierina,154,Italia
+566,14,18,Nanni Berlusconi,91793,Siracusa,Stretto Ioppi,89,Italia
+567,7,49,Gianna Pisaroni,30058,Lecce,Rotonda Mirco,83,Italia
+568,10,8,Annibale Renier,41264,Foggia,Via Aldo,78,Italia
+569,16,10,Mirco Mondaini,25331,Belluno,Rotonda Irma,114,Italia
+570,19,4,Ivan Giacconi-Monduzzi,68225,Taranto,Canale Tognazzi,76,Italia
+571,14,3,Riccardo Franzese,36307,Rimini,Via Paltrinieri,88,Italia
+572,24,30,Ernesto Sismondi,51438,Lecco,Stretto Arnulfo,180,Italia
+573,19,50,Dott. Mariana Marangoni,64542,Aosta,Borgo Salvatore,79,Italia
+574,18,34,Renzo Pace,11269,Genova,Incrocio Daria,10,Italia
+575,10,9,Elvira Morosini-Carocci,93212,Imperia,Piazza Trobbiani,39,Italia
+576,18,24,Annetta Mondaini,24612,Lecce,Borgo Calogero,132,Italia
+577,11,42,Michelangelo Monicelli,38016,Crotone,Contrada Piermaria,83,Italia
+578,16,50,Liana Puglisi,90918,Brindisi,Incrocio Graziano,111,Italia
+579,14,1,Sig.ra Letizia Offredi,25330,Siena,Viale Gaetano,186,Italia
+580,16,47,Dott. Eliana Maglio,53656,Bologna,Rotonda Benigni,56,Italia
+581,9,30,Virginia Tencalla-Balla,39876,Vercelli,Incrocio Enrico,109,Italia
+582,17,38,Dott. Fabrizio Chinnici,80301,Roma,Vicolo Corradi,39,Italia
+583,7,49,Raimondo Balbo,76715,Firenze,Borgo Cipriano,19,Italia
+584,4,24,Sonia Roccabonella,17681,Rovigo,Strada Ermes,40,Italia
+585,25,16,Sig. Mirco Grimani,48876,Potenza,Canale Federico,7,Italia
+586,24,13,Giuliana Monaco-Fattori,77878,Foggia,Borgo Fiorino,38,Italia
+587,22,17,Sandra Armellini-Sinisi,98010,Caltanissetta,Contrada Laureano,148,Italia
+588,8,12,Dott. Romina Bartoli,49569,Pordenone,Stretto Elvira,88,Italia
+589,10,35,Claudia Bazzi-Altera,15529,Siracusa,Borgo Antonioni,107,Italia
+590,25,22,Veronica Agostini,77266,Ravenna,Vicolo Gioberti,189,Italia
+591,22,9,Dott. Calcedonio Giunti,97633,Oristano,Borgo Ioppi,161,Italia
+592,24,7,Irma Galvani,57892,La Spezia,Via Fiorucci,82,Italia
+593,25,47,Dott. Gelsomina Pizziol,10036,Torino,Canale Alfredo,168,Italia
+594,17,9,Margherita Cantimori,75400,Pisa,Via Rosa,39,Italia
+595,20,25,Daria Botta,68240,Genova,Strada Badoglio,149,Italia
+596,23,41,Ettore Nolcini-Vattimo,49547,Avellino,Borgo Bonanno,142,Italia
+597,1,9,Tonia Morabito-Ostinelli,58948,Avellino,Via Vittadello,175,Italia
+598,8,29,Alberico Vitturi,96647,Carbonia-Iglesias,Stretto Rosa,101,Italia
+599,25,26,Agnolo Dellucci,76290,Siracusa,Viale Fiorino,147,Italia
+600,8,33,Annetta Lippomano,21434,Catanzaro,Via Parri,83,Italia
+601,15,6,Morena Bianchi,58608,Siracusa,Incrocio Giancarlo,16,Italia
+602,1,41,Uberto Baracca,48706,Piacenza,Piazza Maglio,132,Italia
+603,5,30,Jolanda Salandra-Saraceno,94145,Pesaro e Urbino,Piazza Nicola,114,Italia
+604,20,37,Mirco Metella,46091,Ferrara,Borgo Fiorino,173,Italia
+605,16,33,Piergiuseppe Pavanello,40319,Novara,Stretto Murialdo,148,Italia
+606,24,47,Coriolano Accardo,32343,Macerata,Contrada Aloisio,63,Italia
+607,5,13,Leone Abatantuono,44048,Siracusa,Contrada Solimena,189,Italia
+608,3,49,Vittoria Metella-Magrassi,14894,Chieti,Incrocio Fabrizia,36,Italia
+609,4,36,Calogero Chechi,89061,Cuneo,Strada Galeati,107,Italia
+610,24,38,Ilaria Schicchi,25852,Fermo,Incrocio Branciforte,168,Italia
+611,19,39,Panfilo Vespa,54688,Asti,Piazza Malenchini,64,Italia
+612,13,25,Telemaco Babato,96099,Pordenone,Borgo Gilberto,191,Italia
+613,10,12,Filippo Pertini,69682,Sassari,Strada Ajello,194,Italia
+614,3,10,Nino Tosto,44365,Medio Campidano,Strada Satriani,88,Italia
+615,9,33,Pierina Renier,52258,Verona,Borgo Emilio,59,Italia
+616,22,26,Alessandra Rizzoli,97560,Cremona,Stretto Ottavio,57,Italia
+617,8,24,Dino Doglioni-Gentili,61606,Bolzano,Canale Adriana,83,Italia
+618,15,10,Germana Ungaretti-Bandello,21620,Brescia,Vicolo Ansaldo,100,Italia
+619,15,50,Temistocle Sinisi,11996,Macerata,Rotonda Nadia,56,Italia
+620,20,43,Gabriele Morlacchi,36685,Sondrio,Stretto Gilberto,63,Italia
+621,5,17,Dott. Lamberto Mercati,17869,Sondrio,Contrada Gentilini,97,Italia
+622,14,23,Tullio Rubbia,15148,Brindisi,Stretto Arturo,168,Italia
+623,19,4,Augusto Filzi,36276,Novara,Canale Caterina,93,Italia
+624,23,13,Gelsomina Conti-Fuseli,94220,Bergamo,Rotonda Diana,86,Italia
+625,25,24,Annunziata Venditti,75311,Pesaro e Urbino,Via Alberto,37,Italia
+626,3,43,Rosa Durante,60350,Monza e della Brianza,Contrada Staglieno,169,Italia
+627,14,33,Ennio Vecellio-Brenna,53443,Pistoia,Borgo Golgi,7,Italia
+628,13,41,Dott. Griselda Beccaria,34117,Massa-Carrara,Vicolo Odescalchi,37,Italia
+629,11,32,Simonetta Moschino,66419,Verona,Rotonda Cipriano,173,Italia
+630,13,20,Gioacchino Vergassola,23773,Padova,Incrocio Toscanini,187,Italia
+631,10,36,Sig. Graziano Pincherle,92850,Terni,Vicolo Bruscantini,199,Italia
+632,17,37,Luigi Barzini,60982,Reggio Calabria,Viale Solimena,177,Italia
+633,17,3,Luigi Leonetti,13042,Pescara,Viale Michela,41,Italia
+634,10,8,Dott. Carla Pertile,82524,Vibo Valentia,Contrada Vittorio,104,Italia
+635,21,46,Fulvio Morandi,21544,Oristano,Incrocio Manacorda,179,Italia
+636,22,43,Manuel Tognazzi,76305,Bolzano,Borgo Borrani,27,Italia
+637,22,41,Alberico Pacomio-Castellitto,52576,Latina,Vicolo Pizzo,95,Italia
+638,3,13,Dott. Camillo Cammarata,31762,Gorizia,Canale Cutrufo,91,Italia
+639,20,17,Valerio Bellò-Fantozzi,29585,Cosenza,Viale Sebastiano,83,Italia
+640,24,42,Orlando Mercadante,96509,Treviso,Canale Zaira,107,Italia
+641,20,7,Annunziata Inzaghi,21563,Forlì-Cesena,Contrada Amedeo,75,Italia
+642,19,31,Sig.ra Marcella Gulotta,59870,Terni,Viale Bertoli,26,Italia
+643,25,45,Paloma Vergassola,91071,Rimini,Viale Eugenia,179,Italia
+644,18,31,Raffaello Vianello-Caccioppoli,42014,Bolzano,Strada Aldo,186,Italia
+645,22,21,Ferdinando Sagese,73948,Olbia-Tempio,Stretto Vendetti,68,Italia
+646,21,37,Sig. Ermanno Sermonti,57664,Padova,Piazza Correr,110,Italia
+647,14,8,Carmelo Milanesi-Sordi,25364,Potenza,Viale Aurora,73,Italia
+648,2,17,Sole Geraci-Rosiello,51649,Bologna,Rotonda Niccolò,40,Italia
+649,21,11,Dott. Rosina Comisso,86405,Cuneo,Stretto Cabrini,92,Italia
+650,2,22,Camilla Solimena,30471,Reggio Calabria,Via Margherita,121,Italia
+651,1,33,Alessia Visconti-Zabarella,27992,Modena,Incrocio Fredo,72,Italia
+652,24,25,Amedeo Ferragamo,62984,Verbano-Cusio-Ossola,Viale Calvo,192,Italia
+653,17,47,Ignazio Squarcione,69427,Varese,Viale Aldo,47,Italia
+654,3,7,Rosa Antonacci,93065,Teramo,Viale Camuccini,61,Italia
+655,25,25,Dott. Tonia Vigorelli,15451,Trieste,Via Patrizio,176,Italia
+656,20,34,Olga Morucci,43452,Varese,Rotonda Cusano,73,Italia
+657,7,49,Eva Scialpi,16466,Caltanissetta,Contrada Eleanora,47,Italia
+658,10,20,Gianpaolo Capuana,83926,Roma,Via Lombardo,90,Italia
+659,20,50,Mario Tarantino-Farina,29671,Macerata,Canale Ferdinando,148,Italia
+660,12,35,Sig.ra Maria Porcellato,93433,Lucca,Strada Raffaele,54,Italia
+661,15,39,Gioacchino Persico,85726,Terni,Stretto Zarlino,147,Italia
+662,12,16,Tonino Bazzi,36472,Grosseto,Rotonda Lollobrigida,199,Italia
+663,17,19,Cecilia Cesarotti,75103,Lecce,Borgo Micheletto,163,Italia
+664,10,28,Eleanora Tassoni,62257,Firenze,Viale Torquato,164,Italia
+665,16,14,Arnaldo Scotto-Guidotti,96991,Pordenone,Viale Barbara,89,Italia
+666,8,11,Gemma Gelli-Udinese,41401,Carbonia-Iglesias,Stretto Valeria,76,Italia
+667,19,18,Atenulf Staglieno,18038,Terni,Vicolo Renzi,200,Italia
+668,18,8,Roberta Malpighi,63438,Terni,Contrada Angelo,77,Italia
+669,24,15,Pierina Marini,40317,Massa-Carrara,Incrocio Micheletti,107,Italia
+670,8,26,Fiorenzo Saracino,95267,Reggio Calabria,Via Gonzaga,24,Italia
+671,9,7,Eliana Casale,70686,Sondrio,Incrocio Farnese,63,Italia
+672,20,21,Patrizia Olivetti-Meucci,41406,Catania,Incrocio Luzi,191,Italia
+673,14,33,Flavia Maccanelli,15660,Torino,Strada Diana,43,Italia
+674,12,5,Hugo Guinizzelli,11810,Caltanissetta,Canale Niggli,198,Italia
+675,14,49,Sig.ra Federica Cheda,85005,Potenza,Incrocio Raffaello,30,Italia
+676,25,18,Ennio Grisoni,69527,Aosta,Piazza Bonomo,35,Italia
+677,2,12,Dott. Rosina Piacentini,93473,Crotone,Rotonda Guglielmo,26,Italia
+678,23,4,Adelasia Lucchesi,77579,Ancona,Vicolo Raffaello,3,Italia
+679,3,16,Concetta Barbarigo,26611,Oristano,Incrocio Mozart,127,Italia
+680,11,37,Arnaldo Barzini,82152,Ragusa,Borgo Elisa,22,Italia
+681,13,10,Sergius Vento,13005,Cuneo,Rotonda Nitto,37,Italia
+682,16,3,Camillo Marini-Nitto,26565,Aosta,Vicolo Salvatore,1,Italia
+683,1,45,Fulvio Anichini,24689,Caserta,Vicolo Rastelli,83,Italia
+684,1,50,Allegra Ferretti,96056,Livorno,Strada Chiesa,98,Italia
+685,16,43,Ciro Borrani,86373,Avellino,Rotonda Mantegazza,123,Italia
+686,23,37,Antonino Liverotti-Alonzi,64082,Parma,Vicolo Baldassare,66,Italia
+687,9,40,Arturo Fiorucci,71602,Caltanissetta,Strada Mariano,158,Italia
+688,22,25,Ciro Fiorucci,87290,Catania,Borgo Achille,91,Italia
+689,20,47,Franco Sorrentino,73235,Verona,Via Antonioni,34,Italia
+690,14,50,Ernesto Interminei,15510,Cagliari,Incrocio Scalfaro,83,Italia
+691,21,47,Coluccio Babato,48922,Mantova,Piazza Duse,47,Italia
+692,5,32,Simonetta Basso,73464,Rovigo,Canale Giorgio,60,Italia
+693,5,49,Roberta Baresi,91098,Viterbo,Incrocio Ippazio,50,Italia
+694,4,46,Sig.ra Giovanna Monteverdi,14694,Trento,Incrocio Jolanda,20,Italia
+695,2,43,Maria Gagliardi,28266,Ascoli Piceno,Vicolo Ida,131,Italia
+696,13,4,Michele Galtarossa,83367,Oristano,Canale Laura,93,Italia
+697,15,46,Melissa Pedrazzini,56231,Ravenna,Viale Tomaselli,73,Italia
+698,11,29,Armando Manzoni,72067,Livorno,Canale Cociarelli,196,Italia
+699,16,14,Franco Dalla,44700,Novara,Vicolo Ermenegildo,169,Italia
+700,8,4,Sig.ra Cassandra Boiardo,22909,Enna,Via Matteotti,114,Italia
+701,12,50,Donna Bellucci,97068,Napoli,Canale Elmo,158,Italia
+702,8,11,Pietro Bodoni-Ajello,25541,Caltanissetta,Incrocio Ivan,109,Italia
+703,14,42,Pompeo Tarantini,36692,Trieste,Stretto Sagese,144,Italia
+704,17,15,Donatella Valmarana,58796,Mantova,Incrocio Francesco,200,Italia
+705,1,2,Tonino Barillaro,31192,Venezia,Piazza Tebaldi,2,Italia
+706,17,15,Dott. Ornella Babbo,23131,Pisa,Viale Bonaventura,154,Italia
+707,9,33,Dante Vergerio,62950,Novara,Via Raffaele,114,Italia
+708,15,43,Sig.ra Paoletta Cibin,54727,Venezia,Borgo Alberto,76,Italia
+709,18,33,Ronaldo Borgia,26890,Rimini,Vicolo Maurizio,77,Italia
+710,23,38,Sig. Gianluca Bonaventura,96240,Forlì-Cesena,Strada Palumbo,90,Italia
+711,23,46,Tiziana Bellini,89598,Torino,Borgo Gualtieri,184,Italia
+712,12,33,Dott. Tiziana Casarin,97176,Lecco,Viale Mercedes,2,Italia
+713,24,38,Dott. Fortunata Serraglio,24971,Sondrio,Incrocio Cuzzocrea,26,Italia
+714,17,6,Ettore Monteverdi,55530,Viterbo,Viale Ranieri,31,Italia
+715,11,16,Salvatore Sagredo,12016,Viterbo,Via Ferdinando,61,Italia
+716,18,37,Tonia Zaccardo,94570,Alessandria,Vicolo Fo,82,Italia
+717,20,47,Benedetto Deledda,17251,Pistoia,Strada Maurilio,77,Italia
+718,25,45,Isa Pignatti,36263,Trapani,Canale Maria,38,Italia
+719,15,46,Dott. Mirko Riccardi,38909,Udine,Piazza Lara,12,Italia
+720,3,28,Azeglio Orlando,33025,Avellino,Piazza Lara,133,Italia
+721,4,34,Stefania Bignardi,26069,Brescia,Borgo Umberto,157,Italia
+722,8,42,Antonia Federico,24696,Ogliastra,Vicolo Udinesi,195,Italia
+723,21,40,Bianca Cadorna,21062,Forlì-Cesena,Via Agostino,191,Italia
+724,10,32,Gaetano Vendetti,49456,Pavia,Strada Elmo,23,Italia
+725,5,43,Antonietta Favata-Collodi,18138,Milano,Contrada Aria,121,Italia
+726,16,17,Riccardo Santorio,78736,Reggio Emilia,Rotonda Raffaello,29,Italia
+727,12,17,Annetta Semitecolo,23297,Belluno,Rotonda Sagnelli,38,Italia
+728,24,8,Angelica Cundari,65912,Pavia,Vicolo Taccola,164,Italia
+729,14,47,Piergiorgio Bernini,33353,Vercelli,Canale Mondadori,51,Italia
+730,23,40,Dott. Pellegrino Buonauro,56212,Terni,Piazza Franco,112,Italia
+731,18,5,Napoleone Gaito-Granatelli,67431,Cuneo,Via Ferrabosco,34,Italia
+732,21,2,Giulio Corcos,67624,Ascoli Piceno,Vicolo Verri,50,Italia
+733,17,27,Serafina Conti,23840,Ascoli Piceno,Piazza Doglioni,27,Italia
+734,14,22,Paulina Calvo,20962,Viterbo,Incrocio Bersani,145,Italia
+735,20,9,Dott. Gianfranco Fabbri,33702,Taranto,Piazza Fabia,14,Italia
+736,22,11,Mariano Vercelloni-Argan,71675,La Spezia,Vicolo Luisa,39,Italia
+737,4,47,Monica Errani,97651,Mantova,Piazza Antonino,89,Italia
+738,20,38,Aurora Collina,13143,Ogliastra,Stretto Iannotti,156,Italia
+739,3,5,Margherita Mercantini,92662,Savona,Borgo Raffaella,188,Italia
+740,23,11,Simonetta Boitani,37738,Reggio Calabria,Incrocio Stefano,59,Italia
+741,9,35,Raffaellino Ammaniti,14647,Belluno,Incrocio Finotto,89,Italia
+742,21,49,Liberto Ferrucci,71031,Udine,Strada Morricone,54,Italia
+743,3,21,Virginia Zamorani,87425,Asti,Via Missoni,186,Italia
+744,16,50,Dolores Ricolfi,84384,Avellino,Strada Amadeo,70,Italia
+745,15,48,Vincenzo Traversa,48547,Cagliari,Borgo Milena,111,Italia
+746,11,46,Tina Zamorani,47705,Piacenza,Strada Maggioli,37,Italia
+747,5,27,Toni Michelangeli,34129,Agrigento,Borgo Luisa,111,Italia
+748,9,12,Giorgio Padovano-Cilibrasi,95096,Pisa,Contrada Marta,139,Italia
+749,7,30,Antonella Trotta-Ossani,85018,Nuoro,Viale Antonio,124,Italia
+750,12,3,Giacobbe Littizzetto-Salieri,47377,Vicenza,Vicolo Mazzi,131,Italia
+751,10,18,Etta Argenti,54102,Venezia,Piazza Gianluca,100,Italia
+752,20,42,Beatrice Lucarelli,98364,Agrigento,Stretto Romolo,74,Italia
+753,12,14,Federigo Prada,49945,Latina,Stretto Monicelli,161,Italia
+754,12,16,Giustino Mascheroni,96302,Terni,Incrocio Francesco,30,Italia
+755,4,25,Hugo Rocca,66760,Matera,Rotonda Fiorenzo,109,Italia
+756,18,41,Romeo Udinesi,34272,Taranto,Via Olivetti,171,Italia
+757,6,38,Dott. Antonello Foà,85956,Gorizia,Canale Lombardi,135,Italia
+758,10,37,Liana Procacci-Beffa,14013,Padova,Piazza Ugolino,80,Italia
+759,7,36,Liana Lucarelli,83152,Livorno,Contrada Ivo,150,Italia
+760,24,11,Pierpaolo Riccati,28081,Palermo,Canale Capecchi,86,Italia
+761,4,27,Gianfranco Lovato,89089,Biella,Incrocio Giuliana,169,Italia
+762,16,36,Benedetto Gussoni,40188,Reggio Calabria,Borgo Tosi,27,Italia
+763,4,24,Francesca Rizzoli,35785,Catanzaro,Piazza Renzo,132,Italia
+764,18,22,Aurora Romagnoli,30676,Teramo,Viale Ida,42,Italia
+765,16,17,Ermes Pacelli,60623,Lodi,Canale Salvi,169,Italia
+766,15,5,Piergiorgio Marino,21282,Milano,Viale Tonino,96,Italia
+767,23,2,Venancio Musatti,52222,Rovigo,Via Vittoria,3,Italia
+768,4,25,Pellegrino Angeli,12263,Trento,Contrada Pompeo,10,Italia
+769,25,39,Cristina Donati,57099,Alessandria,Borgo Giulia,118,Italia
+770,25,41,Nadia Rastelli-Cimarosa,17653,Firenze,Viale Passalacqua,46,Italia
+771,15,49,Lauretta Marrone,71277,Rieti,Borgo Cocci,166,Italia
+772,11,28,Domenico Benedetti,90915,Rieti,Strada Pistoletto,87,Italia
+773,17,49,Dott. Carlo Mazzacurati,82847,Como,Vicolo Rensi,117,Italia
+774,10,26,Roman Gregori,66010,Trieste,Vicolo Fabrizia,70,Italia
+775,21,34,Graziella Borgia,75319,Rovigo,Rotonda Fiamma,73,Italia
+776,10,31,Donna Manolesso,24953,Olbia-Tempio,Vicolo Paolo,154,Italia
+777,17,47,Carolina Panatta,24003,Vercelli,Rotonda Giacconi,70,Italia
+778,1,27,Francesco Gibilisco-Vergassola,19828,Verbano-Cusio-Ossola,Via Melissa,52,Italia
+779,6,42,Amadeo Morellato,13292,Alessandria,Incrocio Severino,138,Italia
+780,20,10,Dott. Graziella Pace,14217,Grosseto,Rotonda Giorgio,87,Italia
+781,19,50,Aurora Pagliaro,33754,Lodi,Piazza Giorgio,20,Italia
+782,17,43,Rosalia Pellico,39649,Palermo,Contrada Hugo,113,Italia
+783,1,3,Sandra Gentili-Telesio,71091,Rovigo,Strada Trebbi,199,Italia
+784,17,35,Silvestro Bramante,91223,Piacenza,Contrada Salvini,72,Italia
+785,21,45,Maria Tartini,71727,Potenza,Incrocio Marissa,129,Italia
+786,17,20,Dott. Monica Zito,10256,Biella,Borgo Brambilla,38,Italia
+787,15,13,Goffredo Legnante,26910,Catania,Contrada Argenti,84,Italia
+788,21,4,Carolina Zeffirelli-Finetti,67401,Fermo,Canale Farina,2,Italia
+789,1,3,Sole Montecchi,43584,Pistoia,Vicolo Bellò,43,Italia
+790,5,4,Alessio Littizzetto-Serraglio,29578,Belluno,Viale Mariano,77,Italia
+791,18,18,Dott. Alberto Maffei,36514,Lucca,Via Tozzo,55,Italia
+792,21,3,Sig.ra Marisa Barzini,55818,Macerata,Incrocio Migliaccio,31,Italia
+793,2,28,Antonio Soderini-Ritacca,28807,Taranto,Canale Martino,57,Italia
+794,1,25,Daniele Ruggieri,53437,Olbia-Tempio,Contrada Muti,129,Italia
+795,4,50,Sig.ra Adelasia Ferrucci,84114,Aosta,Strada Rosaria,150,Italia
+796,24,20,Salvatore Bonaventura,21977,Latina,Piazza Laureano,12,Italia
+797,1,47,Donato Praga-Comisso,82906,Benevento,Incrocio Greggio,172,Italia
+798,2,37,Enrico Berrè,96015,Viterbo,Strada Verga,68,Italia
+799,5,21,Donna Gatto,83902,Padova,Vicolo Alfredo,19,Italia
+800,25,21,Damiano Cocci,77260,Belluno,Strada Sandro,157,Italia
+801,12,47,Greca Pietrangeli,48947,Viterbo,Borgo Tonino,1,Italia
+802,17,15,Filippa Ostinelli,25424,Potenza,Borgo Roberto,113,Italia
+803,1,7,Clelia Stucchi,85412,Barletta-Andria-Trani,Borgo Vespucci,27,Italia
+804,12,36,Vito Pacetti,29935,Bergamo,Rotonda Vanessa,60,Italia
+805,17,7,Dott. Giada Medici,14129,Sondrio,Rotonda Filippini,45,Italia
+806,5,3,Giulia Nicolucci,96481,Lodi,Rotonda Graziella,30,Italia
+807,2,6,Giorgio Quasimodo,40105,Catanzaro,Rotonda Canali,131,Italia
+808,12,39,Agostino Interminelli,82270,Pordenone,Vicolo Marcella,197,Italia
+809,25,12,Costantino Tosto,50201,Bolzano,Viale Toscani,152,Italia
+810,3,9,Gian Bosio,95367,Belluno,Contrada Mattia,138,Italia
+811,13,41,Dott. Gioffre Gigli,18601,Mantova,Rotonda Giovanna,128,Italia
+812,23,50,Dott. Serafina Procacci,42959,Cremona,Rotonda Rossi,35,Italia
+813,5,48,Clelia Brunello,76595,Belluno,Borgo Cristina,141,Italia
+814,13,31,Ornella Bignardi,38896,Rimini,Vicolo Lovato,46,Italia
+815,6,38,Valerio Vergerio,47506,Ascoli Piceno,Strada Loretta,34,Italia
+816,10,48,Sig.ra Liana Bragaglia,17623,Vibo Valentia,Stretto Gianpaolo,199,Italia
+817,6,13,Imelda Grisoni,83339,Savona,Incrocio Praga,117,Italia
+818,4,34,Lorenzo Fattori,79234,Pavia,Rotonda Arturo,139,Italia
+819,16,9,Maura Carpaccio-Bassi,55748,Aosta,Vicolo Panatta,135,Italia
+820,11,14,Margherita Castioni,37151,Treviso,Strada Maderna,129,Italia
+821,18,26,Tina Goldoni-Impastato,72132,Genova,Strada Sante,164,Italia
+822,19,16,Ludovica Alboni,96727,Cuneo,Contrada Tamburello,32,Italia
+823,10,4,Melania Niscoromni,92008,Taranto,Piazza Pignatti,195,Italia
+824,8,38,Dott. Achille Moneta,16215,Vercelli,Via Toscanini,103,Italia
+825,21,15,Iolanda Giannuzzi,81105,Gorizia,Canale Andreotti,181,Italia
+826,7,23,Lilla Maglio,60993,Forlì-Cesena,Via Dario,172,Italia
+827,3,39,Daniele Mondaini,31905,Oristano,Rotonda Colletti,63,Italia
+828,8,49,Toni Pelli-Fabbri,72351,Nuoro,Canale Verdi,148,Italia
+829,25,46,Morena Einaudi,51691,Gorizia,Via Alessio,45,Italia
+830,6,43,Sig.ra Susanna Papetti,84435,Prato,Strada Stoppani,166,Italia
+831,3,10,Rosa Ceschi-Cundari,31382,Torino,Incrocio Antonio,119,Italia
+832,17,16,Pasqual Monicelli,36018,Prato,Contrada Ramona,30,Italia
+833,1,48,Rocco Bergoglio,42627,Verona,Borgo Capone,85,Italia
+834,14,18,Sig.ra Teresa Scarponi,92864,Pisa,Stretto Cipolla,144,Italia
+835,13,41,Giovanna Visconti-Gentilini,94029,Ogliastra,Rotonda Staglieno,42,Italia
+836,22,22,Daniele Vento,22473,Venezia,Incrocio Verdone,91,Italia
+837,14,10,Ricciotti Gentili,31933,Enna,Viale Golgi,128,Italia
+838,20,47,Virgilio Cimarosa-Scaduto,80974,Verona,Borgo Benedetto,31,Italia
+839,10,14,Maria Nicoletti,25208,Perugia,Canale Luciana,21,Italia
+840,22,22,Luciano Parisi,70526,Rieti,Piazza Guglielmi,153,Italia
+841,22,1,Dott. Melania Iannucci,96111,La Spezia,Rotonda Nicola,135,Italia
+842,16,12,Clelia Parmitano,55786,Caserta,Viale Sollima,182,Italia
+843,16,39,Nedda Folliero,24776,Catania,Vicolo Broschi,94,Italia
+844,4,16,Ettore Moschino,16307,Vercelli,Viale Maria,159,Italia
+845,23,34,Salvi Argan-Ottino,52589,Crotone,Borgo Mattarella,71,Italia
+846,8,28,Dolores Marrone-Mercadante,33380,Firenze,Viale Filippelli,84,Italia
+847,19,50,Allegra Cheda,19773,Rieti,Stretto Sibilia,21,Italia
+848,5,16,Sig. Ferdinando Chechi,80054,Potenza,Vicolo Dolores,78,Italia
+849,2,48,Pietro Iadanza,71186,Siracusa,Contrada Canevascini,49,Italia
+850,18,34,Dott. Loretta Murri,93073,Enna,Piazza Puccio,137,Italia
+851,15,25,Aurora Nolcini,19494,Trapani,Vicolo Girolamo,173,Italia
+852,19,3,Laureano Nonis,60554,Crotone,Borgo Mondadori,35,Italia
+853,11,20,Sandro Boccherini-Interminelli,99462,Parma,Strada Tartini,92,Italia
+854,4,34,Antonietta Ritacca-Mantegna,93300,Napoli,Contrada Gotti,160,Italia
+855,11,12,Federigo Gozzano,39439,Carbonia-Iglesias,Contrada Patrizio,119,Italia
+856,3,41,Raffaellino Micca,48925,Enna,Strada Nanni,6,Italia
+857,12,22,Romeo Nonis-Durante,91620,Grosseto,Borgo Severino,175,Italia
+858,3,41,Amanda Casale,15848,Monza e della Brianza,Incrocio Canetta,21,Italia
+859,17,27,Sig. Fredo Turrini,27686,Vicenza,Strada Vigorelli,63,Italia
+860,23,34,Giorgia Moretti,81631,Firenze,Strada Daria,86,Italia
+861,11,33,Dott. Costanzo Doglioni,76325,Parma,Piazza Ferrari,168,Italia
+862,3,10,Ruggero Telesio,16660,Forlì-Cesena,Rotonda Loretta,172,Italia
+863,21,19,Matilda Montecchi-Lucchesi,94967,Livorno,Vicolo Gianinazzi,101,Italia
+864,10,30,Piero Odescalchi,49958,Bolzano,Via Guglielmo,179,Italia
+865,21,37,Tatiana Fantoni,15230,Caltanissetta,Via Ezio,153,Italia
+866,3,26,Dott. Clelia Luciani,13474,Reggio Emilia,Vicolo Cuda,77,Italia
+867,15,20,Luigina Jovinelli,39389,Bolzano,Incrocio Callegari,139,Italia
+868,20,8,Sig.ra Giulietta Folliero,39594,Pescara,Piazza Volterra,178,Italia
+869,17,34,Micheletto Boito-Innocenti,98701,Vercelli,Rotonda Paoletta,96,Italia
+870,10,8,Sig. Beppe Roncalli,70948,Trapani,Canale Vincenzo,147,Italia
+871,24,37,Simone Filippini,17861,Bergamo,Vicolo Lorenzo,63,Italia
+872,2,19,Giustino Offredi,93541,Bari,Stretto Scarfoglio,106,Italia
+873,16,48,Matteo Moschino,85434,Asti,Canale Travia,189,Italia
+874,20,5,Alphons Paganini-Bresciani,94566,Sondrio,Piazza Emma,32,Italia
+875,4,31,Antonia Bacosi,53792,Pesaro e Urbino,Piazza Agostino,113,Italia
+876,1,5,Mariano Satta,78394,Catanzaro,Rotonda Rosmini,185,Italia
+877,6,23,Milena Borgia-Petrassi,52172,Vibo Valentia,Stretto Letizia,110,Italia
+878,21,44,Leopoldo Luciani,30518,Latina,Via Cuzzocrea,26,Italia
+879,9,28,Iolanda Forza-Mattarella,52003,Vicenza,Stretto Zamorani,31,Italia
+880,11,24,Daria Cesaroni,92871,Modena,Strada Gioffre,134,Italia
+881,3,19,Valeria Asmundo,74401,Lecce,Viale Mondadori,139,Italia
+882,11,21,Severino Scamarcio,42013,Vicenza,Via Bonomo,126,Italia
+883,15,30,Fernanda Valentino-Parpinel,49889,Ascoli Piceno,Borgo Bettina,91,Italia
+884,21,14,Mauro Boccherini,80496,Siracusa,Piazza Bajamonti,112,Italia
+885,15,28,Griselda Volterra,29780,Cagliari,Via Gustavo,39,Italia
+886,18,8,Adamo Vezzali,74850,Bari,Canale Bottaro,56,Italia
+887,16,42,Marcella Costanzi,15227,Campobasso,Incrocio Comolli,132,Italia
+888,1,23,Mercedes Spallanzani,84055,Caserta,Via Amato,37,Italia
+889,4,28,Vincenza Luna,21677,Trento,Rotonda Maggioli,175,Italia
+890,8,17,Sig.ra Elena Piane,59343,Pordenone,Canale Flora,177,Italia
+891,3,10,Osvaldo Barbarigo,69015,Massa-Carrara,Canale Aurora,26,Italia
+892,17,26,Margherita Travaglia,26595,Brescia,Borgo Pisaroni,176,Italia
+893,9,40,Sig. Amedeo Borrani,61402,Terni,Rotonda Anastasi,152,Italia
+894,18,35,Bianca Paganini-Boccherini,20139,Asti,Incrocio Rossana,152,Italia
+895,24,50,Beatrice Veltroni,62678,Barletta-Andria-Trani,Canale Calcedonio,88,Italia
+896,23,29,Sebastiano Botta,47956,Bari,Canale Liguori,125,Italia
+897,20,38,Antonia Ligorio-Antonelli,46087,Lodi,Via Bertoni,25,Italia
+898,10,43,Pierluigi Falier-Govoni,47563,Ogliastra,Incrocio Amleto,35,Italia
+899,16,2,Annamaria Aloisio,75431,Livorno,Contrada Simonetta,99,Italia
+900,10,37,Domenico Columbo,30592,Siracusa,Contrada Gianna,15,Italia
+901,23,45,Lolita Durante,59709,Pesaro e Urbino,Incrocio Mancini,174,Italia
+902,20,35,Galasso Berlusconi,31518,Rieti,Incrocio Paola,8,Italia
+903,5,11,Sig.ra Maria Gabrieli,13852,Trapani,Rotonda Alessio,53,Italia
+904,1,14,Amalia Vergassola,56280,Caserta,Incrocio Cantimori,159,Italia
+905,10,23,Irma Muratori-Brunelleschi,58409,Brindisi,Contrada Alboni,47,Italia
+906,13,12,Luigina Oliboni,25232,Brindisi,Strada Edoardo,34,Italia
+907,4,23,Sig.ra Loretta Sagredo,66585,Aosta,Borgo Branciforte,16,Italia
+908,19,32,Paola Bossi,72279,Pavia,Borgo Francesca,123,Italia
+909,11,15,Gianfranco Salvo,87082,Piacenza,Vicolo Marisa,16,Italia
+910,13,10,Pellegrino Giammusso,98061,Vicenza,Borgo Chigi,120,Italia
+911,18,38,Tiziano Canova,47115,Caltanissetta,Stretto Zeffirelli,102,Italia
+912,22,39,Gianpietro Druso,25063,Foggia,Stretto Fattori,38,Italia
+913,2,29,Liana Roncalli,62685,Rimini,Via Virgilio,178,Italia
+914,14,48,Sig.ra Rosalia Santoro,74816,Vibo Valentia,Borgo Galvani,100,Italia
+915,24,28,Giacinto Grossi,28674,Sassari,Borgo Bartolomeo,32,Italia
+916,17,3,Stella Nievo-Mazzacurati,62084,Livorno,Rotonda Coriolano,198,Italia
+917,9,22,Dott. Gianna Romano,32386,Trento,Contrada Ricciotti,158,Italia
+918,3,44,Massimo Parri,26802,Asti,Viale Morricone,23,Italia
+919,3,48,Donatella Dandolo,13605,Parma,Viale Monteverdi,121,Italia
+920,6,15,Federica Cafarchia-Zeffirelli,48820,Monza e della Brianza,Stretto Ugolino,32,Italia
+921,22,20,Giosuè Tasso-Liverotti,57540,Venezia,Incrocio Magnani,197,Italia
+922,23,37,Tatiana Mengolo,69285,Genova,Vicolo Marco,46,Italia
+923,4,37,Tullio Giunti,76841,Caltanissetta,Incrocio Ugo,106,Italia
+924,17,2,Lucia Roccabonella,86571,Vibo Valentia,Piazza Pedroni,132,Italia
+925,23,31,Cassandra Iadanza,27099,Macerata,Contrada Salgari,32,Italia
+926,20,5,Claudio Vergerio,54197,Genova,Contrada Zabarella,160,Italia
+927,12,3,Annunziata Bersani,23892,Bari,Borgo Fausto,82,Italia
+928,9,44,Piero Farina,12130,Enna,Canale Olivetti,3,Italia
+929,18,35,Nico Fermi,42060,Novara,Via Giacinto,179,Italia
+930,18,30,Alina Aloisio,97590,Roma,Canale Marcella,54,Italia
+931,23,6,Sig. Pomponio Guarato,77785,Udine,Borgo Micheletto,46,Italia
+932,19,27,Sig.ra Victoria Bramante,43619,Olbia-Tempio,Incrocio Ferrara,156,Italia
+933,8,21,Donatella Petrassi,90247,Imperia,Canale Donna,9,Italia
+934,11,47,Sig.ra Laura Dossi,20839,Sondrio,Contrada Toni,188,Italia
+935,9,26,Claudio Trevisan,82415,Verbano-Cusio-Ossola,Rotonda Pomponio,154,Italia
+936,14,27,Maria Bajardi,97695,Rovigo,Borgo Micheletti,21,Italia
+937,2,49,Giada Avogadro,88586,Barletta-Andria-Trani,Strada Fabrizia,69,Italia
+938,13,41,Sig.ra Berenice Carpaccio,36266,Monza e della Brianza,Contrada Antonio,30,Italia
+939,10,42,Sole Zarlino,49496,Verona,Viale Gabriella,14,Italia
+940,3,10,Rembrandt Vento,66212,Crotone,Borgo Scarlatti,177,Italia
+941,17,3,Achille Tornatore,91982,Bologna,Canale Ivan,133,Italia
+942,10,10,Dott. Ernesto Manzoni,71213,Cosenza,Canale Abatantuono,34,Italia
+943,15,29,Francesca Montalti,89079,Prato,Incrocio Viridiana,37,Italia
+944,7,16,Donatella Ajello,70723,Padova,Vicolo Adelasia,148,Italia
+945,6,18,Viridiana Panzera-Satriani,71042,Cosenza,Vicolo Isa,135,Italia
+946,19,15,Giovanna Saffi,12344,Imperia,Canale Sgarbi,113,Italia
+947,21,18,Vanessa Comeriato,10065,Trapani,Piazza Calarco,96,Italia
+948,5,46,Dott. Adriana Ludovisi,86704,Venezia,Viale Bonomo,2,Italia
+949,23,31,Simone Durante,78173,Pesaro e Urbino,Canale Antonini,63,Italia
+950,16,33,Adelmo Orlando,68611,Vercelli,Borgo Gabriele,91,Italia
+951,7,24,Serena Pertile-Guidone,91948,Agrigento,Piazza Pellegrino,94,Italia
+952,19,4,Sandro Morrocco,23443,Gorizia,Piazza Ossola,61,Italia
+953,20,5,Tonia Briccialdi,89263,Ragusa,Vicolo Tresoldi,105,Italia
+954,11,16,Toni Cuzzocrea,73528,Forlì-Cesena,Strada Virginia,28,Italia
+955,9,12,Gianluigi Ruggeri,28002,Taranto,Piazza Francesca,111,Italia
+956,23,31,Nina Mazzocchi,52126,Sondrio,Rotonda Toscanini,133,Italia
+957,18,17,Sig.ra Maria Callegari,97390,Parma,Rotonda Alberto,101,Italia
+958,12,40,Sylvia Marsili-Pasolini,52846,Cremona,Stretto Scaduto,100,Italia
+959,15,1,Sig.ra Griselda Busoni,14533,Sassari,Strada Etta,162,Italia
+960,20,14,Maria Luciani,66368,Bologna,Via Panzera,122,Italia
+961,9,47,Mariana Aulenti-Pederiva,18319,Verona,Canale Nugnes,52,Italia
+962,24,13,Cristina Manzoni,83549,Prato,Borgo Ajello,138,Italia
+963,9,14,Marta Anichini-Petruzzi,68879,Savona,Stretto Alphons,184,Italia
+964,1,45,Morena Padovano,25517,Fermo,Stretto Orlando,128,Italia
+965,5,14,Ubaldo Ruggieri,44537,Fermo,Borgo Fiorucci,155,Italia
+966,18,34,Piero Gulotta,44234,Reggio Emilia,Incrocio Pisaroni,57,Italia
+967,8,19,Marisa Borsellino,75400,Arezzo,Contrada Iadanza,100,Italia
+968,9,14,Giustino Ludovisi,65759,Napoli,Piazza Nicolucci,177,Italia
+969,21,21,Arsenio Vismara,36403,Prato,Contrada Nina,83,Italia
+970,2,34,Tonino Zacco,22998,Foggia,Contrada Montesano,20,Italia
+971,18,37,Dott. Fortunata Tornatore,64137,Padova,Rotonda Piane,108,Italia
+972,20,39,Manuel Trobbiani,79030,Nuoro,Stretto Dolores,59,Italia
+973,5,40,Dott. Sylvia Rapisardi,63862,Genova,Via Rosalia,158,Italia
+974,4,48,Dott. Giovanna Cavalcanti,46350,Monza e della Brianza,Rotonda Moneta,182,Italia
+975,12,45,Sig.ra Eliana Missoni,67709,Vercelli,Strada Pigafetta,74,Italia
+976,19,9,Liberto Mazzi,32168,L'Aquila,Rotonda Missoni,53,Italia
+977,25,32,Dott. Fabio Ruberto,94025,Bolzano,Strada Nina,150,Italia
+978,4,7,Liliana Tognazzi,89495,Rimini,Contrada Florio,198,Italia
+979,2,7,Rocco Basso,85879,Salerno,Borgo Tatiana,185,Italia
+980,4,20,Dott. Renzo Garzoni,77179,Avellino,Canale Eliana,43,Italia
+981,20,23,Annetta Foscari,79879,Arezzo,Vicolo Castiglione,2,Italia
+982,21,2,Michelangelo Cortese,27916,Teramo,Canale Michelotto,138,Italia
+983,24,27,Gabriella Interiano,49688,Ferrara,Canale Donatoni,109,Italia
+984,24,22,Marissa Fabbri,13385,Matera,Vicolo Cipriano,191,Italia
+985,1,33,Silvia Boitani,70456,Caltanissetta,Incrocio Gussoni,180,Italia
+986,5,44,Lara Monduzzi,68811,Viterbo,Viale Guido,22,Italia
+987,23,32,Lisa Opizzi,68321,Mantova,Incrocio Borromeo,124,Italia
+988,3,36,Amadeo Palazzo,39377,Alessandria,Contrada Eliana,92,Italia
+989,10,48,Federigo Soranzo,54030,Trapani,Strada Ligorio,94,Italia
+990,20,49,Stefani Gaiatto,97005,Cremona,Viale Stefano,34,Italia
+991,15,27,Ermenegildo Zanzi,95388,Parma,Vicolo Brunello,126,Italia
+992,3,35,Fiorenzo Porcellato,59104,Varese,Piazza Graziella,26,Italia
+993,12,25,Marissa Panzera-Juvara,35760,Cosenza,Incrocio Sandi,70,Italia
+994,8,27,Gionata Pavanello,23674,Lecco,Stretto Viridiana,19,Italia
+995,11,25,Aldo Martucci,54129,Massa-Carrara,Rotonda Alfio,34,Italia
+996,23,18,Dott. Benito Lamborghini,10439,Sondrio,Stretto Dante,158,Italia
+997,8,35,Stefano Veneziano,25449,Caserta,Contrada Ponti,193,Italia
+998,5,41,Dott. Carla Donatoni,97428,Pisa,Via Clelia,192,Italia
+999,24,4,Sabatino Caccianemico,51971,Catanzaro,Contrada Lamberto,69,Italia
+1000,22,29,Iolanda Chiaramonte,94906,Messina,Piazza Pertile,169,Italia
+1001,18,40,Dott. Fulvio Ziani,64851,Caltanissetta,Incrocio Adelasia,197,Italia
+1002,22,20,Romolo Giolitti,56699,Vibo Valentia,Rotonda Emanuelli,16,Italia
+1003,2,49,Dott. Victoria Valmarana,16185,Campobasso,Vicolo Stein,158,Italia
+1004,13,26,Dott. Gustavo Letta,99499,Trieste,Piazza Ferrazzi,157,Italia
+1005,23,12,Matteo Garozzo,58210,Salerno,Via Chiara,13,Italia
+1006,21,31,Paoletta Scaduto-Battelli,85491,Varese,Incrocio Sibilia,56,Italia
+1007,10,44,Dott. Damiano Disdero,20220,Massa-Carrara,Via Paoletti,100,Italia
+1008,8,15,Bianca Cammarata,31107,Pistoia,Incrocio Rosmini,74,Italia
+1009,4,16,Gabriella Odescalchi,27746,Imperia,Strada Galuppi,115,Italia
+1010,5,7,Sig.ra Veronica Bernardini,73121,Agrigento,Canale Regge,3,Italia
+1011,19,50,Orazio Ritacca,56399,Viterbo,Viale Brambilla,85,Italia
+1012,25,19,Alessia Polesel,59605,Latina,Canale Ortolani,172,Italia
+1013,22,11,Lolita Guarato,25876,Venezia,Strada Ariosto,163,Italia
+1014,1,6,Erika Venier-Aporti,35765,Novara,Rotonda Ferrata,88,Italia
+1015,12,6,Sig. Laureano Capuana,38328,Nuoro,Contrada Antonella,152,Italia
+1016,20,7,Fulvio Roero,13679,Trieste,Rotonda Arsenio,127,Italia
+1017,9,24,Letizia Tomasetti,75435,Salerno,Canale Calbo,70,Italia
+1018,9,21,Gilberto Tartaglia,48867,Trieste,Contrada Dallara,172,Italia
+1019,8,6,Costanzo Majewski,63243,Nuoro,Contrada Carmelo,39,Italia
+1020,22,46,Carmelo Caracciolo,72289,Crotone,Contrada Segrè,148,Italia
+1021,7,3,Annalisa Rossini,88561,Siena,Stretto Tognazzi,3,Italia
+1022,3,40,Gianni Vigliotti,93603,Varese,Via Giannetti,8,Italia
+1023,7,12,Rosaria Cesaroni,76309,Livorno,Piazza Giulietti,145,Italia
+1024,21,12,Piergiorgio Pisani,37574,Novara,Viale Lucrezia,56,Italia
+1025,25,38,Roberta Crespi,81559,Chieti,Piazza Gianfranco,97,Italia
+1026,3,24,Irma Anguillara,44566,Bergamo,Piazza Maglio,117,Italia
+1027,3,41,Fulvio Caracciolo,36554,Pesaro e Urbino,Viale Trevisani,144,Italia
+1028,8,1,Leonardo Leblanc-Sismondi,48817,Crotone,Rotonda Florio,108,Italia
+1029,20,41,Sig. Corrado Soranzo,41824,Pescara,Canale Achille,130,Italia
+1030,14,26,Dott. Lucrezia Toldo,29989,Taranto,Canale Ubaldo,64,Italia
+1031,2,5,Ninetta Bombieri,90801,Sondrio,Via Agostino,9,Italia
+1032,5,39,Jacopo Barracco,64812,Benevento,Stretto Enzo,183,Italia
+1033,20,4,Anita Caccianemico,42501,Pesaro e Urbino,Rotonda Carriera,61,Italia
+1034,24,14,Dott. Imelda Mondadori,90982,Campobasso,Incrocio Annetta,100,Italia
+1035,22,28,Serena Curci,67625,Latina,Via Bonolis,133,Italia
+1036,13,26,Eugenia Cremonesi,59367,L'Aquila,Viale Ida,65,Italia
+1037,17,38,Graziano Botticelli,80889,Campobasso,Borgo Cecilia,34,Italia
+1038,13,44,Romana Ferrante,99445,Parma,Contrada Vidoni,197,Italia
+1039,11,24,Livio Veneziano,96493,Modena,Via Gottardi,163,Italia
+1040,21,41,Sante Grossi,74830,Isernia,Via Romano,79,Italia
+1041,8,12,Laura Vergerio-Federico,18642,Isernia,Canale Patrizia,101,Italia
+1042,17,17,Annalisa Ricci,53318,Padova,Via Alessandro,12,Italia
+1043,7,33,Victoria Cassarà,37843,Ascoli Piceno,Strada Filippa,28,Italia
+1044,21,50,Marina Renzi,73600,Oristano,Rotonda Morabito,60,Italia
+1045,23,1,Costanzo Zacco,85500,Verona,Rotonda Matteo,32,Italia
+1046,5,31,Elvira Moresi,39602,Viterbo,Vicolo Savorgnan,166,Italia
+1047,11,46,Dott. Federigo Moneta,76713,Varese,Incrocio Fabrizi,160,Italia
+1048,8,42,Sig. Sandro Monteverdi,88456,Milano,Contrada Irma,141,Italia
+1049,11,5,Ruggiero Campano,77079,L'Aquila,Rotonda Soranzo,186,Italia
+1050,20,13,Fiamma Lupo,52702,Varese,Stretto Garibaldi,85,Italia
+1051,9,29,Sig.ra Greca Mascagni,98678,Pisa,Strada Pier,78,Italia
+1052,23,20,Graziella Porzio-Sorrentino,72996,Padova,Incrocio Alfredo,13,Italia
+1053,10,23,Mariana Bandello,70590,Bolzano,Incrocio Foconi,160,Italia
+1054,20,33,Caterina Solimena,54509,Asti,Strada Lombardi,135,Italia
+1055,10,6,Antonella Zamorani,28212,Novara,Canale Valerio,60,Italia
+1056,18,46,Gioele Prada,13813,Belluno,Borgo Modigliani,94,Italia
+1057,15,15,Cipriano Vergerio,72796,Milano,Piazza Fedele,110,Italia
+1058,3,36,Stefania Cadorna,27479,Rieti,Vicolo Zacco,50,Italia
+1059,25,39,Giovanni Turati,75000,Lucca,Contrada Aurora,199,Italia
+1060,15,28,Benedetto Depero-Baracca,15247,Alessandria,Vicolo Ferrucci,2,Italia
+1061,2,36,Lilla Ceci,27379,Verona,Canale Cesare,63,Italia
+1062,7,48,Ida Santoro,64679,Bolzano,Stretto Juvara,3,Italia
+1063,10,43,Gianfranco Pucci,46133,Verona,Rotonda Malaparte,190,Italia
+1064,4,40,Silvestro Geraci,72646,Campobasso,Vicolo Giannelli,51,Italia
+1065,15,31,Cristina Paoletti,68046,Salerno,Canale Marta,176,Italia
+1066,20,32,Guido Stefanelli,87722,Barletta-Andria-Trani,Stretto Pellico,14,Italia
+1067,18,29,Giacobbe Schiaparelli-Berengario,24868,Lodi,Via Chindamo,166,Italia
+1068,6,11,Sante Boccherini,86353,Rimini,Via Fabbri,114,Italia
+1069,2,25,Lazzaro Moretti,77412,Carbonia-Iglesias,Viale Zaguri,199,Italia
+1070,16,8,Carla Argenti,42754,Milano,Contrada Dante,130,Italia
+1071,7,29,Coluccio Bevilacqua,20795,Udine,Canale Michelangelo,61,Italia
+1072,10,11,Virgilio Raimondi,71527,Ascoli Piceno,Viale Fabrizia,105,Italia
+1073,5,7,Alderano Cabibbo-Trapanese,38075,Arezzo,Rotonda Leonardo,27,Italia
+1074,9,49,Sandro Notarbartolo-Dossi,61309,Padova,Borgo Micheletti,177,Italia
+1075,11,37,Giuseppe Bignardi,25083,Potenza,Stretto Hugo,75,Italia
+1076,8,21,Roberta Pelli,97581,Crotone,Viale Muratori,3,Italia
+1077,20,16,Dott. Damiano Pezzali,41041,Vibo Valentia,Borgo Rismondo,38,Italia
+1078,7,38,Gianpaolo Ungaretti-Cammarata,92670,Carbonia-Iglesias,Canale Ariasso,28,Italia
+1079,20,1,Giosuè Martucci,78871,Brindisi,Canale Vecellio,169,Italia
+1080,25,38,Ettore Vigliotti,66940,Enna,Vicolo Letizia,188,Italia
+1081,5,46,Matilda Stoppani,11738,Grosseto,Viale Gian,36,Italia
+1082,19,41,Alessia Pirandello,59237,Isernia,Incrocio Manzoni,103,Italia
+1083,9,13,Ettore Belletini,93267,Taranto,Incrocio Lilla,101,Italia
+1084,19,28,Piersanti Pederiva,20146,Prato,Via Sanudo,39,Italia
+1085,9,16,Ignazio Farina,92320,Udine,Via Monaco,101,Italia
+1086,24,21,Biagio Borghese,82646,Savona,Strada Adele,143,Italia
+1087,7,9,Dott. Gioachino Torricelli,54517,Cuneo,Incrocio Carla,72,Italia
+1088,5,17,Emilio Sbarbaro,96802,Trento,Canale Montalti,34,Italia
+1089,10,11,Sig.ra Luisa Valmarana,16423,Salerno,Piazza Alberto,47,Italia
+1090,22,32,Carla Ossani,16196,Taranto,Rotonda Maria,74,Italia
+1091,15,1,Gianna Blasi,18166,Catania,Incrocio Calvo,198,Italia
+1092,16,42,Sig.ra Ludovica Lamborghini,13044,Chieti,Contrada Riccardo,135,Italia
+1093,23,5,Pina Galilei,66228,Trieste,Stretto Giannini,180,Italia
+1094,16,7,Amalia Gaiatto,66700,Pesaro e Urbino,Piazza Natta,20,Italia
+1095,4,4,Melania Asmundo-Pedersoli,24121,Palermo,Canale Bernetti,6,Italia
+1096,7,46,Greco Spinelli-Cherubini,97643,Udine,Via Lidia,10,Italia
+1097,3,10,Arnulfo Salata-Giradello,87348,Varese,Strada Gangemi,10,Italia
+1098,17,48,Silvestro Busoni,78405,Piacenza,Incrocio Crespi,96,Italia
+1099,6,16,Sig.ra Victoria Bellò,67627,Venezia,Contrada Nicola,156,Italia
+1100,8,49,Caterina Foletti,96497,Viterbo,Piazza Torricelli,2,Italia
+1101,8,35,Angelo Bocca,14025,Siena,Via Geronimo,16,Italia
+1102,20,37,Elisa Venditti,84607,Olbia-Tempio,Via Melania,118,Italia
+1103,21,43,Bettina Treccani-Caruso,70177,Siena,Canale Pierpaolo,182,Italia
+1104,7,32,Oreste Gozzano,61743,Trento,Borgo Nedda,200,Italia
+1105,7,13,Angelina Pergolesi,27486,Rimini,Viale Stein,193,Italia
+1106,10,22,Antonia Mercalli-Pavone,47729,Udine,Viale Rosselli,102,Italia
+1107,13,4,Elena Bonatti,62923,Gorizia,Via Torlonia,65,Italia
+1108,23,7,Sig. Lorenzo Rusticucci,67040,Oristano,Viale Cutuli,106,Italia
+1109,4,18,Adelasia Correr,11168,Torino,Piazza Ruggero,40,Italia
+1110,5,14,Micheletto Scarlatti,83748,Ascoli Piceno,Viale Faggiani,65,Italia
+1111,17,48,Sig.ra Romina Ovadia,56470,Milano,Vicolo Piovani,102,Italia
+1112,3,13,Salvi Jovinelli-Cavanna,98070,Verbano-Cusio-Ossola,Borgo Giannone,200,Italia
+1113,15,41,Salvatore Taliercio,65201,Caltanissetta,Incrocio Gian,193,Italia
+1114,18,48,Pompeo Capuana-Gramsci,53796,Ascoli Piceno,Piazza Vespa,33,Italia
+1115,7,42,Victoria Pizzo-Ponti,56552,Treviso,Viale Baggio,10,Italia
+1116,18,7,Gelsomina Vecoli,14687,Nuoro,Viale Rosalia,75,Italia
+1117,12,46,Rosina Panatta,72620,Ancona,Rotonda Elisa,191,Italia
+1118,25,15,Camilla Spallanzani,49126,Savona,Rotonda Cirillo,59,Italia
+1119,3,32,Dott. Ermanno Luxardo,53420,Cagliari,Incrocio Leoncavallo,132,Italia
+1120,17,29,Simone Savorgnan,42908,Reggio Calabria,Incrocio Giulietta,59,Italia
+1121,23,30,Priscilla Luzi,59050,Forlì-Cesena,Contrada Malenchini,160,Italia
+1122,11,14,Luisa Canali,15854,Mantova,Rotonda Quasimodo,131,Italia
+1123,16,40,Gelsomina Maglio,21769,L'Aquila,Strada Giovanni,36,Italia
+1124,23,49,Atenulf Mercantini,35300,Catania,Vicolo Traversa,140,Italia
+1125,7,18,Sabatino Toninelli,43967,Arezzo,Via Carullo,112,Italia
+1126,6,16,Sig. Alberto Camanni,39932,Pescara,Strada Bertolucci,153,Italia
+1127,5,26,Gianpaolo Pinamonte,41257,Rieti,Contrada Gravina,25,Italia
+1128,22,25,Sig.ra Sylvia Vergerio,50134,Ragusa,Strada Romana,54,Italia
+1129,4,4,Sante Bonomo-Malpighi,72493,Ancona,Viale Claudio,74,Italia
+1130,4,1,Graziella Sagese,91604,Verona,Contrada Gussoni,120,Italia
+1131,20,50,Barbara Basadonna,74046,Savona,Viale Nino,136,Italia
+1132,9,5,Margherita Binaghi,91764,Ravenna,Via Melissa,34,Italia
+1133,18,14,Dante Boaga,40601,Potenza,Piazza Priscilla,7,Italia
+1134,15,20,Luciana Calbo,22493,Vicenza,Stretto Bonatti,169,Italia
+1135,3,37,Paola Pietrangeli,31672,Caserta,Via Romiti,63,Italia
+1136,2,47,Guarino Taccola-Polizzi,90412,Agrigento,Viale Antonioni,168,Italia
+1137,19,49,Luca Scarponi,11460,Gorizia,Stretto Giorgia,113,Italia
+1138,17,38,Annibale Soprano,65865,Ferrara,Via Turrini,74,Italia
+1139,25,37,Salvatore Faranda,97220,Pavia,Borgo Alberico,4,Italia
+1140,9,39,Arsenio Beccaria,36065,Palermo,Rotonda Antonino,36,Italia
+1141,4,18,Dott. Pierangelo Faranda,82833,Vercelli,Via Quasimodo,58,Italia
+1142,5,33,Amalia Foa-Ponti,64323,Medio Campidano,Viale Samele,141,Italia
+1143,6,43,Sylvia Cerutti-Guidone,25926,Pavia,Strada Folliero,125,Italia
+1144,12,26,Agnolo Golino,89474,Bolzano,Viale Lercari,106,Italia
+1145,2,7,Gian Gianvecchio,96703,Barletta-Andria-Trani,Rotonda Giampiero,107,Italia
+1146,5,33,Elladio Deledda,34235,Sondrio,Stretto Carnera,154,Italia
+1147,23,46,Luciano Golgi,43110,Teramo,Incrocio Samele,101,Italia
+1148,14,50,Guarino Petralli,24069,Ascoli Piceno,Via Napoleone,173,Italia
+1149,24,35,Paloma Golino,93455,Teramo,Rotonda Claudia,156,Italia
+1150,14,7,Nedda Tiepolo,80983,Massa-Carrara,Borgo Aldo,19,Italia
+1151,5,36,Paride Segni,44372,Cosenza,Contrada Eva,119,Italia
+1152,25,26,Dott. Imelda Trincavelli,82556,Siena,Via Deledda,140,Italia
+1153,7,33,Paloma Gulotta-Pacetti,59441,Ancona,Contrada Vittorio,84,Italia
+1154,13,24,Dott. Sandra Riccardi,39274,Trento,Rotonda Rosalia,25,Italia
+1155,25,1,Simone Biagiotti-Satta,90991,Medio Campidano,Vicolo Geronimo,12,Italia
+1156,12,46,Bianca Rossellini,11004,Pesaro e Urbino,Rotonda Graziano,163,Italia
+1157,8,30,Sig.ra Evangelista Sanguineti,69178,Mantova,Strada Luciana,91,Italia
+1158,11,24,Gianluca Morlacchi,33620,Nuoro,Borgo Veronica,69,Italia
+1159,10,35,Camillo Bartoli-Scarponi,13498,Fermo,Viale Simone,116,Italia
+1160,23,50,Roman Santorio,43891,Modena,Viale Pavanello,20,Italia
+1161,5,49,Melissa Fagotto-Iannelli,46516,Milano,Borgo Golino,199,Italia
+1162,8,36,Eugenia Bertoni-Bixio,54681,Reggio Calabria,Viale Schiavo,196,Italia
+1163,24,50,Patrizia Sermonti,40107,Sassari,Vicolo Lara,77,Italia
+1164,7,33,Dott. Pomponio Querini,93089,Vicenza,Strada Roncalli,184,Italia
+1165,21,28,Rolando Micheletti-Angiolello,56030,Genova,Canale Maccanelli,7,Italia
+1166,14,47,Gemma Galiazzo,96898,Ogliastra,Piazza Pellegrino,195,Italia
+1167,14,8,Michelangelo Amato,86054,Mantova,Viale Romeo,123,Italia
+1168,5,50,Pierangelo Bottigliero,47944,Verbano-Cusio-Ossola,Via Napoleone,110,Italia
+1169,18,38,Osvaldo Agnesi,15572,Roma,Contrada Corbo,147,Italia
+1170,19,17,Guglielmo Santi,90098,Olbia-Tempio,Incrocio Dellucci,47,Italia
+1171,5,22,Sig. Beppe Gonzaga,85289,Varese,Viale Arsenio,140,Italia
+1172,3,14,Ettore Vitturi,95928,Bergamo,Strada Mattia,68,Italia
+1173,11,19,Costanzo Petruzzi-Cheda,33129,Pistoia,Incrocio Babati,14,Italia
+1174,25,49,Teresa Lollobrigida-Calgari,46586,Pescara,Strada Piergiorgio,152,Italia
+1175,4,13,Pina Schiavo,80034,Napoli,Stretto Temistocle,86,Italia
+1176,13,16,Gioele Pastine,12627,Gorizia,Via Martucci,83,Italia
+1177,15,36,Gaetano Segrè,89330,Vibo Valentia,Viale Hugo,152,Italia
+1178,23,26,Fiamma Mascagni,49879,Reggio Calabria,Contrada Raffaele,90,Italia
+1179,7,32,Patrizia Fieramosca,30131,Frosinone,Canale Trapani,13,Italia
+1180,14,43,Eliana Federici,31018,Prato,Stretto Bertolucci,70,Italia
+1181,24,42,Melissa Malpighi,72840,Ravenna,Strada Marta,168,Italia
+1182,16,20,Sig. Tiziano Antonioni,15709,Fermo,Incrocio Ansaldo,184,Italia
+1183,3,46,Lando Marcacci-Endrizzi,30702,Caltanissetta,Vicolo Nino,17,Italia
+1184,20,4,Pasquale Giammusso,85511,Matera,Strada Pozzecco,3,Italia
+1185,7,6,Gianfranco Zaccardo,48589,Ascoli Piceno,Rotonda Panzera,159,Italia
+1186,12,30,Eliana Montecchi-Bignardi,56229,Rovigo,Piazza Argan,134,Italia
+1187,18,34,Ennio Salieri,31888,Milano,Strada Trotta,69,Italia
+1188,5,7,Sig. Amleto Ricolfi,71517,Potenza,Incrocio Ivan,174,Italia
+1189,15,41,Graziano Broschi,65697,Imperia,Viale Trapani,82,Italia
+1190,8,22,Gioacchino Modigliani,26732,Trieste,Vicolo Filippo,88,Italia
+1191,1,48,Augusto Vittadello,45357,Matera,Rotonda Modiano,17,Italia
+1192,16,38,Dott. Oreste Galiazzo,57058,Modena,Viale Margherita,175,Italia
+1193,11,15,Adamo Pedroni-Udinese,42415,Lucca,Contrada Comboni,72,Italia
+1194,10,45,Dott. Alessia Scarfoglio,82630,Vicenza,Incrocio Milo,94,Italia
+1195,8,24,Dante Ceschi-Bevilacqua,78651,Brindisi,Piazza Stefania,145,Italia
+1196,5,18,Zaira Chigi-Medici,17642,Livorno,Contrada Grisoni,109,Italia
+1197,5,7,Liberto Orengo-Callegari,64825,Medio Campidano,Canale Doglioni,31,Italia
+1198,3,20,Matilda Anichini,97031,Imperia,Vicolo Licia,80,Italia
+1199,6,6,Irma Traetta-Nibali,67901,Matera,Canale Piane,141,Italia
+1200,12,21,Camillo Jovinelli,39964,Asti,Rotonda Erika,80,Italia
+1201,25,44,Priscilla Lopresti,48088,Potenza,Piazza Lollobrigida,53,Italia
+1202,2,25,Marina Errigo,99729,Cremona,Viale Camiscione,164,Italia
+1203,23,11,Giulia Tomei,67569,Alessandria,Canale Cilea,80,Italia
+1204,22,31,Camillo Morrocco,31301,Piacenza,Contrada Antonacci,183,Italia
+1205,20,34,Emma Savorgnan,67061,La Spezia,Vicolo Maria,1,Italia
+1206,20,23,Nino Ajello,84753,Latina,Rotonda Valerio,51,Italia
+1207,18,13,Matilda Nonis-Bosio,53726,Ragusa,Vicolo Musatti,182,Italia
+1208,9,17,Costanzo Ariosto,62543,Bologna,Stretto Sergius,139,Italia
+1209,7,24,Sig. Lando Pepe,89974,La Spezia,Strada Ivo,156,Italia
+1210,12,23,Raffaella Marcacci-Salandra,85380,Bari,Rotonda Caccioppoli,7,Italia
+1211,14,11,Luigi Zaccardo-Ciani,68910,Gorizia,Piazza Francesca,195,Italia
+1212,12,22,Piersanti Campanella,42029,Lucca,Piazza Zichichi,188,Italia
+1213,18,13,Sig.ra Licia Carosone,81534,Genova,Vicolo Sgarbi,135,Italia
+1214,19,13,Ivan Giunti,52009,La Spezia,Stretto Fedele,80,Italia
+1215,3,10,Lauretta Pagliaro-Bajardi,61127,Ravenna,Contrada Stefania,138,Italia
+1216,14,29,Fausto Barracco,34772,Teramo,Piazza Gustavo,94,Italia
+1217,17,43,Bianca Petrocelli,76270,Genova,Vicolo Hugo,159,Italia
+1218,25,36,Berenice Gigli,63915,Bari,Viale Orazio,13,Italia
+1219,8,12,Annamaria Babbo,91131,Rimini,Canale Fausto,192,Italia
+1220,14,40,Laureano Mazzacurati,86962,Salerno,Piazza Piermaria,19,Italia
+1221,23,19,Leone Ricolfi,50326,Catania,Incrocio Cossiga,137,Italia
+1222,10,10,Enrico Manacorda,56124,Siena,Stretto Togliatti,28,Italia
+1223,15,30,Donatella Napolitano,42366,Salerno,Via Vincenzo,105,Italia
+1224,20,9,Sig. Gioffre Fiorucci,75759,Medio Campidano,Via Calarco,103,Italia
+1225,18,50,Dott. Jolanda Villadicani,72697,Latina,Contrada Dario,157,Italia
+1226,3,28,Carmelo Scaramucci,90649,Cuneo,Via Nanni,23,Italia
+1227,22,36,Irma Treccani,60220,Reggio Emilia,Incrocio Fortunata,125,Italia
+1228,14,28,Dionigi Lopresti,90734,Rovigo,Vicolo Corrado,2,Italia
+1229,11,33,Jacopo Sobrero,15532,Agrigento,Incrocio Beatrice,138,Italia
+1230,10,28,Corrado Semitecolo-Pennetta,98001,Venezia,Stretto Cherubini,11,Italia
+1231,22,31,Gianluca Pininfarina-Siffredi,42319,Prato,Canale Lamberto,190,Italia
+1232,9,19,Dott. Enzo Lombardi,38135,Lucca,Rotonda Antonini,105,Italia
+1233,8,16,Marina Tagliafierro-Pezzali,32775,Torino,Piazza Fabia,23,Italia
+1234,5,46,Cassandra Granatelli,17669,Caserta,Contrada Stefani,126,Italia
+1235,9,37,Gianluca Garozzo,78926,Nuoro,Contrada Asprucci,187,Italia
+1236,15,22,Ignazio Anguillara,59639,Asti,Vicolo Leone,73,Italia
+1237,6,47,Donatella Iacobucci,36972,Vicenza,Stretto Bignami,159,Italia
+1238,24,46,Dolores Mantegna,27734,Siena,Borgo Nico,35,Italia
+1239,17,38,Oreste Montanariello,95673,Sassari,Stretto Trevisani,40,Italia
+1240,17,21,Giacomo Celentano,20616,Ferrara,Viale Bettina,116,Italia
+1241,19,9,Melina Peano,30395,Bergamo,Via Dellucci,2,Italia
+1242,1,49,Nino Nosiglia-Chigi,18077,Pesaro e Urbino,Incrocio Ansaldo,99,Italia
+1243,6,40,Eraldo Alfieri,23868,Lecce,Vicolo Dallapé,88,Italia
+1244,20,32,Annunziata Schicchi-Cilea,16725,Prato,Viale Morgagni,157,Italia
+1245,14,3,Venancio Accardo-Mazzini,22369,Roma,Rotonda Leoncavallo,96,Italia
+1246,21,22,Sig. Nino Giannone,48257,Genova,Via Bellò,129,Italia
+1247,3,43,Rosa Tommaseo,28597,Potenza,Vicolo Silvestro,193,Italia
+1248,13,44,Romina Mercantini,48110,Aosta,Rotonda Pacelli,195,Italia
+1249,24,13,Laura Alboni,37192,Padova,Vicolo Combi,168,Italia
+1250,12,9,Bettina Andreozzi,80881,Avellino,Via Dino,177,Italia
+1251,18,33,Nicoletta Santoro,24204,Cremona,Strada Bottaro,136,Italia
+1252,12,33,Dott. Giulietta Callegaro,90177,Belluno,Borgo Ezio,31,Italia
+1253,2,44,Sig. Panfilo Rosmini,26436,Cuneo,Contrada Morucci,144,Italia
+1254,25,10,Patrizia Morellato-Sommaruga,90210,Oristano,Rotonda Giada,64,Italia
+1255,21,6,Nanni Agazzi-Garzoni,11057,Aosta,Stretto Adriana,175,Italia
+1256,5,1,Sig.ra Melania Duodo,65628,Torino,Canale Cossiga,7,Italia
+1257,3,26,Salvatore Gemito,39321,Caserta,Piazza Amadeo,160,Italia
+1258,19,27,Vittoria Papafava,25814,Pavia,Canale Venancio,200,Italia
+1259,13,28,Tonia Abate,41676,Belluno,Incrocio Pedroni,168,Italia
+1260,24,29,Sig. Sabatino Visconti,80221,Varese,Rotonda Tomasetti,147,Italia
+1261,1,7,Isa Spinelli,47612,Bologna,Vicolo Greca,109,Italia
+1262,11,19,Flavio Ricci,74536,Ragusa,Vicolo Azeglio,69,Italia
+1263,14,3,Dott. Emma Manunta,24464,Novara,Viale Pompeo,62,Italia
+1264,7,18,Raffaello Trincavelli,83459,Torino,Vicolo Lucia,39,Italia
+1265,18,22,Giovanni Cuomo,69505,Agrigento,Canale Ornella,106,Italia
+1266,3,45,Victoria Lercari,77084,Livorno,Canale Zaccagnini,58,Italia
+1267,10,20,Raimondo Botta-Leblanc,20338,Forlì-Cesena,Rotonda Ermenegildo,52,Italia
+1268,10,39,Concetta Acerbi,30644,Potenza,Canale Rubbia,28,Italia
+1269,6,37,Gelsomina Parpinel,61679,Viterbo,Borgo Gentili,181,Italia
+1270,25,19,Emma Mastroianni,94837,Foggia,Piazza Proietti,48,Italia
+1271,17,38,Renata Casagrande,30947,Bergamo,Stretto Pierangelo,121,Italia
+1272,8,16,Maurilio Cagnin,72763,Ogliastra,Via Micca,111,Italia
+1273,23,35,Giulietta Biagi,52858,Frosinone,Borgo Eva,26,Italia
+1274,3,13,Teresa Tasso,46151,Imperia,Strada Carmelo,35,Italia
+1275,7,27,Sig.ra Antonia Mozart,82614,Pistoia,Canale Giuseppina,149,Italia
+1276,18,38,Marisa Grasso,65551,Padova,Rotonda Durante,81,Italia
+1277,3,3,Francesca Musatti,62607,Lecce,Incrocio Bernardo,168,Italia
+1278,22,27,Loretta Brunello,63856,Rovigo,Via Mariana,52,Italia
+1279,8,10,Sig.ra Luciana Cannizzaro,72591,Rovigo,Stretto Ruggeri,174,Italia
+1280,17,4,Paloma Passalacqua,30038,Lecco,Viale Federico,120,Italia
+1281,7,50,Mariano Bonomo,75147,Campobasso,Viale Benussi,77,Italia
+1282,13,18,Alessia Rismondo,24570,Campobasso,Canale Manacorda,11,Italia
+1283,14,20,Dionigi Rosselli,26601,Asti,Piazza Trevisani,88,Italia
+1284,11,2,Federica Sanudo,63341,Caltanissetta,Incrocio Scamarcio,113,Italia
+1285,25,30,Telemaco Lanfranchi-Ramazzotti,24653,Bergamo,Piazza Domenico,69,Italia
+1286,25,34,Diana Giunti,31101,Genova,Borgo Ignazio,129,Italia
+1287,23,17,Raffaello Bosurgi,15033,Terni,Borgo Crespi,138,Italia
+1288,24,11,Tiziano Peranda,97288,Ragusa,Rotonda Lolita,195,Italia
+1289,24,10,Cipriano Inzaghi,80101,Ancona,Canale Concetta,88,Italia
+1290,6,28,Ansaldo Oscuro,53592,Cuneo,Rotonda Annibale,160,Italia
+1291,4,36,Calogero Brancaccio,49394,Pordenone,Vicolo Bassi,77,Italia
+1292,9,9,Pierpaolo Meucci,31255,Brindisi,Stretto Iannucci,74,Italia
+1293,16,18,Ermes Dovara,71455,Bergamo,Vicolo Norbiato,102,Italia
+1294,14,7,Giacomo Iannuzzi,90922,Terni,Via Finetti,173,Italia
+1295,20,19,Benito Soranzo,37209,Cuneo,Contrada Mariano,191,Italia
+1296,2,40,Enrico Mezzetta,41119,Padova,Contrada Tanzini,101,Italia
+1297,21,36,Guido Moccia,42769,Lucca,Stretto Piero,6,Italia
+1298,9,48,Ugolino Olivetti,43244,Ascoli Piceno,Incrocio Persico,189,Italia
+1299,15,24,Sig. Atenulf Staglieno,31604,Forlì-Cesena,Viale Cirillo,77,Italia
+1300,13,24,Tonia Majewski,50258,Pavia,Viale Capone,134,Italia
+1301,21,17,Luciana Bova,40287,Pescara,Viale Costalonga,33,Italia
+1302,13,5,Romeo Stradivari,13924,Pistoia,Borgo Duodo,133,Italia
+1303,10,5,Dott. Pasqual Barzini,15871,Viterbo,Viale Costantino,78,Italia
+1304,25,20,Zaira Soffici,90854,Fermo,Strada Silvestro,37,Italia
+1305,9,18,Sig. Gaspare Boitani,53159,Vibo Valentia,Rotonda Fausto,129,Italia
+1306,12,47,Sig.ra Michela Piacentini,27599,Vicenza,Strada Casalodi,157,Italia
+1307,16,39,Dott. Viridiana Passalacqua,84836,Verona,Canale Dario,6,Italia
+1308,8,26,Evangelista Niggli,82953,Padova,Via Silvia,168,Italia
+1309,1,19,Gino Bandello,35086,Gorizia,Borgo Albertini,194,Italia
+1310,2,13,Piersanti Luna,14733,Ravenna,Strada Offredi,157,Italia
+1311,21,46,Hugo Trevisani,95982,Imperia,Piazza Siffredi,112,Italia
+1312,24,33,Michelangelo Grassi,93044,Reggio Calabria,Contrada Maura,149,Italia
+1313,11,19,Donatello Travaglio,83349,Olbia-Tempio,Borgo Amleto,104,Italia
+1314,8,35,Tonia Antonucci,39303,Verona,Via Savorgnan,55,Italia
+1315,25,34,Giulio Cuda,29840,Bari,Stretto Manuel,167,Italia
+1316,1,23,Stefania Chiesa,10153,Lodi,Rotonda Gilberto,109,Italia
+1317,25,40,Dott. Sylvia Saracino,84554,Taranto,Borgo Paola,77,Italia
+1318,14,3,Guido Farnese,98242,Cagliari,Canale Gaspare,121,Italia
+1319,8,11,Durante Vitturi,24846,Foggia,Canale Armani,22,Italia
+1320,1,8,Elladio Smirnoff,98683,Catanzaro,Strada Beppe,41,Italia
+1321,21,25,Greca Salgari,40981,Sondrio,Vicolo Augusto,184,Italia
+1322,3,1,Maria Pratesi,34081,Potenza,Via Goffredo,172,Italia
+1323,4,29,Alderano Proietti-Malaparte,57266,Rovigo,Stretto Nitti,35,Italia
+1324,16,39,Sig.ra Marisa Musatti,43742,Imperia,Viale Gregori,63,Italia
+1325,1,29,Durante Pelli,76527,Imperia,Canale Dossi,17,Italia
+1326,19,2,Ubaldo Panzera,58209,Treviso,Borgo Fortunata,80,Italia
+1327,9,11,Claudia Loredan-Bompiani,94803,Salerno,Stretto Iolanda,135,Italia
+1328,20,2,Dott. Gianluca Zoppetto,98291,Savona,Canale Giacobbe,62,Italia
+1329,15,8,Enzio Borromini,57719,Cosenza,Canale Norbiato,141,Italia
+1330,20,35,Cassandra Bergoglio-Filippini,63330,Novara,Contrada Marina,176,Italia
+1331,7,24,Silvio Bodoni,79648,Savona,Rotonda Olga,175,Italia
+1332,16,25,Paloma Galeati,44242,Reggio Emilia,Piazza Zanazzo,76,Italia
+1333,3,9,Dott. Lauretta Majorana,79149,Perugia,Piazza Alessandra,99,Italia
+1334,21,50,Giorgia Germano,55693,Sondrio,Borgo Ugolino,89,Italia
+1335,14,22,Dott. Aldo Sommaruga,87498,Ogliastra,Viale Raurica,181,Italia
+1336,8,49,Romana Bragadin,84734,Mantova,Via Durante,10,Italia
+1337,7,26,Isa Pizziol,91363,Perugia,Canale Costanzo,192,Italia
+1338,21,38,Maurilio Maspero,44503,Firenze,Incrocio Alessia,62,Italia
+1339,13,22,Maria Ferrucci-Michelangeli,27904,Firenze,Incrocio Donato,160,Italia
+1340,21,33,Sig.ra Antonia Vergassola,66221,Pesaro e Urbino,Stretto Cesarotti,2,Italia
+1341,3,1,Marisa Ughi,87159,Messina,Stretto Fausto,142,Italia
+1342,23,21,Enzo Palombi,78748,Genova,Strada Mondaini,106,Italia
+1343,4,23,Melania Casaleggio,77248,Ferrara,Canale Ortese,172,Italia
+1344,20,9,Isabella Gabrieli,39166,Torino,Stretto Alberico,10,Italia
+1345,13,28,Domenico Argan,99985,Rieti,Rotonda Ruberto,157,Italia
+1346,14,36,Dott. Benedetto Tonisto,45477,Reggio Emilia,Strada Delfino,47,Italia
+1347,23,48,Dott. Giuliana Porcellato,31564,Asti,Piazza Ferragni,21,Italia
+1348,19,2,Raffaella Necci,30159,Brindisi,Contrada Livio,112,Italia
+1349,19,29,Sig.ra Aria Parini,37427,Biella,Vicolo Ricciotti,87,Italia
+1350,12,8,Adamo Gagliardi-Chiappetta,99332,Cuneo,Canale Rismondo,153,Italia
+1351,9,33,Fiorenzo Gangemi,97548,Monza e della Brianza,Contrada Pelli,86,Italia
+1352,9,4,Gaspare Muti-Magnani,74121,Siena,Strada Scaduto,4,Italia
+1353,8,13,Sig.ra Michela Inzaghi,21451,Rovigo,Incrocio Allegra,85,Italia
+1354,21,25,Sole Benedetti-Zanzi,55322,Pordenone,Via Taliercio,77,Italia
+1355,21,39,Eugenia Fibonacci,55774,Reggio Calabria,Strada Enzio,99,Italia
+1356,21,28,Enrico Redi,48861,Messina,Viale Victoria,72,Italia
+1357,22,22,Gianmarco Ferrabosco,93001,Livorno,Vicolo Michelangelo,13,Italia
+1358,24,42,Marina Bettin,98062,Imperia,Vicolo Marinetti,193,Italia
+1359,6,37,Pierluigi Tamburini,34103,Caltanissetta,Via Fallaci,88,Italia
+1360,11,47,Giampiero Ubaldi-Piacentini,51853,Padova,Rotonda Porzio,35,Italia
+1361,5,38,Barbara Rinaldi-Marino,12047,Barletta-Andria-Trani,Via Fieramosca,55,Italia
+1362,7,18,Giosuè Marangoni,23428,Rimini,Vicolo Leone,53,Italia
+1363,1,17,Donna Bataglia,29278,Verona,Piazza Angeli,2,Italia
+1364,22,23,Maurilio Zola-Franzese,88826,Modena,Strada Carolina,20,Italia
+1365,22,43,Dolores Lucchesi-Boitani,31729,Rieti,Piazza Turchi,184,Italia
+1366,5,10,Luisa Cabibbo,87333,L'Aquila,Borgo Guglielmo,47,Italia
+1367,10,14,Biagio Pergolesi,96919,Modena,Rotonda Maderno,188,Italia
+1368,1,13,Priscilla Gaito-Roccabonella,12109,Sondrio,Incrocio Alphons,184,Italia
+1369,2,16,Lisa Pistoletto,60383,Udine,Rotonda Piersanti,142,Italia
+1370,5,21,Fernanda Casini,31268,Lucca,Rotonda Ajello,139,Italia
+1371,2,31,Ubaldo Polizzi,59743,Treviso,Piazza Enzio,36,Italia
+1372,22,38,Evangelista Travia,23615,Gorizia,Borgo Milena,81,Italia
+1373,17,2,Natalia Montalti,84216,Siracusa,Stretto Adriana,111,Italia
+1374,10,19,Durante Amaldi,97928,Trieste,Stretto Giuliano,30,Italia
+1375,9,40,Azeglio Columbo,35206,Trapani,Incrocio Barbara,91,Italia
+1376,9,8,Rita Garibaldi,19050,Ogliastra,Piazza Ruggeri,40,Italia
+1377,17,47,Cipriano Borroni,79874,Treviso,Stretto Fibonacci,163,Italia
+1378,11,3,Manuel Tartini,61908,Mantova,Rotonda Antonino,44,Italia
+1379,2,13,Diana Comboni,55087,Verona,Piazza Eleanora,36,Italia
+1380,14,45,Valentina Bonolis,43217,Cosenza,Viale Luisa,168,Italia
+1381,15,2,Antonella Rubbia-Vismara,49048,Pesaro e Urbino,Incrocio Adelmo,48,Italia
+1382,11,7,Clelia Interiano,42532,L'Aquila,Stretto Filippo,6,Italia
+1383,12,37,Valerio Lollobrigida,68795,Lecco,Rotonda Luca,99,Italia
+1384,3,5,Antonella Tiepolo,57175,Macerata,Contrada Leone,38,Italia
+1385,6,35,Gustavo Tosi,80906,Genova,Contrada Fedele,109,Italia
+1386,15,22,Sig. Benito Ferretti,36365,Genova,Borgo Bonatti,132,Italia
+1387,23,7,Luigina Geraci,67517,Perugia,Vicolo Giulia,126,Italia
+1388,5,45,Galasso Castellitto,71641,Caltanissetta,Viale Irma,34,Italia
+1389,11,19,Ida Catenazzi-Eco,68334,Pisa,Stretto Liana,43,Italia
+1390,3,10,Dott. Nedda Gotti,99124,Novara,Stretto Rossana,35,Italia
+1391,10,49,Loredana Sokolov-Zoppetti,41186,Siracusa,Borgo Gaspare,159,Italia
+1392,2,8,Mirko Pincherle,17217,Catania,Contrada Ramona,172,Italia
+1393,19,38,Annamaria Tamborini,77873,Asti,Contrada Ottone,61,Italia
+1394,11,46,Emma Paltrinieri,92811,Isernia,Canale Dino,65,Italia
+1395,18,10,Lando Sinisi,49060,Cuneo,Stretto Giannelli,102,Italia
+1396,9,27,Dott. Michela Tutino,32466,La Spezia,Borgo Tamburini,91,Italia
+1397,7,27,Fernanda Mennea,68906,Biella,Incrocio Gioacchino,25,Italia
+1398,14,14,Camilla Balbi,18879,Como,Incrocio Salvemini,180,Italia
+1399,8,46,Arsenio Panatta,69594,Barletta-Andria-Trani,Via Liliana,88,Italia
+1400,24,39,Sig.ra Donatella Cabrini,66809,Cagliari,Vicolo Sandra,64,Italia
+1401,24,9,Ugo Anguissola,81504,Benevento,Borgo Adelmo,134,Italia
+1402,16,50,Laureano Modiano,78920,Pavia,Piazza Comisso,96,Italia
+1403,20,18,Dott. Elladio Pisacane,75680,Foggia,Strada Bixio,57,Italia
+1404,23,8,Dott. Domenico Zacchia,79055,Trieste,Incrocio Concetta,45,Italia
+1405,10,32,Sig. Lamberto Platini,55987,Vercelli,Strada Camuccini,136,Italia
+1406,17,27,Martina Pedersoli,40141,Reggio Emilia,Vicolo Bernetti,179,Italia
+1407,8,33,Dolores Ferrucci,69159,Pisa,Rotonda Piero,185,Italia
+1408,5,15,Lolita Tosto,92163,Monza e della Brianza,Viale Marco,73,Italia
+1409,8,43,Sig.ra Romana Vespa,96696,Catanzaro,Rotonda Nicolucci,105,Italia
+1410,14,28,Erika Bellucci,12808,Pesaro e Urbino,Viale Trincavelli,46,Italia
+1411,17,20,Dott. Isabella Giannetti,20889,Napoli,Piazza Caterina,188,Italia
+1412,16,25,Sonia Sommaruga,10325,Torino,Contrada Fabrizia,27,Italia
+1413,13,25,Sig.ra Aurora Letta,32499,Lecce,Stretto Federici,177,Italia
+1414,20,16,Griselda Sauli,18982,Belluno,Contrada Valentino,85,Italia
+1415,11,33,Ida Leopardi-Dandolo,15810,Lodi,Rotonda Delfino,151,Italia
+1416,3,24,Silvestro Castelli,47426,Mantova,Incrocio Iadanza,138,Italia
+1417,25,18,Angelo Sorrentino,98684,Enna,Rotonda Vendetti,118,Italia
+1418,14,2,Gianpietro Aulenti,72745,Avellino,Incrocio Jacopo,44,Italia
+1419,14,18,Michelotto Nordio,24696,Siena,Strada Fabio,78,Italia
+1420,8,5,Antonietta Mantegazza,94558,Catania,Via Amanda,156,Italia
+1421,9,3,Gaspare Germano,70234,Piacenza,Incrocio Matteo,191,Italia
+1422,23,10,Morena Murri,81379,Siena,Rotonda Bulzoni,23,Italia
+1423,1,3,Irma Curatoli,97216,Grosseto,Strada Zoppetto,147,Italia
+1424,14,4,Daria Ferretti,45445,Pavia,Piazza Cipriano,55,Italia
+1425,23,38,Dott. Dionigi Forza,22123,Massa-Carrara,Rotonda Cesaroni,176,Italia
+1426,24,35,Laureano Foconi,19263,Isernia,Viale Rastelli,186,Italia
+1427,16,38,Luigina Tremonti-Bongiorno,68838,Salerno,Viale Moccia,157,Italia
+1428,25,17,Angelo Sandi,80723,Grosseto,Vicolo Gaito,66,Italia
+1429,25,24,Annetta Salandra,34646,L'Aquila,Contrada Nanni,57,Italia
+1430,8,20,Concetta Garrone,79920,Ascoli Piceno,Borgo Serena,185,Italia
+1431,8,13,Sig.ra Marcella Pascarella,96676,Massa-Carrara,Rotonda Ivan,59,Italia
+1432,15,23,Dott. Ippazio Contarini,66060,Caserta,Piazza Palmisano,64,Italia
+1433,4,36,Sig.ra Patrizia Donati,91449,Modena,Contrada Omma,162,Italia
+1434,14,45,Dott. Lazzaro Frescobaldi,98841,Campobasso,Vicolo Speri,63,Italia
+1435,9,42,Renzo Bergoglio-Chindamo,47599,Cosenza,Vicolo Caterina,106,Italia
+1436,9,26,Giuliano Stoppani,84691,La Spezia,Canale Pucci,80,Italia
+1437,7,12,Enzio Lanfranchi,47902,Ancona,Canale Elladio,18,Italia
+1438,23,20,Armando Modigliani,96675,Benevento,Canale Fagotto,169,Italia
+1439,8,44,Sonia Flaiano,37017,L'Aquila,Via Bassi,110,Italia
+1440,20,48,Isa Letta,41638,Barletta-Andria-Trani,Contrada Camiscione,130,Italia
+1441,17,41,Mauro Granatelli,69347,Ferrara,Vicolo Alderano,116,Italia
+1442,22,43,Ansaldo Combi,15097,Carbonia-Iglesias,Strada Ramona,150,Italia
+1443,9,39,Dott. Ivo Balla,55610,Carbonia-Iglesias,Strada Lorenzo,132,Italia
+1444,14,20,Nadia Telesio,32050,Catanzaro,Borgo Sinisi,108,Italia
+1445,16,30,Sig.ra Berenice Sokolov,94588,Pistoia,Vicolo Camilleri,165,Italia
+1446,13,49,Valentina Bonino-Trezzini,87635,Matera,Canale Udinesi,69,Italia
+1447,4,1,Gioacchino Rocca-Cremonesi,23170,Imperia,Vicolo Greggio,197,Italia
+1448,11,41,Mauro Dossetti,31042,Sondrio,Contrada Bruscantini,55,Italia
+1449,19,28,Isa Interminelli,45552,La Spezia,Borgo Casini,30,Italia
+1450,1,47,Alderano Modugno,72338,Piacenza,Canale Maderno,19,Italia
+1451,11,2,Federico Squarcione,33980,Catania,Contrada Ottavio,85,Italia
+1452,4,23,Dott. Viridiana Tarantini,35255,Reggio Calabria,Borgo Staglieno,75,Italia
+1453,21,33,Dott. Jolanda Cabrini,95346,Brescia,Via Claudio,1,Italia
+1454,10,12,Valentina Nicoletti,45495,Isernia,Vicolo Amico,48,Italia
+1455,20,25,Girolamo Scamarcio,82689,Como,Incrocio Belletini,114,Italia
+1456,12,36,Romeo Mantegazza,58545,Napoli,Contrada Romina,198,Italia
+1457,20,12,Dott. Carmelo Fornaciari,45318,Novara,Via Luigi,118,Italia
+1458,7,10,Achille Abba,42108,Pisa,Piazza Ramazzotti,86,Italia
+1459,13,30,Luciana Sollima,62289,Pesaro e Urbino,Rotonda Canil,31,Italia
+1460,17,50,Stefani Brenna,73377,Sassari,Rotonda Majewski,30,Italia
+1461,8,6,Giacobbe Berrè,57602,Siena,Via Renata,9,Italia
+1462,17,19,Mariana Mazzacurati-Prati,16961,Medio Campidano,Rotonda Pignatti,154,Italia
+1463,24,36,Lodovico Ammaniti,44472,Treviso,Stretto Osvaldo,96,Italia
+1464,8,39,Guglielmo Lamborghini,36618,Ogliastra,Viale Crisafulli,199,Italia
+1465,7,31,Nanni Michelangeli,69969,Pordenone,Canale Calarco,31,Italia
+1466,11,38,Dolores Blasi,95551,Taranto,Piazza Errani,59,Italia
+1467,10,33,Francesca Ruggeri,34710,Parma,Vicolo Donati,144,Italia
+1468,24,25,Giancarlo Bragadin,57388,Bergamo,Piazza Bartolomeo,95,Italia
+1469,18,36,Dott. Bianca Modugno,83087,Matera,Vicolo Eraldo,29,Italia
+1470,16,13,Filippo Guidotti,41105,Parma,Canale Fulvio,60,Italia
+1471,23,41,Evangelista Cimini,56777,Ascoli Piceno,Canale Righi,71,Italia
+1472,10,43,Rosa Vercelloni,78833,Pesaro e Urbino,Piazza Piovani,141,Italia
+1473,2,34,Cipriano Casalodi,66433,Palermo,Piazza Ettore,26,Italia
+1474,22,9,Laureano Ferrucci,96774,Vibo Valentia,Strada Scandone,119,Italia
+1475,16,14,Evangelista Stefanelli,18339,Milano,Strada Tamburini,8,Italia
+1476,2,13,Stella Zampa,32895,Pavia,Piazza Ansaldo,15,Italia
+1477,4,36,Sig. Calcedonio Varano,41264,Caserta,Strada Olga,195,Italia
+1478,8,15,Gioacchino Federici,48237,Belluno,Stretto Battelli,188,Italia
+1479,3,30,Erika Piccinni,88687,Chieti,Canale Greco,140,Italia
+1480,17,8,Melissa Bignardi-Montalti,35348,Ascoli Piceno,Incrocio Pignatti,160,Italia
+1481,19,45,Rolando Caccioppoli-Morucci,64974,Rieti,Borgo Alessandro,33,Italia
+1482,21,6,Flavia Pelli,23548,Udine,Stretto Ugolino,72,Italia
+1483,1,11,Roberta Gianetti,48702,Palermo,Borgo Enzio,188,Italia
+1484,14,21,Venancio Guarneri,40350,Ferrara,Borgo Guido,40,Italia
+1485,11,6,Pier Dulbecco,83639,Verbano-Cusio-Ossola,Borgo Ferrucci,94,Italia
+1486,23,5,Arturo Castelli,76279,Trapani,Piazza Mannoia,55,Italia
+1487,23,12,Massimo Gualandi,90243,Salerno,Rotonda Amalia,110,Italia
+1488,23,16,Letizia Gianetti,73035,Benevento,Vicolo Cipriano,3,Italia
+1489,10,32,Sig.ra Lisa Scialpi,67678,Catanzaro,Incrocio Gelli,31,Italia
+1490,4,1,Angelo Schiavone,67210,Isernia,Stretto Mercalli,24,Italia
+1491,7,38,Stefani Bruno,78265,Treviso,Stretto Flavia,69,Italia
+1492,9,12,Antonella Cerutti,78936,Ragusa,Vicolo Carlo,200,Italia
+1493,4,34,Sig. Flavio Scaramucci,76071,Monza e della Brianza,Viale Abbagnale,48,Italia
+1494,3,19,Dante Chiesa,98834,Cosenza,Borgo Mercedes,121,Italia
+1495,13,22,Adelmo Gulotta,69658,Venezia,Canale Ninetta,165,Italia
+1496,8,15,Ennio Capecchi-Fantoni,84009,Treviso,Viale Esposito,139,Italia
+1497,25,33,Sylvia Papetti,39415,Salerno,Incrocio Victoria,83,Italia
+1498,14,29,Sig.ra Flora Luria,93516,Siena,Contrada Fulvio,164,Italia
+1499,17,14,Gabriele Ceravolo-Spadafora,60483,Ravenna,Viale Piccio,113,Italia
+1500,18,18,Sig. Telemaco Gucci,85101,Como,Contrada Azeglio,6,Italia
+1501,23,23,Elena Gabrieli-Gentilini,38167,Grosseto,Borgo Rodolfo,71,Italia
+1502,20,14,Orazio Vergerio,59596,Brindisi,Rotonda Foà,72,Italia
+1503,17,10,Venancio Cantimori,37906,Enna,Vicolo Eleanora,35,Italia
+1504,14,38,Filippa Semitecolo,48200,Lecco,Vicolo Buonauro,110,Italia
+1505,14,48,Sig. Arnaldo Trincavelli,29871,Chieti,Vicolo Bertolucci,174,Italia
+1506,12,48,Fortunata Fallaci,35669,Palermo,Canale Dallapé,131,Italia
+1507,10,48,Dott. Vittoria Callegari,28919,Lecco,Borgo Ramona,30,Italia
+1508,3,27,Ansaldo Riccati,98199,Siracusa,Vicolo Vigliotti,194,Italia
+1509,11,46,Benedetto Liverotti,86401,Novara,Strada Manunta,17,Italia
+1510,10,13,Laura Lollobrigida,56695,Foggia,Viale Salvatore,146,Italia
+1511,4,31,Ermes Micheletti,12180,Macerata,Incrocio Marta,127,Italia
+1512,21,10,Etta Verga,59164,Varese,Canale Boitani,129,Italia
+1513,6,26,Melania Panzera,68084,Olbia-Tempio,Viale Stefano,158,Italia
+1514,16,1,Annibale Parpinel,28098,Bolzano,Canale Borzomì,179,Italia
+1515,1,42,Valentina Bonino-Zoppetto,77407,Medio Campidano,Vicolo Cesare,134,Italia
+1516,25,28,Stella Peranda,42311,Verbano-Cusio-Ossola,Incrocio Vincenza,29,Italia
+1517,2,9,Sig.ra Barbara Frescobaldi,52884,Gorizia,Vicolo Casellati,31,Italia
+1518,18,25,Girolamo Argurio,20484,Brescia,Vicolo Cipriano,102,Italia
+1519,20,44,Leone Cantimori,89808,Crotone,Vicolo Bacosi,192,Italia
+1520,5,12,Tina Babati,99681,Cuneo,Via Pininfarina,152,Italia
+1521,12,42,Roberto Gianvecchio,72865,Rimini,Incrocio Victoria,117,Italia
+1522,2,30,Baldassare Stucchi,39451,Ravenna,Stretto Collina,137,Italia
+1523,20,41,Annamaria Bruscantini,89191,Piacenza,Via Depero,61,Italia
+1524,10,47,Daniele Stucchi,32373,Cremona,Incrocio Valguarnera,152,Italia
+1525,6,28,Marcantonio Maccanelli,74340,Crotone,Viale Tamburello,49,Italia
+1526,24,4,Gianluca Visintini,46454,Fermo,Canale Naccari,191,Italia
+1527,25,5,Imelda Monduzzi,27780,Avellino,Rotonda Venancio,140,Italia
+1528,20,17,Elladio Boaga-Morlacchi,17747,Massa-Carrara,Borgo Tamburello,111,Italia
+1529,1,27,Ornella Volterra,28535,Monza e della Brianza,Strada Conte,17,Italia
+1530,8,10,Gioachino Castellitto,72997,Reggio Emilia,Piazza Giulio,47,Italia
+1531,9,16,Lamberto Pertile,97176,Vibo Valentia,Strada Canali,50,Italia
+1532,16,50,Clelia Fo-Bellucci,84105,Forlì-Cesena,Incrocio Raffaella,85,Italia
+1533,2,19,Paolo Fornaciari,47895,Reggio Calabria,Vicolo Griselda,83,Italia
+1534,17,33,Sig.ra Angelica Gabba,32318,Cuneo,Piazza Puglisi,90,Italia
+1535,7,39,Dott. Franco Zoppetto,90769,Verbano-Cusio-Ossola,Strada Scotto,50,Italia
+1536,11,4,Sig.ra Valeria Lopresti,33575,Terni,Strada Bartolomeo,195,Italia
+1537,23,46,Flavia Tamborini,65148,Trento,Strada Govoni,13,Italia
+1538,22,34,Maura Balbi,83501,Sondrio,Rotonda Priscilla,98,Italia
+1539,4,19,Dott. Agnolo Giannone,55744,Perugia,Borgo Lauretta,87,Italia
+1540,2,42,Piergiorgio Casellati,96993,Savona,Vicolo Valeria,1,Italia
+1541,18,5,Sig.ra Bianca Emo,98531,Gorizia,Stretto Iacovelli,56,Italia
+1542,10,4,Dott. Mauro Vitturi,56625,Pistoia,Canale Castellitto,188,Italia
+1543,12,7,Greco Cuzzocrea,12892,Sondrio,Contrada Lucio,54,Italia
+1544,18,18,Simonetta Abbagnale-Giunti,97842,Palermo,Stretto Angelina,73,Italia
+1545,11,43,Delfino Scaramucci,16440,Ancona,Rotonda Fusani,199,Italia
+1546,16,32,Enrico Ferraris,46088,Ogliastra,Contrada Salvi,41,Italia
+1547,25,43,Silvestro Amaldi,70887,Rimini,Via Melania,165,Italia
+1548,23,35,Venancio Asprucci,17566,Bolzano,Contrada Luigi,160,Italia
+1549,10,9,Dino Ginesio,37814,Padova,Vicolo Dandolo,178,Italia
+1550,13,27,Emma Iacovelli,81555,Bologna,Borgo Annetta,179,Italia
+1551,22,46,Ezio Passalacqua,40099,Milano,Strada Iacovelli,184,Italia
+1552,18,8,Dino Scaramucci,20316,Monza e della Brianza,Borgo Galtarossa,179,Italia
+1553,16,10,Rosa Bramante,13097,Cremona,Via Tarantini,34,Italia
+1554,24,16,Annamaria Camuccini,17539,Frosinone,Borgo Ferrari,41,Italia
+1555,21,41,Salvi Vento,17184,Salerno,Contrada Anita,197,Italia
+1556,9,15,Eraldo Finotto,69248,Como,Vicolo Stefano,11,Italia
+1557,23,50,Elena Federico-Gottardi,43815,Pistoia,Via Piergiuseppe,64,Italia
+1558,5,12,Alphons Scaramucci-Moccia,70729,Carbonia-Iglesias,Vicolo Lerner,90,Italia
+1559,13,7,Rossana Rocca,78559,Cosenza,Viale Umberto,146,Italia
+1560,21,35,Pierpaolo Ponti-Gentilini,78896,Barletta-Andria-Trani,Via Piero,30,Italia
+1561,8,22,Angelo Mazzi,86595,Rimini,Rotonda Antonino,105,Italia
+1562,8,46,Maria Giorgetti-Durante,11443,Cremona,Canale Concetta,123,Italia
+1563,18,36,Dott. Sandra Ciani,61009,Bologna,Viale Virgilio,169,Italia
+1564,25,5,Rossana Berengario,44688,Oristano,Strada Baccio,180,Italia
+1565,1,12,Sig.ra Milena Mercalli,20908,Pavia,Incrocio Celentano,123,Italia
+1566,3,35,Dott. Girolamo Cattaneo,21501,Reggio Calabria,Contrada Gianpietro,50,Italia
+1567,9,22,Melina Silvestri,55000,Matera,Strada Girolamo,184,Italia
+1568,1,10,Dott. Letizia Nicoletti,13116,Cremona,Borgo Bruno,61,Italia
+1569,14,17,Sig. Santino Garzoni,98238,Belluno,Strada Antonino,151,Italia
+1570,19,1,Serafina Giovine,27900,Piacenza,Via Baroffio,170,Italia
+1571,9,14,Armando Varano,89150,Vercelli,Piazza Sobrero,88,Italia
+1572,21,26,Franco Ludovisi,56031,Fermo,Vicolo Michela,116,Italia
+1573,25,10,Dott. Chiara Botticelli,47893,Agrigento,Incrocio Comboni,157,Italia
+1574,16,50,Nedda Argurio,16341,Rieti,Borgo Guinizzelli,31,Italia
+1575,3,8,Ricciotti Bosio,55255,Vibo Valentia,Viale Coluccio,138,Italia
+1576,16,28,Panfilo Bongiorno,13020,Trento,Canale Lattuada,40,Italia
+1577,23,10,Maria Fermi-Trussardi,55243,Vercelli,Rotonda Roth,101,Italia
+1578,15,26,Teresa Bodoni,99675,Salerno,Strada Antonini,122,Italia
+1579,12,22,Virginia Liguori,61341,Cremona,Rotonda Atenulf,62,Italia
+1580,25,9,Camilla Fabbri,93431,Taranto,Via Gemma,51,Italia
+1581,2,40,Baldassare Verdi,53217,Campobasso,Strada Navarria,2,Italia
+1582,1,26,Sig. Gaetano Foa,67824,Rimini,Canale Milo,113,Italia
+1583,3,11,Giacobbe Toscani,68730,Roma,Contrada Scarpetta,18,Italia
+1584,19,29,Claudia Piazzi,58230,Pavia,Stretto Lisa,48,Italia
+1585,14,27,Caterina Terragni,60001,Salerno,Vicolo Filippelli,22,Italia
+1586,3,36,Armando Serao,54088,Terni,Rotonda Balotelli,194,Italia
+1587,20,7,Donatello Borgia,30890,Vercelli,Via Travaglio,131,Italia
+1588,19,1,Marina Cilibrasi,58328,Chieti,Piazza Goffredo,95,Italia
+1589,10,44,Melissa Anguissola,99678,Terni,Via Elena,20,Italia
+1590,23,25,Gloria Gualandi,23428,Livorno,Canale Fallaci,8,Italia
+1591,23,11,Leone Beccaria,88286,Messina,Contrada Staglieno,67,Italia
+1592,25,17,Dino Perozzo,94492,Crotone,Vicolo Endrizzi,85,Italia
+1593,4,13,Giacobbe Turchetta,76151,Udine,Canale Graziella,153,Italia
+1594,8,30,Dott. Benedetto Piovani,58621,Catania,Rotonda Donatella,92,Italia
+1595,19,16,Natalia Chittolini,41970,Verona,Vicolo Ioppi,193,Italia
+1596,19,45,Barbara Ossola,33938,Venezia,Vicolo Ruggiero,168,Italia
+1597,25,22,Sig. Goffredo Fittipaldi,25287,Latina,Vicolo Romina,45,Italia
+1598,11,44,Liliana Basso-Sagnelli,65544,Sondrio,Borgo Lamborghini,81,Italia
+1599,5,25,Laureano Sagnelli,61758,Crotone,Piazza Nicolucci,60,Italia
+1600,17,21,Luciano Pratesi,64855,Napoli,Vicolo Donatello,105,Italia
+1601,19,47,Rita Torricelli,88723,Ragusa,Canale Fabio,63,Italia
+1602,23,36,Ruggiero Buonauro-Toselli,11888,Nuoro,Rotonda Fulvio,9,Italia
+1603,14,47,Sig.ra Paoletta Cossiga,10501,Napoli,Borgo Lisa,137,Italia
+1604,16,12,Dott. Martino Cignaroli,47032,Alessandria,Strada Lettiere,173,Italia
+1605,10,36,Caterina Schiaparelli,22868,Milano,Viale Sokolov,81,Italia
+1606,22,47,Franco Impastato,66735,Brescia,Viale Gioele,196,Italia
+1607,19,47,Armando Riccardi,92285,Pisa,Incrocio Maderna,152,Italia
+1608,19,27,Edoardo Sansoni-Greggio,92499,Bari,Strada Giovanni,49,Italia
+1609,22,50,Ludovica Gritti,72976,Ragusa,Viale Falcone,189,Italia
+1610,24,17,Rocco Conte-Raurica,20991,Udine,Borgo Filangieri,10,Italia
+1611,13,23,Pierpaolo Aldobrandi,23813,Padova,Viale Fedele,81,Italia
+1612,4,44,Chiara Desio-Malpighi,88980,Verbano-Cusio-Ossola,Piazza Rocca,153,Italia
+1613,20,16,Ornella Rosselli,34689,Campobasso,Borgo Alessandra,187,Italia
+1614,17,42,Fredo Saracino,88455,Milano,Incrocio Ramona,56,Italia
+1615,16,24,Martino Scotti,29073,La Spezia,Viale Omma,51,Italia
+1616,17,10,Rolando Scalfaro,22414,Pescara,Vicolo Rosa,62,Italia
+1617,2,27,Sig. Federigo Toscani,93730,Milano,Rotonda Giulia,19,Italia
+1618,7,50,Vittoria Caetani,65281,Medio Campidano,Stretto Rossetti,66,Italia
+1619,15,3,Aldo Morgagni,52389,Bergamo,Canale Marina,141,Italia
+1620,22,30,Lisa Casini-Carullo,34024,Taranto,Piazza Sophia,114,Italia
+1621,22,3,Sergius Cesaroni,84795,Palermo,Canale Simone,3,Italia
+1622,11,15,Elisa Maccanelli,67943,Ravenna,Strada Marco,44,Italia
+1623,16,21,Rocco Bellocchio-Angeli,55156,Medio Campidano,Via Moccia,103,Italia
+1624,10,37,Melania Paruta,80462,Piacenza,Contrada Corbo,76,Italia
+1625,11,45,Benvenuto Cilea,40662,Sondrio,Viale Pierluigi,93,Italia
+1626,25,50,Carolina Farina,20972,Novara,Strada Gioberti,24,Italia
+1627,5,3,Giulio Giammusso,88751,Prato,Piazza Sophia,80,Italia
+1628,14,18,Olga Zeffirelli,33944,Messina,Via Lauretta,35,Italia
+1629,20,47,Gianna Zacchia-Deledda,67887,Lecce,Viale Lupo,16,Italia
+1630,25,47,Dario Cerutti-Farnese,79532,Trento,Rotonda Dellucci,86,Italia
+1631,23,9,Dott. Osvaldo Tropea,57052,Fermo,Rotonda Piersanti,120,Italia
+1632,6,47,Adelasia Giannotti,67241,Benevento,Incrocio Erika,140,Italia
+1633,8,49,Renata Farinelli,98317,Campobasso,Viale Bazzi,168,Italia
+1634,15,12,Sig. Girolamo Romano,23146,Ravenna,Stretto Molesini,28,Italia
+1635,4,12,Iolanda Grossi-Boccaccio,13654,Ascoli Piceno,Contrada Finetti,193,Italia
+1636,17,29,Nadia Mogherini,10805,Ascoli Piceno,Rotonda Bonolis,188,Italia
+1637,18,31,Sig.ra Lara Zetticci,59543,Treviso,Vicolo Ungaretti,84,Italia
+1638,12,44,Luca Curci,28666,Genova,Stretto Lucio,149,Italia
+1639,18,23,Paride Bombieri,92301,Catania,Rotonda Salvi,178,Italia
+1640,15,3,Antonia Canali,70617,Salerno,Contrada Missoni,181,Italia
+1641,25,41,Graziano Stefanelli,89263,La Spezia,Borgo Francesco,73,Italia
+1642,17,20,Fernanda Luciani,99199,Vicenza,Viale Crespi,181,Italia
+1643,18,27,Sig. Jacopo Juvara,84456,Bolzano,Borgo Milanesi,160,Italia
+1644,17,6,Fiorenzo Niscoromni,60112,Pisa,Via Giannetti,39,Italia
+1645,23,26,Nina Cannizzaro,74746,Ogliastra,Vicolo Pergolesi,28,Italia
+1646,19,38,Carla Majorana-Tagliafierro,60227,Lecce,Viale Achille,198,Italia
+1647,8,38,Elena Pasqua,85034,Terni,Contrada Versace,182,Italia
+1648,13,9,Piergiorgio Rensi,26611,Cosenza,Stretto Fanucci,2,Italia
+1649,12,47,Dott. Giosuè Cipolla,99571,Ferrara,Piazza Adriano,154,Italia
+1650,7,27,Fulvio Scotto,62631,Ogliastra,Vicolo Monteverdi,10,Italia
+1651,14,13,Emma Carocci,99170,Ogliastra,Piazza Vigliotti,88,Italia
+1652,21,8,Giosuè Nitti,47220,Ferrara,Viale Dario,58,Italia
+1653,10,48,Marcello Anguillara,46731,Prato,Canale Scotti,184,Italia
+1654,8,37,Dott. Antonino Casalodi,33836,Aosta,Incrocio Arnaldo,184,Italia
+1655,16,7,Dott. Ermes Magnani,83324,Enna,Stretto Mirco,60,Italia
+1656,4,15,Mario Agostini,38104,Frosinone,Vicolo Ruggieri,138,Italia
+1657,19,39,Adriana Zabarella,24088,Teramo,Viale Ughi,197,Italia
+1658,2,18,Dott. Sandra Guinizzelli,44231,Pavia,Stretto Ferrucci,1,Italia
+1659,12,16,Sig. Vincenzo Mercati,53644,Taranto,Via Verga,109,Italia
+1660,9,1,Renata Guarneri,21009,Genova,Borgo Gaggini,157,Italia
+1661,1,46,Dott. Maria Bonolis,18581,Potenza,Stretto Gianfranco,23,Italia
+1662,9,34,Carmelo Garibaldi,86683,Verona,Vicolo Lidia,99,Italia
+1663,19,17,Paolo Verga,66659,Mantova,Rotonda Campanella,36,Italia
+1664,11,16,Camilla Broschi,90768,Vibo Valentia,Vicolo Cirillo,23,Italia
+1665,18,1,Graziella Salgari,14432,Imperia,Piazza Sanguineti,58,Italia
+1666,1,19,Dott. Silvia Pininfarina,39490,Rieti,Viale Piermaria,6,Italia
+1667,19,15,Dolores Biagi,33897,Alessandria,Canale Giulio,171,Italia
+1668,4,8,Gino Armellini,89300,Enna,Canale Petruzzi,90,Italia
+1669,3,34,Giuseppe Morandini-Tomasetti,77460,Matera,Strada Berenice,78,Italia
+1670,13,38,Annalisa Opizzi,79788,Parma,Canale Carfagna,148,Italia
+1671,21,11,Diana Modiano,56828,Padova,Via Marissa,89,Italia
+1672,2,14,Martina Ricciardi,31230,Cagliari,Viale Trobbiani,38,Italia
+1673,19,33,Germana Mascheroni-Mastandrea,99965,Livorno,Incrocio Sagnelli,42,Italia
+1674,12,4,Ruggiero Norbiato,98771,Vercelli,Stretto Rinaldi,72,Italia
+1675,24,11,Orazio Carli,99321,Grosseto,Stretto Elvira,23,Italia
+1676,2,25,Dott. Antonella Roero,64861,Bologna,Viale Pertile,58,Italia
+1677,24,14,Emma Bova,96320,Torino,Rotonda Vento,92,Italia
+1678,15,40,Salvi Pertini,62138,Catanzaro,Rotonda Baccio,158,Italia
+1679,24,19,Lucrezia Giulietti,46190,Caserta,Borgo Carosone,149,Italia
+1680,16,23,Antonietta Renier,62380,Lecco,Strada Camicione,197,Italia
+1681,16,29,Monica Antonetti-Travaglio,83051,Catania,Contrada Fortunata,71,Italia
+1682,3,33,Vittoria Guidotti,14918,Treviso,Rotonda Trapanese,15,Italia
+1683,1,2,Sig. Bruno Tomaselli,16568,Biella,Contrada Grisoni,195,Italia
+1684,17,47,Pomponio Sordi,89023,Vibo Valentia,Vicolo Costantino,64,Italia
+1685,7,43,Serena Trapanese,94910,Salerno,Vicolo Gioacchino,58,Italia
+1686,4,20,Sante Cundari,58147,Macerata,Piazza Giuseppina,33,Italia
+1687,13,44,Renata Montanelli,21196,Verbano-Cusio-Ossola,Strada Concetta,53,Italia
+1688,21,28,Sig.ra Simonetta Gagliardi,94690,Latina,Piazza Antelami,10,Italia
+1689,13,48,Dott. Livio Tognazzi,18106,Milano,Vicolo Durante,173,Italia
+1690,3,23,Sig.ra Paulina Odescalchi,78603,Reggio Emilia,Piazza Seddio,85,Italia
+1691,17,33,Dante Calvo-Columbo,26931,Ravenna,Rotonda Rolando,173,Italia
+1692,13,10,Chiara Filzi,64077,Cremona,Vicolo Flavia,138,Italia
+1693,2,33,Rita Farinelli,53054,Cosenza,Strada Gelsomina,49,Italia
+1694,12,29,Stefani Ortese,14157,Rieti,Viale Evangelista,99,Italia
+1695,20,48,Gelsomina Ottino-Schiavone,89944,Aosta,Via Fernanda,39,Italia
+1696,6,32,Ludovica Tonisto-Musatti,86898,Crotone,Canale Fernanda,133,Italia
+1697,19,5,Griselda Bergoglio,22986,Pesaro e Urbino,Incrocio Nino,74,Italia
+1698,21,3,Gianmarco Semitecolo-Legnante,87996,Novara,Vicolo Gioberti,104,Italia
+1699,8,30,Sig. Fabrizio Govoni,59895,Ragusa,Stretto Romina,154,Italia
+1700,21,27,Liana Nicolucci,65461,Gorizia,Incrocio Ronaldo,57,Italia
+1701,14,47,Guido Sommaruga,45442,Trapani,Rotonda Ritacca,117,Italia
+1702,24,25,Gioele Soranzo,38713,Oristano,Stretto Sandra,2,Italia
+1703,16,47,Monica Storladi,42021,Varese,Via Magrassi,37,Italia
+1704,15,25,Giosuè Falloppio,69331,Teramo,Viale Delfino,74,Italia
+1705,3,20,Sig. Emilio Bonino,66501,Mantova,Strada Ginese,30,Italia
+1706,24,45,Erika Trevisan,86274,Imperia,Strada Roth,168,Italia
+1707,17,31,Dott. Roberto Berlusconi,44530,Bari,Borgo Baroffio,148,Italia
+1708,6,35,Guido Boaga,49946,Verbano-Cusio-Ossola,Incrocio Verdi,75,Italia
+1709,1,44,Natalia Bottigliero-Cimini,92797,Nuoro,Via Berenice,56,Italia
+1710,15,8,Ida Musatti,28940,Venezia,Strada Priscilla,168,Italia
+1711,2,30,Guarino Staglieno,45721,Bari,Viale Nicola,77,Italia
+1712,10,27,Michelotto Baracca-Trapanese,96570,Rieti,Viale Tamburello,60,Italia
+1713,11,24,Raffaellino Combi,27911,Pistoia,Vicolo Claudio,143,Italia
+1714,1,36,Agostino Antonioni,24313,Treviso,Stretto Ruggeri,109,Italia
+1715,5,40,Gianpaolo Barracco,30141,Trento,Contrada Nico,40,Italia
+1716,20,13,Monica Moccia,90375,Siena,Borgo Fibonacci,2,Italia
+1717,7,30,Raffaella Notarbartolo,81473,Fermo,Incrocio Respighi,196,Italia
+1718,18,37,Dott. Caterina Botticelli,81574,Verbano-Cusio-Ossola,Incrocio Serraglio,55,Italia
+1719,10,1,Francesca Palladio,51524,Mantova,Strada Eliana,153,Italia
+1720,5,11,Elvira Chechi-Storladi,90894,Carbonia-Iglesias,Canale Dalla,75,Italia
+1721,16,39,Dott. Paulina Montecchi,49199,Venezia,Strada Vittoria,115,Italia
+1722,24,45,Dina Toninelli-Coppola,87967,Palermo,Via Nina,64,Italia
+1723,21,15,Milena Micca,24068,Firenze,Via Giuseppe,20,Italia
+1724,6,29,Sig. Severino Bragaglia,80907,Varese,Piazza Fusani,161,Italia
+1725,25,40,Mario Trezzini,34184,Messina,Vicolo Nico,101,Italia
+1726,17,13,Victoria Gadda-Parmitano,40936,Viterbo,Strada Giancarlo,61,Italia
+1727,5,24,Vittorio Romiti,49255,Prato,Vicolo Flavio,99,Italia
+1728,23,46,Bettina Chiesa,57339,Brescia,Viale Puglisi,172,Italia
+1729,17,23,Gianluigi Castiglione,51133,Roma,Via Pacelli,173,Italia
+1730,21,14,Bianca Barese,20625,Genova,Borgo Torquato,160,Italia
+1731,25,28,Giorgio Panzera,71388,Piacenza,Via Renier,34,Italia
+1732,16,50,Letizia Ferrara-Tognazzi,24024,Bergamo,Via Michela,61,Italia
+1733,15,44,Priscilla Catenazzi,20133,Siracusa,Rotonda Sophia,129,Italia
+1734,11,36,Pierangelo Sibilia,98347,Taranto,Borgo Pagnotto,160,Italia
+1735,8,35,Silvia Modiano,69495,Bari,Vicolo Faugno,157,Italia
+1736,20,9,Guido Barsanti-Scamarcio,44459,Grosseto,Vicolo Paolini,84,Italia
+1737,6,19,Bernardo Mennea,22301,Sassari,Canale Bianca,29,Italia
+1738,25,5,Sig.ra Camilla Rossini,98963,Genova,Vicolo Trevisani,160,Italia
+1739,24,42,Ida Manzoni-Samele,46501,Sassari,Rotonda Fiamma,171,Italia
+1740,5,24,Giuseppina Giorgetti,48806,Bergamo,Via Ricolfi,42,Italia
+1741,19,4,Claudia Canova,75337,Venezia,Borgo Natalia,10,Italia
+1742,1,31,Leopoldo Pugliese,47220,Grosseto,Rotonda Serlupi,83,Italia
+1743,13,41,Bianca Federici,98618,Varese,Via Dovara,83,Italia
+1744,10,27,Sig. Raffaellino Condoleo,55813,Avellino,Rotonda Carocci,167,Italia
+1745,16,9,Oreste Polesel,64872,Latina,Via Diana,87,Italia
+1746,18,2,Severino Gianetti,72956,Sassari,Piazza Elvira,62,Italia
+1747,19,29,Sebastiano Udinesi,95033,Frosinone,Viale Viviani,23,Italia
+1748,17,43,Ubaldo Foà-Cerutti,62820,Piacenza,Incrocio Borghese,87,Italia
+1749,25,17,Venancio Bacosi,33372,Varese,Incrocio Arnulfo,11,Italia
+1750,7,10,Renata Manacorda,81449,Vibo Valentia,Rotonda Gino,49,Italia
+1751,24,47,Stella Foconi,18844,Nuoro,Via Anita,195,Italia
+1752,1,31,Sig.ra Carolina Niggli,18060,Oristano,Piazza Scalera,159,Italia
+1753,23,16,Sig. Biagio Cristoforetti,46182,Potenza,Viale Disdero,124,Italia
+1754,9,37,Michela Garzoni,98732,Oristano,Via Luigina,94,Italia
+1755,19,49,Marta Ammaniti-Luxardo,30931,Trieste,Vicolo Carmelo,176,Italia
+1756,15,39,Torquato Federico,51429,Cagliari,Rotonda Gaiatto,140,Italia
+1757,9,9,Dott. Bruno Mennea,41518,Brindisi,Canale Zaccagnini,52,Italia
+1758,16,8,Annunziata Barzini,11184,Monza e della Brianza,Borgo Pacelli,49,Italia
+1759,8,26,Gianfranco Ruggieri,16972,Pavia,Borgo Lina,14,Italia
+1760,4,19,Tatiana Parisi,82919,Brindisi,Strada Platini,78,Italia
+1761,10,8,Claudia Ciampi,99887,Ferrara,Piazza Schiaparelli,130,Italia
+1762,6,35,Raimondo Zoppetto,11749,Cagliari,Canale Tonia,129,Italia
+1763,18,40,Fiamma Dossi-Borroni,92111,Arezzo,Stretto Liliana,180,Italia
+1764,23,29,Sig.ra Irma Schiaparelli,61439,Prato,Via Alderano,13,Italia
+1765,2,46,Lodovico Chigi,46177,Agrigento,Piazza Laureano,54,Italia
+1766,8,47,Camillo Prati-Valguarnera,78618,Massa-Carrara,Incrocio Venier,171,Italia
+1767,3,2,Lazzaro Toscani-Marrone,90434,Carbonia-Iglesias,Borgo Giuliano,31,Italia
+1768,8,18,Elmo Alonzi,54768,Ravenna,Via Gastone,22,Italia
+1769,24,6,Alessia Gabba,10299,Viterbo,Canale Marisa,112,Italia
+1770,17,25,Ezio Ramazzotti,57980,Gorizia,Vicolo Doria,142,Italia
+1771,5,50,Pier Righi,66572,Lecce,Strada Pedroni,1,Italia
+1772,25,3,Calogero Zacco,61051,L'Aquila,Piazza Ariasso,140,Italia
+1773,17,36,Dott. Luciano Marangoni,14830,Palermo,Stretto Migliaccio,93,Italia
+1774,20,21,Mariano Pometta,32816,Massa-Carrara,Piazza Gioachino,2,Italia
+1775,13,17,Isabella Orlando-Lombardi,62528,Verona,Contrada Mortati,86,Italia
+1776,1,46,Rosina Basadonna,74237,Genova,Canale Migliaccio,22,Italia
+1777,13,39,Dott. Antonella Maglio,94308,Cosenza,Rotonda Federica,192,Italia
+1778,15,36,Viridiana Combi-Grisoni,52493,Asti,Stretto Liana,73,Italia
+1779,7,30,Sig.ra Lidia Rossellini,37207,Ancona,Canale Cortese,107,Italia
+1780,10,41,Sig.ra Matilda Gianinazzi,38273,Campobasso,Via Detti,33,Italia
+1781,22,22,Sig. Lando Cundari,47133,Asti,Incrocio Gussoni,36,Italia
+1782,8,26,Mirko Lombardi,53561,Oristano,Viale Carlo,171,Italia
+1783,23,5,Gelsomina Ferrata,96001,Olbia-Tempio,Borgo Gravina,30,Italia
+1784,11,33,Sig. Gino Fittipaldi,29724,Rieti,Canale Anguillara,146,Italia
+1785,11,15,Ludovico Cocci,63293,Sassari,Strada Marisa,66,Italia
+1786,14,33,Gabriella Montessori-Pertini,96204,Pescara,Contrada Giulietta,59,Italia
+1787,10,21,Barbara Mimun,97147,Rieti,Canale Michelotto,6,Italia
+1788,16,8,Lina Pacetti,23917,Livorno,Stretto Mantegazza,36,Italia
+1789,25,50,Sig.ra Marisa Nolcini,20196,Siena,Contrada Garzoni,181,Italia
+1790,8,13,Sig.ra Dolores Cendron,19196,Siracusa,Rotonda Branciforte,117,Italia
+1791,23,25,Arsenio Donati,44292,Venezia,Viale Rusticucci,115,Italia
+1792,8,44,Bettina Adinolfi,69427,Vercelli,Contrada Nonis,173,Italia
+1793,5,36,Ciro Sordi,37046,Lecce,Stretto Donini,130,Italia
+1794,24,39,Flavia Carnera,58961,Sondrio,Stretto Bartolomeo,119,Italia
+1795,7,12,Irma Nosiglia-Zetticci,24948,Nuoro,Contrada Severino,163,Italia
+1796,22,22,Alderano Sansoni,91239,Reggio Calabria,Borgo Sraffa,70,Italia
+1797,25,8,Giuliana Buonauro,91622,Ogliastra,Rotonda Tencalla,191,Italia
+1798,6,48,Carmelo Canova,84769,Messina,Viale Mengolo,84,Italia
+1799,19,49,Greca Rossellini,52041,Lucca,Borgo Gioacchino,12,Italia
+1800,15,41,Liliana Tamburello,40380,Medio Campidano,Stretto Trentin,147,Italia
+1801,13,10,Sonia Iannuzzi-Ricolfi,56785,Pistoia,Borgo Papafava,115,Italia
+1802,7,26,Annunziata Tron,62223,Teramo,Rotonda Travaglia,4,Italia
+1803,13,42,Maria Orsini,18128,Ravenna,Canale Piero,71,Italia
+1804,22,1,Sig.ra Fabrizia Visintini,44309,Grosseto,Incrocio Hugo,115,Italia
+1805,11,37,Fabio Binaghi,62960,Lecce,Viale Rosina,118,Italia
+1806,9,2,Michelangelo Calvo-Villadicani,63653,Ogliastra,Via Fieramosca,111,Italia
+1807,3,37,Gianmarco Duodo,72172,Carbonia-Iglesias,Borgo Zecchini,67,Italia
+1808,13,40,Sig.ra Ida Govoni,91669,Bologna,Canale Lucio,42,Italia
+1809,4,50,Marisa Casagrande-Guarato,59923,Arezzo,Rotonda Cesare,139,Italia
+1810,14,50,Barbara Alboni,24243,Piacenza,Canale Donatella,28,Italia
+1811,9,22,Roberta Battelli,26670,Matera,Canale Federici,26,Italia
+1812,10,35,Liberto Einaudi,57099,Arezzo,Incrocio Maurizio,92,Italia
+1813,20,49,Gilberto Pavone-Palumbo,78871,Barletta-Andria-Trani,Stretto Mascagni,66,Italia
+1814,17,29,Gabriella Ruberto,43787,Benevento,Vicolo Dovara,120,Italia
+1815,23,15,Sig.ra Bianca Montalti,44514,Sondrio,Piazza Gastone,118,Italia
+1816,8,37,Dott. Alberto Santorio,12211,Taranto,Canale Lina,133,Italia
+1817,18,47,Ninetta Bembo,34826,Carbonia-Iglesias,Contrada Cociarelli,99,Italia
+1818,16,34,Susanna Gioberti,28096,Roma,Rotonda Flaiano,5,Italia
+1819,3,40,Sig.ra Angelina Angeli,32808,Ancona,Borgo Scalera,46,Italia
+1820,16,44,Vittoria Renzi,72477,Biella,Vicolo Simone,178,Italia
+1821,16,26,Dott. Flavia Chinnici,81486,Catanzaro,Stretto Donini,115,Italia
+1822,22,49,Giosuè Farnese,79948,Siracusa,Borgo Gianluigi,12,Italia
+1823,21,36,Ermes Scarpa,86880,Viterbo,Stretto Storladi,178,Italia
+1824,16,26,Giuseppina Sanudo,27099,Verbano-Cusio-Ossola,Borgo Cerquiglini,151,Italia
+1825,21,9,Toni Mantegna,36131,Siracusa,Contrada Ida,151,Italia
+1826,2,29,Milo Sandi-Ciampi,72722,Caltanissetta,Rotonda Stradivari,76,Italia
+1827,13,14,Mirco Panzera-Riccati,77349,Savona,Stretto Bongiorno,142,Italia
+1828,18,4,Sig. Amleto Ziani,31314,Messina,Viale Rembrandt,120,Italia
+1829,5,2,Gianluca Pugliese,70218,Roma,Piazza Juvara,133,Italia
+1830,18,13,Amedeo Vismara-Micheletti,73776,Oristano,Strada Pincherle,104,Italia
+1831,24,29,Sig.ra Simonetta Pedrazzini,22282,Campobasso,Strada Pasqual,193,Italia
+1832,15,26,Milena Ferrazzi,10417,Varese,Contrada Maderno,45,Italia
+1833,2,9,Michelangelo Germano-Gozzi,35631,Forlì-Cesena,Incrocio Sabatini,63,Italia
+1834,12,19,Sig. Tiziano Conte,96277,Trieste,Canale Vincentio,55,Italia
+1835,1,4,Dott. Allegra Mercalli,11984,Caserta,Vicolo Cristina,21,Italia
+1836,2,16,Ninetta Mastroianni,32685,Fermo,Piazza Luca,150,Italia
+1837,5,28,Cristina Gotti,51518,Verona,Vicolo Carpaccio,130,Italia
+1838,13,17,Costanzo Bova-Lucarelli,73818,Pistoia,Rotonda Morena,89,Italia
+1839,24,50,Vincentio Barzini,40551,Taranto,Piazza Zaira,96,Italia
+1840,2,5,Dott. Tiziana Scotti,72369,Carbonia-Iglesias,Strada Agnesi,192,Italia
+1841,1,33,Alessia Trapani,63171,Ancona,Piazza Allegra,81,Italia
+1842,6,16,Adelasia Villarosa,77198,Piacenza,Canale Pizzo,199,Italia
+1843,25,4,Tonia Pertile,72439,Reggio Calabria,Vicolo Morena,140,Italia
+1844,18,8,Letizia Nicolucci,64436,Verbano-Cusio-Ossola,Borgo Cusano,102,Italia
+1845,12,21,Elisa Asprucci,59052,Mantova,Piazza Simone,90,Italia
+1846,3,9,Fabrizia Vattimo-Cagnotto,16148,Reggio Emilia,Vicolo Giulia,114,Italia
+1847,17,32,Dott. Lolita Gagliano,34963,Arezzo,Incrocio Finotto,74,Italia
+1848,22,31,Osvaldo Papafava,43251,L'Aquila,Contrada Blasi,51,Italia
+1849,22,47,Antonina Simeoni,32793,Olbia-Tempio,Via Pina,198,Italia
+1850,4,4,Michele Paruta-Garobbio,43176,Forlì-Cesena,Vicolo Nicoletta,162,Italia
+1851,8,40,Lucio Dulbecco,10897,Napoli,Vicolo Edoardo,138,Italia
+1852,21,38,Silvia Marconi,30054,Lecco,Borgo Pizzo,132,Italia
+1853,14,20,Priscilla Proietti-Scotti,93843,Bologna,Via Stefani,112,Italia
+1854,11,2,Carmelo Ossola-Filangieri,32191,Sassari,Viale Calvo,182,Italia
+1855,2,7,Pasquale Donini,43214,Cosenza,Canale Lolita,113,Italia
+1856,5,23,Corrado Bonolis-Collodi,77246,Vercelli,Rotonda Piersanti,101,Italia
+1857,6,33,Carolina Veneziano,60492,Avellino,Piazza Dolores,8,Italia
+1858,12,18,Achille Agazzi,16708,Livorno,Via Barracco,133,Italia
+1859,1,49,Lucia Vitturi-Maderno,45750,Perugia,Via Valmarana,91,Italia
+1860,6,41,Lando Bragadin,85024,Udine,Borgo Susanna,90,Italia
+1861,15,19,Sig.ra Maria Garobbio,21396,Fermo,Canale Stein,8,Italia
+1862,2,17,Ermenegildo Scarlatti,27374,Brindisi,Canale Pisani,121,Italia
+1863,23,25,Marco Anastasi,84287,Parma,Vicolo Pietro,190,Italia
+1864,19,19,Romana Satta,77552,Cremona,Borgo Lucio,166,Italia
+1865,21,30,Piergiuseppe Lerner,62236,Crotone,Borgo Venditti,166,Italia
+1866,17,8,Lolita Caffarelli,90444,Trieste,Piazza Alberto,123,Italia
+1867,14,16,Antonino Parini,93963,Salerno,Piazza Conti,112,Italia
+1868,11,43,Ruggero Barzini,75083,Verona,Piazza Lara,20,Italia
+1869,7,18,Liana Castellitto-Cutrufo,47867,Belluno,Contrada Iannuzzi,22,Italia
+1870,7,39,Gioele Pistoletto,34888,Firenze,Via Scalfaro,99,Italia
+1871,21,21,Flavia Sordi,10552,Frosinone,Viale Tullio,59,Italia
+1872,20,3,Germana Mancini,27608,Cagliari,Borgo Alphons,7,Italia
+1873,15,33,Lamberto Ungaretti,70640,Vicenza,Vicolo Oreste,27,Italia
+1874,4,11,Pompeo Paolini,74786,Bari,Stretto Comeriato,62,Italia
+1875,8,47,Filippo Micheletti,66232,Cuneo,Rotonda Mazzini,163,Italia
+1876,18,16,Sandro Farinelli,57414,Oristano,Borgo Bottigliero,141,Italia
+1877,17,41,Amedeo Doglioni,19718,Cagliari,Vicolo Gualandi,99,Italia
+1878,1,11,Greca Pavone-Fracci,14434,Roma,Contrada Buonauro,75,Italia
+1879,25,14,Romina Endrizzi,28929,La Spezia,Stretto Camilla,176,Italia
+1880,1,44,Dott. Gino Necci,21409,Parma,Stretto Treccani,81,Italia
+1881,11,25,Adriana Veltroni,72905,Gorizia,Piazza Boccherini,168,Italia
+1882,20,25,Fausto Nievo,65235,Lodi,Canale Silvia,122,Italia
+1883,24,3,Lucia Bonaventura,11777,Firenze,Viale Ida,199,Italia
+1884,19,50,Zaira Morucci-Broschi,45490,Biella,Vicolo Alderano,166,Italia
+1885,16,22,Elladio Segni,29474,Savona,Borgo Susanna,10,Italia
+1886,20,27,Matteo Bernardi,84178,Vibo Valentia,Contrada Rosalia,193,Italia
+1887,12,19,Viridiana Ludovisi,17362,Forlì-Cesena,Viale Etta,48,Italia
+1888,10,29,Dott. Sole Cignaroli,95841,Cremona,Stretto Ornella,3,Italia
+1889,18,49,Annunziata Basso,83528,Pordenone,Strada Almagià,164,Italia
+1890,22,25,Sig. Antonio Sordi,60484,Palermo,Viale Marcantonio,131,Italia
+1891,22,30,Mirko Durante,97598,Perugia,Piazza Orlando,186,Italia
+1892,23,46,Cristina Einaudi,79006,Ancona,Incrocio Diana,178,Italia
+1893,13,20,Serafina Vecellio-Bevilacqua,34853,Grosseto,Piazza Vespa,187,Italia
+1894,23,50,Giulietta Emo,81826,Vicenza,Rotonda Ferrante,8,Italia
+1895,22,26,Adriano Curci-Rossi,35743,Agrigento,Via Lattuada,1,Italia
+1896,11,16,Liliana Grasso,39339,Rovigo,Strada Renata,7,Italia
+1897,3,43,Beatrice Vattimo,77006,Potenza,Via Guarino,200,Italia
+1898,20,11,Nadia Crispi,74374,Pavia,Via Giacinto,71,Italia
+1899,5,41,Dott. Zaira Anastasi,51093,Terni,Contrada Federigo,137,Italia
+1900,20,34,Angelo Longhena,99369,Padova,Canale Piergiorgio,3,Italia
+1901,24,2,Melissa Magrassi,56857,Siracusa,Borgo Donatoni,98,Italia
+1902,3,23,Romolo Bonolis,25362,Enna,Incrocio Fedele,13,Italia
+1903,20,30,Sig. Biagio Ossola,56071,Messina,Strada Arsenio,11,Italia
+1904,3,22,Gionata Iannelli,20790,Roma,Canale Eugenia,86,Italia
+1905,24,42,Anita Gilardoni,40844,Foggia,Incrocio Patrizio,161,Italia
+1906,22,36,Sig. Benedetto Bembo,87084,Arezzo,Incrocio Renzi,49,Italia
+1907,16,18,Romeo Gregorio,20174,Verbano-Cusio-Ossola,Canale Patrizio,174,Italia
+1908,22,36,Sylvia Bignami,62160,Ancona,Canale Giunti,194,Italia
+1909,11,22,Bianca Pininfarina-Tamborini,14896,Mantova,Contrada Cagnotto,200,Italia
+1910,4,23,Dott. Ottone Carducci,63749,Lodi,Strada Carolina,129,Italia
+1911,22,36,Sole Zoppetti,52195,Parma,Canale Barcaccia,44,Italia
+1912,5,15,Livio Toscani,77134,Novara,Piazza Ermenegildo,158,Italia
+1913,1,35,Nedda Bellini-Belletini,62249,Rieti,Canale Tresoldi,60,Italia
+1914,9,22,Natalia Zoppetti,28694,Ancona,Incrocio Iacobucci,140,Italia
+1915,11,34,Carolina Bova,37692,Cagliari,Via Iannotti,125,Italia
+1916,11,20,Lauretta Opizzi-Sibilia,16699,Genova,Strada Iannotti,188,Italia
+1917,16,16,Niccolò Vattimo-Vigliotti,17303,Fermo,Vicolo Cammarata,40,Italia
+1918,25,26,Annalisa Tutino,44220,Napoli,Contrada Mariano,32,Italia
+1919,19,10,Ramona Schiavo,77509,Salerno,Viale Corrado,161,Italia
+1920,10,40,Carolina Segni-Serlupi,64323,Cosenza,Viale Isabella,83,Italia
+1921,9,32,Micheletto Cremonesi,91127,Pavia,Stretto Parpinel,161,Italia
+1922,10,41,Eva Mastroianni,58563,Massa-Carrara,Piazza Giannetti,183,Italia
+1923,15,24,Giosuè Nosiglia,18908,Siena,Contrada Garrone,109,Italia
+1924,17,25,Annunziata Argentero,26447,Isernia,Contrada Monaco,28,Italia
+1925,22,21,Silvia Borroni,31763,Rovigo,Rotonda Benedetti,74,Italia
+1926,22,28,Sig. Fedele Ferretti,84125,Savona,Canale Prodi,65,Italia
+1927,1,40,Marissa Barese,46774,Crotone,Via Maria,168,Italia
+1928,1,19,Gianni Castiglione-Omma,10269,Avellino,Piazza Schiavo,82,Italia
+1929,19,41,Gianfranco Malacarne-Capecchi,52064,Modena,Stretto Andreotti,127,Italia
+1930,14,37,Dott. Bianca Belletini,87263,Arezzo,Strada Scandone,123,Italia
+1931,1,24,Dionigi Giovine,26009,Rimini,Piazza Opizzi,85,Italia
+1932,10,15,Liliana Zaccardo-Proietti,36425,Trento,Rotonda Geronimo,118,Italia
+1933,18,29,Coluccio Gianinazzi,56540,Asti,Stretto Baroffio,61,Italia
+1934,2,21,Sandro Asmundo,46086,Ferrara,Viale Gian,173,Italia
+1935,23,8,Donna Iannucci,69711,Bologna,Strada Fabrizio,51,Italia
+1936,14,9,Mercedes Spinelli,29225,Rovigo,Viale Sandro,181,Italia
+1937,20,31,Olga Cutuli,21841,Pordenone,Incrocio Stella,193,Italia
+1938,7,10,Sig.ra Vittoria Anastasi,49554,Teramo,Borgo Combi,163,Italia
+1939,24,6,Sig.ra Teresa Palmisano,67526,Sassari,Canale Carmelo,98,Italia
+1940,23,7,Dott. Alessandra Pietrangeli,77550,Roma,Piazza Vincentio,160,Italia
+1941,16,15,Giuseppina Bova,98531,Fermo,Rotonda Pierina,150,Italia
+1942,2,7,Serafina Bersani-Torricelli,51945,Oristano,Viale Mortati,44,Italia
+1943,19,2,Valentina Saraceno,33165,Modena,Piazza Gian,60,Italia
+1944,13,29,Luciano Ferraris,70984,Venezia,Borgo Fornaciari,44,Italia
+1945,9,34,Durante Sollima,52168,Brescia,Borgo Marcantonio,94,Italia
+1946,22,45,Fabrizio Traetta,26967,Frosinone,Canale Stein,175,Italia
+1947,10,13,Donatella Pisani-Regge,53749,Prato,Piazza Comboni,7,Italia
+1948,14,1,Uberto Volterra,11586,L'Aquila,Rotonda Volta,9,Italia
+1949,21,19,Ignazio Baggio,81490,Olbia-Tempio,Strada Luisa,180,Italia
+1950,12,19,Fabrizia Sabatini,61081,Pisa,Strada Atenulf,19,Italia
+1951,11,37,Donna Carli-Riccardi,72691,Biella,Rotonda Francesca,154,Italia
+1952,1,21,Antonio Vecellio,47506,Oristano,Borgo Annalisa,38,Italia
+1953,24,17,Lina Bevilacqua,77061,Lecce,Borgo Piacentini,92,Italia
+1954,25,16,Gianpietro Tasca,80219,Benevento,Vicolo Contarini,200,Italia
+1955,9,22,Rosaria Lucciano,79653,Belluno,Contrada Stefania,63,Italia
+1956,15,9,Paloma Farina,81366,Barletta-Andria-Trani,Stretto Volta,43,Italia
+1957,24,39,Elisa Vergassola,12655,Bologna,Contrada Ugo,196,Italia
+1958,14,6,Roman Gozzano,21390,Pesaro e Urbino,Stretto Costantino,36,Italia
+1959,6,29,Alessia Fanucci,63760,Udine,Strada Bresciani,155,Italia
+1960,21,15,Giosuè Babbo,57224,Napoli,Incrocio Cendron,167,Italia
+1961,21,14,Marta Comolli,36273,Caserta,Piazza Stefanelli,30,Italia
+1962,25,47,Nina Ziani-Mazzanti,27509,Alessandria,Strada Gioacchino,100,Italia
+1963,1,49,Renata Pastine,67807,L'Aquila,Viale Sabatino,117,Italia
+1964,8,49,Torquato Errigo,84450,Salerno,Incrocio Eliana,120,Italia
+1965,11,48,Danilo Manolesso,93306,Monza e della Brianza,Incrocio Salvi,142,Italia
+1966,6,7,Iolanda Serao,12056,Viterbo,Canale Montanelli,170,Italia
+1967,21,38,Mariano Galuppi,45588,Padova,Vicolo Marcantonio,14,Italia
+1968,1,15,Saverio Trentini,25503,Caltanissetta,Strada Claudia,193,Italia
+1969,10,16,Sig. Pomponio Spanevello,29967,Forlì-Cesena,Stretto Ugolino,130,Italia
+1970,6,14,Benito Pizzamano-Inzaghi,83758,Cuneo,Vicolo Interminelli,29,Italia
+1971,10,42,Alessandra Capecchi,96912,Cuneo,Piazza Mariana,4,Italia
+1972,9,9,Luciana Bianchi,10111,Livorno,Borgo Gotti,143,Italia
+1973,2,31,Sylvia Federico,19501,Medio Campidano,Strada Maura,140,Italia
+1974,24,3,Dott. Donna Cadorna,73516,Treviso,Via Bertoli,193,Italia
+1975,13,17,Gabriella Altera,38686,Catanzaro,Vicolo Travia,15,Italia
+1976,15,30,Dott. Viridiana Muratori,34852,Pescara,Rotonda Galuppi,49,Italia
+1977,17,50,Rosa Galeati,49703,Torino,Contrada Borzomì,139,Italia
+1978,10,6,Isa Benedetti,93498,Terni,Incrocio Gravina,14,Italia
+1979,14,9,Atenulf Ricolfi,71938,Livorno,Via Cremonesi,147,Italia
+1980,16,22,Nedda Natta,59372,Lodi,Contrada Vincenza,60,Italia
+1981,21,13,Bettina Fornaciari-Roccabonella,96099,Salerno,Incrocio Arnulfo,44,Italia
+1982,19,32,Raffaella Galilei,75936,Ragusa,Rotonda Traversa,107,Italia
+1983,25,27,Giuliana Mattarella,41330,Siena,Via Raimondo,116,Italia
+1984,10,30,Dott. Filippo Goldoni,67436,Campobasso,Via Cociarelli,84,Italia
+1985,19,38,Ruggero Costalonga,14832,Matera,Via Sanudo,160,Italia
+1986,4,26,Teresa Burcardo,48201,Prato,Canale Inzaghi,194,Italia
+1987,14,42,Giuseppe Agazzi,62453,Cremona,Rotonda Concetta,200,Italia
+1988,3,38,Gioachino Galuppi,24821,Rieti,Rotonda Beppe,45,Italia
+1989,24,19,Gemma Carli,97983,Messina,Strada Zaguri,52,Italia
+1990,2,24,Griselda Gaiatto,28857,Lucca,Via Romana,165,Italia
+1991,15,21,Erika Ferrara-Casagrande,37699,Reggio Emilia,Viale Catenazzi,47,Italia
+1992,12,39,Vincentio Goldoni,64437,Firenze,Rotonda Mattia,133,Italia
+1993,7,14,Leone Morrocco,57242,Carbonia-Iglesias,Canale Pacillo,157,Italia
+1994,18,17,Sante Vento,97587,Enna,Strada Boiardo,146,Italia
+1995,11,24,Flora Condoleo,21890,Aosta,Canale Uberto,47,Italia
+1996,25,12,Rita Cabibbo,95366,Reggio Calabria,Contrada Arturo,21,Italia
+1997,20,21,Nico Borgia,12908,Napoli,Contrada Ruggieri,135,Italia
+1998,13,39,Giacinto Tarantino-Bompiani,57796,Terni,Stretto Angiolello,94,Italia
+1999,22,49,Mirco Gritti-Nadi,77162,Agrigento,Contrada Griselda,112,Italia
+2000,23,16,Francesca Maggioli,76121,Padova,Canale Spanevello,186,Italia

@@ -1,0 +1,26 @@
+id_mercato,nome,tipo
+1,Abruzzo,Regione
+2,Basilicata,Regione
+3,Calabria,Regione
+4,Campania,Regione
+5,Emilia-Romagna,Regione
+6,Friuli-Venezia Giulia,Regione
+7,Lazio,Regione
+8,Liguria,Regione
+9,Lombardia,Regione
+10,Marche,Regione
+11,Molise,Regione
+12,Piemonte,Regione
+13,Puglia,Regione
+14,Sardegna,Regione
+15,Sicilia,Regione
+16,Toscana,Regione
+17,Trentino-Alto Adige,Regione
+18,Umbria,Regione
+19,Valle d'Aosta,Regione
+20,Veneto,Regione
+21,nord-ovest,Macrozona
+22,nord-est,Macrozona
+23,centro,Macrozona
+24,sud,Macrozona
+25,isole,Macrozona
