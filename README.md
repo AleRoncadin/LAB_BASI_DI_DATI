@@ -1,8 +1,8 @@
-# Progetto Basi di Dati — Azienda Alimentare di Carni
+# Progetto Basi di Dati - Azienda Alimentare di Carni
 
 Questo progetto universitario affronta la **progettazione di una base di dati** per supportare la gestione di un’azienda alimentare di carni, con particolare attenzione a mercati, clienti, agenti e capi-area, fornitori, partite di animali, articoli e ordini.
 
-## Descrizione attività:
+## Descrizione attività
 - **Analisi dei requisiti** e definizione dei vincoli di dominio
 - **Modellazione concettuale** con schema ER
 - **Modellazione logica** e traduzione in schema relazionale normalizzato
