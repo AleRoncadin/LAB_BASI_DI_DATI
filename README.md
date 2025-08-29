@@ -2,7 +2,7 @@
 
 Questo progetto universitario affronta la **progettazione di una base di dati** per supportare la gestione di un’azienda alimentare di carni, con particolare attenzione a mercati, clienti, agenti e capi-area, fornitori, partite di animali, articoli e ordini.
 
-Nel lavoro sono state svolte le seguenti attività:
+## Descrizione attività:
 - **Analisi dei requisiti** e definizione dei vincoli di dominio
 - **Modellazione concettuale** con schema ER
 - **Modellazione logica** e traduzione in schema relazionale normalizzato
@@ -13,3 +13,9 @@ Nel lavoro sono state svolte le seguenti attività:
 
 📄 La documentazione completa è disponibile nella relazione ufficiale redatta da **Roncadin, Schiavoni, Pavan e De Matteis**:  
 [RELAZIONE_RONCADIN_SCHIAVONI_PAVAN_DE_MATTEIS.pdf](RELAZIONE_RONCADIN_SCHIAVONI_PAVAN_DE_MATTEIS.pdf)
+
+## Autori
+- Alessandro Roncadin  
+- Alex Schiavoni  
+- Francesco De Matteis  
+- Matteo Pavan  
