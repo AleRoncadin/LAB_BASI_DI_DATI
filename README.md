@@ -11,5 +11,5 @@ Nel lavoro sono state svolte le seguenti attività:
 - **Script in Python** per automatizzare il caricamento e la manipolazione dei dati
 - **Analisi statistica con R** per esplorare e visualizzare i dati
 
-📄 La documentazione completa è disponibile nella relazione ufficiale:  
+📄 La documentazione completa è disponibile nella relazione ufficiale redatta da **Roncadin, Schiavoni, Pavan e De Matteis**:  
 [RELAZIONE_RONCADIN_SCHIAVONI_PAVAN_DE_MATTEIS.pdf](RELAZIONE_RONCADIN_SCHIAVONI_PAVAN_DE_MATTEIS.pdf)
